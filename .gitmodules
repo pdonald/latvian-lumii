@@ -1,0 +1,6 @@
+[submodule "Latvian"]
+	path = Latvian
+	url = https://github.com/pdonald/latvian
+[submodule "LU MII Morphology/morphology"]
+	path = LU MII Morphology/morphology
+	url = https://github.com/pdonald/morphology

@@ -1,0 +1,4840 @@
+<s>
+Andra	npfsn4	npmsg2	npfsn4	npfsv4	
+Neiburga	npfsn4	v_nis_130ay	
+<s>
+Par	spsan	sppdn	spsan	sp00n	
+malku	ncfsa4	ncmsa1	ncmpg1	ncfsa4	ncfpg4	
+.	zs	zs	
+<s>
+Nevis	ccs	ccs	ccd	
+štukojot	vmnrpt200an	v_nrp_200an	v_npu000000	v_npu000000	v_nrp_100an	v_nrp_300an	v_npu000000	v_nn0_1000n	v_nn0_2000n	v_nn0_3000n	
+,	zc	zc	
+vai	css	css	ccs	ccr	ccd	qs	
+Dievs	npmsn1	ncmsn1	ncmsv1	
+,	zc	zc	
+piemēram	ncmsd1	ncmsd1	
+,	zc	zc	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+vai	ccs	css	ccs	ccr	ccd	qs	
+nav	vmnipii30ay	vcnipii30ay	vgnipii30ay	
+un	ccs	ccs	
+vai	css	css	ccs	ccr	ccd	qs	
+uz	spsay	sppdy	spsay	spsgy	
+lietu	ncmsa3	vmnpdmsapsn	vmnpdmpgpsn	vmnpdfsapsn	vmnpdfpgpsn	vmnc0t100an	ncmsa3	ncmsv3	ncmpg3	ncfsa4	ncfpg4	
+nesavilksies	vmyifi130ay	vmyifi12say	vmyifi130ay	
+,	zc	zc	
+vai	css	css	ccs	ccr	ccd	qs	
+veļa	ncfsn4	ncfsn4	ncfsv4	
+no	spsgy	sppdy	spsgy	
+striķa	ncmsg2	ncmsg2	
+nav	vcnipii30ay	vcnipii30ay	vgnipii30ay	
+nost	r0p	r0p	
+jārauj	vmnd0t100an	vmnd0t100an	
+.	zs	zs	
+<s>
+Ierauties	vmyn0t1000n	vmyn0t1000n	vmyipi12san	vmym0i12san	
+,	zc	zc	
+izbeigties	vmyn0i1000n	vmyn0i1000n	
+.	zs	zs	
+<s>
+Ceļš	ncmsn1	ncmsn1	ncmsv1	
+izdangāts	vmnpdmsnpsn	v_npdmsnpsn	
+,	zc	zc	
+autobuss	ncmsn1	ncmsn1	ncmsv1	
+uz	spsay	sppdy	spsay	spsgy	
+rajona	ncmsg1	ncmsg1	
+centru	ncmsa1	ncmsa1	ncmpg1	
+divreiz	r0q	r0q	
+nedēļā	ncfsl4	ncfsl4	
+,	zc	zc	
+autoveikals	ncmsn1	ncmsn1	ncmsv1	
+vienreiz	r0t	r0t	
+.	zs	zs	
+<s>
+Un	ccs	ccs	
+par	spsan	sppdn	spsan	sp00n	
+Opi	npmsa2	ncmsa2	ncmsv2	
+.	zs	zs	
+<s>
+Pavasaris	ncmsn2	ncmsn2	
+-	zd	zd	
+pērnās	arfpnyp	arfplnp	arfsgyp	arfpnyp	arfpayp	arfpvyp	
+lapas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+jāgrābj	vmnd0t100an	vmnd0t100an	
+,	zc	zc	
+sakņu	ncfpg5	ncfpg5	
+dārzs	ncmsn1	ncmsn1	ncmsv1	
+jāuzrok	vmnd0t100an	vmnd0t100an	
+.	zs	zs	
+<s>
+Veci	ncmsa2	ncmsa2	ncmsv2	afmpnnp	r__	
+meklē	vmnipt22san	vmnipt22san	vmnipt230an	vmnm0t22san	
+.	zs	zs	
+<s>
+Ai	is	
+,	zc	zc	
+muldu	vmnipi31san	ncfsa4	ncfpg4	v_nip_31san	
+.	zs	zs	
+<s>
+Un	ccs	ccs	
+paldies	is	is	
+.	zs	zs	
+<s>
+Ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+fizisku	armsanp	armsanp	armpgnp	arfsanp	arfpgnp	
+darbu	ncmsa1	ncmsa1	ncmpg1	
+varu	vonipt31san	npmpg2	ncfsa4	ncfpg4	ncfpg5	vonipt31san	
+.	zs	zs	
+<s>
+Varbūt	qs	qs	
+jau	r0t	r0t	qs	
+traks	afmsnnp	ncmsn1	ncmsv1	
+,	zc	zc	
+pa	sppdy	sppdy	spsay	spsdy	
+purviem	ncmpd1	ncmpd1	n_mpd1	
+,	zc	zc	
+pa	sppdy	sppdy	spsay	spsdy	
+mežiem	ncmpd1	ncmpd1	
+vazājas	vmyipi230an	v_yip_230an	
+,	zc	zc	
+ko	pi000an	pq000an	pr000an	pi000an	
+var	vonipt330an	vonipt330an	
+zināt	vmnn0t3000n	vmnn0t3000n	vmnipt32pan	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+trakumsērgu	ncfsa4	ncfsa4	ncfpg4	
+briesmīgi	r0c	afmpnnp	r__	
+jāmokās	vmyd0i300an	v_yd0_300an	
+esot	vcnrpii00an	vcnpu000000	vcnrpii00an	vmnpu000000	vmnrpii00an	
+.	zs	zs	
+<s>
+Pats	pg0msnn	pg0msnn	
+esi	vcnipii2san	vcnipii2san	vcnm0ii2san	vmnipii2san	vmnm0ii2san	
+sakruķījis	vmnpdmsnasn	v_npdmsnasn	v_npdmsnasn	v_npdmsnasn	v_nif_130an	v_nif_230an	v_nif_330an	
+.	zs	zs	
+<s>
+Ēd	vmnmpt12san	vmnipt12san	vmnipt130an	vmnm0t12san	
+.	zs	zs	
+<s>
+Sak'	y	
+,	zc	zc	
+zvērs	ncmsn1	ncmsn1	ncmsv1	
+ar'	qs	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+nikns	afmsnnp	afmsnnp	
+?	zs	zs	
+<s>
+Grīdas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+.	zs	zs	
+<s>
+Vēlreiz	r0t	r0t	
+grīda	ncfsn4	ncfsn4	ncfsv4	
+.	zs	zs	
+<s>
+Pa	spsay	sppdy	spsay	spsdy	
+kuru	pq0fsan	vmnipt11san	pq0fpgn	pq0fsan	pr0fpgn	pr0fsan	pi0fpgn	pi0fsan	pq0mpgn	pq0msan	pr0mpgn	pr0msan	pi0mpgn	pi0msan	
+laiku	ncmsa1	ncmsa1	ncmpg1	
+?	zs	zs	
+<s>
+Mēs	pp10pnn	vmnifi130an	pp10pnn	
+par	spsan	sppdn	spsan	sp00n	
+sevi	px000an	px000an	
+,	zc	zc	
+žīdi	ncmpn1	n_mpn1	n_mpv1	n_mpn1	n_mpv1	n_msa2	n_msv2	n_mpn3	n_mpv3	n_fsa5	n_msa5	n_fsa6	a_mpnn_	r__	a_mpnn_	r__	v_nis_12san	v_nip_32san	v_nm0_32san	
+atkal	r0t	ncfsv4	r0t	
+par	spsan	sppdn	spsan	sp00n	
+sevi	px000an	px000an	
+.	zs	zs	
+<s>
+Viņam	pp3msdn	pp3msdn	pd3msdn	
+,	zc	zc	
+redz	is	vmnipt330an	is	
+,	zc	zc	
+Palestīna	npfsn4	npfsn4	
+un	ccs	ccs	
+Izraēla	npfsn4	npfsn4	npfsv4	
+miera	ncmsg1	ncmvg1	
+nedod	vmnipti30ay	vmnipti30ay	
+.	zs	zs	
+<s>
+Man	pp10sdn	pp10sdn	
+laika	ncmsg1	ncmsg1	
+nav	vgnipii30ay	vcnipii30ay	vgnipii30ay	
+.	zs	zs	
+<s>
+Turp	r0p	r0p	
+pa	spsay	sppdy	spsay	spsdy	
+mežu	ncmsa1	ncmsa1	ncmpg1	
+ripināšu	vmnift31san	vmnift31san	
+,	zc	zc	
+atpakaļ	r0p	r0p	
+gar	spsay	ncmsv1	sppdy	spsay	
+jūru	ncfsa4	ncfsa4	ncfpg4	
+.	zs	zs	
+<s>
+Kam	pq000dn	pq000dn	pr000dn	pi000dn	
+man	pp10sdn	pp10sdn	
+viņas	pp3fpnn	pp3fpan	pp3fpnn	pp3fsgn	pd3fsgn	pd3fpnn	pd3fpan	
+,	zc	zc	
+man	pp10sdn	pp10sdn	
+!?	zs	zs	
+<s>
+-	zd	zd	
+Šī	pd3fsnn	pd3fsnn	pd3msgn	
+dzīve	ncfsn5	ncfsn5	ncfsv5	
+,	zc	zc	
+-	zd	zd	
+saka	vmnipt330an	vmnipt330an	
+,	zc	zc	
+-	zd	zd	
+nav	vcnipii30ay	vcnipii30ay	vgnipii30ay	
+priekš	spsgn	sppdy	spsgy	
+manis	pp10sgn	pp10sgn	
+.	zs	zs	
+<s>
+Tikai	qs	qs	
+katrs	pg0msnn	pg0msnn	
+savā	ps0msln	ps0fsln	ps0msln	
+veidā	ncmsl1	ncmsl1	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+laikam	qs	ncmsd1	qs	
+jau	qs	r0t	qs	
+kaut	N/A	vmnn0t1000n	css	qs	
+kas	pi00snn	pq000nn	pr000nn	pi000nn	
+tāds	pd0msnn	pd0msnn	
+purnā	ncmsl1	ncmsl1	
+mums	pp10pdn	pp10pdn	
+rakstīts	vmnpdmsnpsn	vmnpdmsnpsn	
+,	zc	zc	
+lauciniecēm	ncfpd5	n_fpd5	n_mpd5	
+.	zs	zs	
+<s>
+Skaidrs	afmsnnp	afmsnnp	
+?	zs	zs	
+<s>
+Ķerra	ncfsn4	ncfsn4	ncfsv4	
+pa	sppdy	sppdy	spsay	spsdy	
+arumiem	ncmpd1	ncmpd1	
+grūti	r0c	vmnpdmpnpsn	afmpnnp	r__	
+stumjas	vmyipi130an	vmyipi130an	
+.	zs	zs	
+<s>
+Cik	r0q	r0q	css	
+tad	qs	r0t	qs	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+mūsu	pp10pgn	pp10pgn	
+te	r0p	r0p	ccr	qs	
+,	zc	zc	
+ciemā	ncmsl1	ncmsl1	
+,	zc	zc	
+pirms	css	r0t	sppdy	spsgy	css	
+sezona	ncfsn4	ncfsn4	ncfsv4	
+sākusies	vmypdfsnasn	vmypdfsnasn	
+.	zs	zs	
+<s>
+Trīs	mcsfpnv	vmnift130an	vmnipt330an	mcs0p0v	mcsfpav	mcsfplv	mcsfpnv	mcsmpav	mcsmplv	mcsmpnv	
+takas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+te	r0p	r0p	ccr	qs	
+krustojas	vmyipi230an	vmyipi230an	
+-	zd	zd	
+uz	spsay	sppdy	spsay	spsgy	
+jūru	ncfsa4	ncfsa4	ncfpg4	
+,	zc	zc	
+uz	sppdy	sppdy	spsay	spsgy	
+kapiem	ncmpd1	ncmpd1	
+un	ccs	ccs	
+uz	spsay	sppdy	spsay	spsgy	
+manu	ps0fsan	vmnipt31san	ps0fpgn	ps0fsan	ps0mpgn	ps0msan	
+māju	ncfsa4	ncfsa4	ncfpg4	vmnipt11san	vmnist11san	
+.	zs	zs	
+<s>
+N/A	N/A	n_msg1	n_msg1	n_msg2	n_fsn4	n_fsv4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+Pievakarēs	ncfpl5	ncfpl5	
+te	r0p	r0p	ccr	qs	
+parasti	r0t	vmnpdmpnpsn	afmpnnp	r__	r0m	r0t	
+migla	ncfsn4	ncfsn4	ncfsv4	
+,	zc	zc	
+ja	css	css	qs	
+nostājas	vmyipi130an	ncfsg4	ncfpn4	ncfpa4	ncfpv4	vmyipi130an	
+tā	r0m	r0m	pd3fsnn	pd3msgn	ccd	qs	
+pilnīgi	r0c	afmpnnp	r__	r0q	
+mierā	ncmsl1	ncmvl1	
+,	zc	zc	
+ka	css	css	
+ne	qs	ccr	ccd	qs	
+zālīte	ncfsn5	ncfsn5	
+neiečabas	vmyipi330ay	v_yip_330ay	
+zem	sppdy	sppdy	spsgy	
+kājām	ncfpd4	ncfpd4	r0m	
+,	zc	zc	
+dziļi	rpm	afmpnnp	r__	
+ievelk	vmnipt130an	vmnipt130an	
+elpu	ncfsa4	ncfsa4	ncfpg4	
+un	ccs	ccs	
+aiztur	vmnipt330an	ncfsv5	v_nip_330an	
+,	zc	zc	
+lai	css	css	qs	
+nekāda	pi0fsny	pi0fsny	pi0msgy	
+šņākuļošana	ncfsn4	ncfsn4	ncfsv4	ncfsn4	ncfsv4	ncfsn4	ncfsv4	n_msg1	n_msg1	n_fsn4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+vai	ccs	css	ccs	ccr	ccd	qs	
+sēkšana	ncfsn4	ncfsn4	ncfsv4	
+neliecina	vmnipt330ay	vmnipt330ay	
+par	spsan	sppdn	spsan	sp00n	
+paša	pg0msgn	pg0fsan	pg0msgn	
+esamību	ncfsa4	ncfsa4	ncfpg4	
+,	zc	zc	
+un	ccs	ccs	
+šitā	r0m	v_npdmslpsn	v_npdmsgpsy	v_npdfslpsn	v_npdfsnpsy	v_npdfsvpsy	v_npdmslpsn	v_npd_sgpsy	v_npdfslpsn	v_npdfsnpsy	v_npdfsvpsy	v_npdmslpsn	v_npdmsgpsy	v_npdfslpsn	v_npdfsnpsy	v_npdfsvpsy	n_msl1	n_msl1	n_fsl4	n_msl4	a_msln_	a_msgy_	a_fsln_	a_fsny_	a_fsvy_	a_msln_	a_msgy_	a_fsln_	a_fsny_	a_fsvy_	
+vienkārši	r0m	afmpnnp	r__	r0m	
+stāv	vmnipt330an	vmnipt330an	
+un	ccs	ccs	
+redz	vmnipt330an	vmnipt330an	is	
+,	zc	zc	
+un	ccs	ccs	
+vairāk	rcq	rcq	
+neko	pi0msay	pi0msay	
+,	zc	zc	
+un	ccs	ccs	
+dzird	vmnipt330an	vmnipt330an	
+,	zc	zc	
+un	ccs	ccs	
+skatās	vmyipt330an	vmyipi330an	vmyipt330an	
+kādas	pi0fpnn	pi0fpan	pi0fpnn	pi0fsgn	pq0fpan	pq0fpnn	pq0fsgn	pr0fpan	pr0fpnn	pr0fsgn	
+minūtes	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+trīs	mcsfpnv	vmnift130an	vmnipt330an	mcs0p0v	mcsfpav	mcsfplv	mcsfpnv	mcsmpav	mcsmplv	mcsmpnv	
+vai	ccs	css	ccs	ccr	ccd	qs	
+piecas	mcsfpnv	mcsfpnv	mcsfpav	
+,	zc	zc	
+tad	r0t	r0t	qs	
+var	vonipt330an	vonipt330an	
+iztēloties	vmyn0t2000n	vmyn0t2000n	
+,	zc	zc	
+kā	r0m	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+būs	vcnifii30an	vcnifii30an	vmnifii30an	
+tad	r0t	r0t	qs	
+,	zc	zc	
+kad	r0t	r0t	
+tevis	pp20sgn	pp20sgn	
+paša	pg0msgn	pg0fsan	pg0msgn	
+vairs	r0t	r0t	
+nebūs	vmnifii30ay	vgnifii30ay	vcnifii30ay	vmnifii30ay	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+es	pp10snn	pp10snn	
+pat	qs	qs	
+klēpī	ncmsl2	ncmsl2	
+iesēdos	vmyisi11san	vmyisi11san	v_yip_31san	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+nekas	pi0msny	pi0msny	
+nesanāca	vmnisi130ay	vmnisi130ay	
+.	zs	zs	
+<s>
+Tavs	ps0msnn	ps0msnn	
+.	zs	zs	
+<s>
+Ņurd	vmnipt330an	vmnipt330an	
+kaut	qs	vmnn0t1000n	css	qs	
+ko	pi000an	pq000an	pr000an	pi000an	
+miegā	ncmsl1	ncmsl1	
+.	zs	zs	
+<s>
+Makaroni	ncmpn1	n_mdn1	n_mdv1	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+šampis	ncmsn2	n_msn2	n_fpn6	n_fpa6	n_fpv6	v_npdmsnasn	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+labs	afmsnnp	afmsnnp	
+,	zc	zc	
+salds	afmsnnp	afmsnnp	
+,	zc	zc	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+katru	pg0msan	pg0fsan	pg0msan	
+malku	ncmsa1	ncmsa1	ncmpg1	ncfsa4	ncfpg4	
+kļūst	vtnipi130an	vtnipi130an	
+feināk	rcm	
+.	zs	zs	
+<s>
+Studiju	ncfsa4	ncfsa4	ncfpg4	
+gados	ncmpl1	ncmpl1	veyipi31san	
+es	pp10snn	pp10snn	
+,	zc	zc	
+muļķe	ncfsn5	n_fsn5	n_fsv5	n_msn5	n_msv5	
+tāda	pd0fsnn	pd0fsnn	pd0msgn	
+,	zc	zc	
+biju	vcnisii1san	vcnisii1san	vmnisii1san	
+sasapņojusies	vmypdfpnasn	v_ypdfsnasn	v_ypdfsnasn	v_ypdfsnasn	v_yif_12san	v_yif_130an	v_yif_22san	v_yif_230an	v_yif_32san	v_yif_330an	v_yip_12san	v_ym0_12san	v_yis_12san	v_ypdmsnasn	v_yip_32san	v_ym0_32san	v_nif_130an	v_nif_230an	v_nif_330an	
+,	zc	zc	
+ka	css	css	
+reiz	r0t	r0t	
+atvedīšu	vmnift11san	vmnift11san	
+šurp	r0p	r0p	
+kursa	ncmsg1	ncmsg1	
+biedrus	ncmpa1	ncmpa1	
+.	zs	zs	
+<s>
+Un	ccs	ccs	
+sarunas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+par	spsan	sppdn	spsan	sp00n	
+dzeju	ncfsa4	ncfsa4	ncfpg4	
+,	zc	zc	
+par	spsan	sppdn	spsan	sp00n	
+literatūru	ncfsa4	ncfsa4	ncfpg4	
+,	zc	zc	
+par	spsan	sppdn	spsan	sp00n	
+...	zs	zs	
+nūjā	qs	ncfsl4	
+,	zc	zc	
+par	spsan	sppdn	spsan	sp00n	
+to	pd3msan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+pašu	pg0msan	ncfpg5	pg0fpgn	pg0mpgn	pg0msan	
+.	zs	zs	
+<s>
+Zinu	vmnipt31san	npfsa4	npfpg4	vmnipt31san	
+es	pp10snn	pp10snn	
+tādu	pd0msan	pd0fpgn	pd0fsan	pd0mpgn	pd0msan	
+vārdu	ncmsa1	ncmsa1	ncmpg1	
+,	zc	zc	
+zinu	vmnipt31san	npfsa4	npfpg4	vmnipt31san	
+,	zc	zc	
+ne	qs	ccr	ccd	qs	
+velti	r0m	vmnpdmpnpsn	ncfsa5	vmnipt32san	vmnm0t32san	r0m	
+esmu	vcnipii1san	vcnipii1san	vmnipii1san	
+skolā	ncfsl4	ncfsl4	
+gājusi	vmnpdfsnasn	vmnpdfsnasn	vmnpdfsnasn	
+.	zs	zs	
+<s>
+Nemāžojos	vmyipi21say	vmyipi21say	vmyisi21say	
+.	zs	zs	
+<s>
+Auksti	rpm	afmpnnp	r__	
+.	zs	zs	
+<s>
+Baznīcas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+jumts	ncmsn1	vmnpdmsnpsn	ncmsn1	ncmsv1	
+,	zc	zc	
+nosegts	vmnpdmsnpsn	vmnpdmsnpsn	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+skārdu	ncmsa1	ncmsa1	ncmpg1	
+un	ccs	ccs	
+nokrāsots	vmnpdmsnpsn	vmnpdmsnpsn	
+baltā	affslnp	afmslnp	afmsgyp	affslnp	affsnyp	affsvyp	
+krāsā	ncfsl4	ncfsl4	
+,	zc	zc	
+spilgti	r0c	afmpnnp	r__	
+izceļas	vmyipt130an	vmyipt130an	
+pret	sppdy	sppdy	spsay	
+debesīm	ncfpd6	ncfdd6	ncfpd6	
+.	zs	zs	
+<s>
+Kā	css	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+piedzērušies	vmypdmpnapn	v_ypdmpnasn	v_yis_12san	v_ypdmsnasn	v_yip_32san	v_ym0_32san	v_nif_130an	v_nif_230an	v_nif_330an	
+tie	pd3mpnn	pd3mpnn	
+putni	ncmpn1	ncmpn1	ncmpv1	
+.	zs	zs	
+<s>
+Slapjākās	affplnc	affplnc	affsgyc	affpnyc	affpayc	affpvyc	
+vietās	ncfpl4	ncfpl4	
+,	zc	zc	
+par	spsan	sppdn	spsan	sp00n	
+laimi	ncfsa5	n_mpn1	n_mpv1	ncfsa5	
+,	zc	zc	
+kāds	pi0msnn	pi0msnn	pq0msnn	pr0msnn	
+sametis	vmnpdmsnasn	vmnpdmsnasn	
+dēļus	ncmpa2	ncmpa2	
+,	zc	zc	
+jātrāpa	vmnd0t300an	vmnd0t300an	
+tik	qs	ncmsv1	r0q	qs	is	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+ķerras	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+riteni	ncmsa2	ncmsa2	ncmsv2	
+virsū	r0p	n_msl3	rrp	
+.	zs	zs	
+<s>
+Kuru	pq0msan	vmnipt11san	pq0fpgn	pq0fsan	pr0fpgn	pr0fsan	pi0fpgn	pi0fsan	pq0mpgn	pq0msan	pr0mpgn	pr0msan	pi0mpgn	pi0msan	
+katru	pg0msan	pg0fsan	pg0msan	
+brīdi	ncmsa2	ncmsa2	ncmsv2	
+tāda	pd0fsnn	pd0fsnn	pd0msgn	
+ragana	ncfsn4	ncfsn4	ncfsv4	
+,	zc	zc	
+ļauni	r0c	afmpnnp	r__	
+čāpstinādama	vmnppfsnap0	vmnppfsnap0	
+,	zc	zc	
+garo	afmsayp	afmsayp	afmpgyp	affsayp	affpgyp	vmnipt22san	vmnipt230an	vmnm0t22san	
+degunu	ncmsa1	ncmsa1	ncmpg1	
+šņaukādama	vmnppfsnap0	v_nppfsnap0	
+,	zc	zc	
+varēja	vonist330an	vonist330an	
+parādīties	vmyn0i3000n	v_yn0_3000n	
+un	ccs	ccs	
+vecās	affplnp	affplnp	affsgyp	affpnyp	affpayp	affpvyp	
+lūku	ncmpg1	ncmdg1	ncfsa4	ncfpg4	
+vīzēs	ncfpl5	ncfpl5	
+autām	vmnpdfpdpsn	v_npdfpdpsn	v_npdfpdpsn	v_npdfpdpsn	n_fpd4	n_mpd4	a_fpdn_	a_fpdn_	v_nis_11pan	v_nip_31pan	v_npu000000	
+kājām	ncfpd4	ncfpd4	r0m	
+,	zc	zc	
+purva	ncmsg1	ncmsg1	n_msg1	
+virsmu	ncfsa4	ncfsa4	ncfpg4	
+pat	qs	qs	
+nesaviļņojot	vmnpu000000	vmnrpt200ay	vmnpu000000	
+,	zc	zc	
+aiztuntuļot	vmnn0t2000n	vmnn0t2000n	
+savās	ps0fpln	ps0fpln	
+raganas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+darīšanās	ncfpl4	ncfpl4	ncfsnr	ncfsgr	ncfpnr	ncfpar	
+.	zs	zs	
+<s>
+No	sppdy	sppdy	spsgy	
+mēbelēm	ncfpd5	ncfpd5	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+tumsā	ncfsl4	ncfsl4	
+kustējās	vmyisi330an	v_yis_330an	
+un	ccs	ccs	
+dzīvoja	vmnist230an	vmnist230an	
+savu	ps0fsan	ps0fpgn	ps0fsan	ps0mpgn	ps0msan	
+dzīvi	ncfsa5	ncfsa5	afmpnnp	r__	
+.	zs	zs	
+<s>
+Un	ccs	ccs	
+neko	pi0msay	pi0msay	
+nevar	vonipt330ay	vonipt330an	
+paturēt	vmnn0t3000n	v_nn0_3000n	
+.	zs	zs	
+<s>
+Miris	vmnpdmsnasn	vmnpdmsnasn	
+?	zs	zs	
+?	zs	zs	
+<s>
+-	zd	zd	
+Liela	affsnnp	ncmsg1	afmsgnp	affsnnp	vmnipt330an	
+rinda	ncfsn4	ncfsn4	ncfsv4	
+pie	spsgy	sppdy	spsgy	
+veikala	ncmsg1	ncmsg1	
+.	zs	zs	
+<s>
+Un	ccs	ccs	
+grūti	r0m	vmnpdmpnpsn	afmpnnp	r__	
+atstumt	vmnn0t1000n	vmnn0t1000n	
+.	zs	zs	
+<s>
+-	zd	zd	
+Man	pp10sdn	pp10sdn	
+arī	qs	ccs	qs	
+.	zs	zs	
+<s>
+Bāla	affsnnp	afmsgnp	affsnnp	
+,	zc	zc	
+nervoza	affsnnp	afmsgnp	affsnnp	
+.	zs	zs	
+<s>
+Un	ccs	ccs	
+viņai	pp3fsdn	pp3fsdn	pd3fsdn	
+nebija	vgnisii30ay	vcnisii30ay	vgnisii30ay	vmnisii30ay	
+somas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+.	zs	zs	
+<s>
+Atbilde	ncfsn5	ncfsn5	ncfsv5	
+bija	vcnisii30an	vcnisii30an	vmnisii30an	
+drīzāk	r0t	rc_	r0t	
+vienaldzīga	affsnnp	afmsgnp	affsnnp	
+nekā	css	r0m	pi0msgy	css	qs	
+nelaipna	affsnnp	afmsgnp	affsnnp	
+,	zc	zc	
+viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+tikai	qs	qs	
+atzina	vmnist130an	vmnist130an	
+faktu	ncmsa1	ncmsa1	ncmpg1	
+,	zc	zc	
+-	zd	zd	
+jā	qs	qs	
+-	zd	zd	
+un	ccs	ccs	
+pat	qs	qs	
+nepaskatījās	vmyist330ay	vmyist330ay	
+uz	spsay	sppdy	spsay	spsgy	
+mani	pp10san	vmnipt32san	vmnm0t32san	pp10san	ps0mpnn	
+.	zs	zs	
+<s>
+Dažas	pi0fpnn	pi0fpan	pi0fpln	pi0fpnn	pi0fsgn	
+slapjas	affpnnp	affsgnp	affpnnp	affpanp	
+kažoka	ncmsg1	ncmsg1	
+spalvas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+bija	vcnisii30an	vcnisii30an	vmnisii30an	
+pielipušas	vmnpdfpnasn	vmnpdfsgasn	vmnpdfpnasn	vmnpdfpaasn	
+viņai	pp3fsdn	pp3fsdn	pd3fsdn	
+pie	sppdy	sppdy	spsgy	
+pirkstiem	ncmpd1	ncmpd1	
+un	ccs	ccs	
+nonāca	vmnisi130an	vmnisi130an	
+mutē	ncfsl5	ncfsl5	v_nipt22san	v_nipt230an	v_nm0t22san	
+,	zc	zc	
+paņēmusi	vmnpdfsnasn	vmnpdfsnasn	
+cigareti	ncfsa5	ncfsa5	
+kreisajā	affslyp	afmslyp	affslyp	
+rokā	ncfsl4	ncfsl4	
+,	zc	zc	
+viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+labo	afmsayp	afmsayp	afmpgyp	affsayp	affpgyp	vmnipt22san	vmnipt230an	vmnm0t22san	
+pūlējās	voyisi330an	vmyisi230an	v_yis_330an	
+noņemt	vmnn0t1000n	vmnn0t1000n	
+no	spsgy	sppdy	spsgy	
+mēles	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+neredzamos	vmnpdmpappy	vmnpdmplppn	vmnpdmpappy	
+matiņus	ncmpa1	ncmpa1	
+.	zs	zs	
+<s>
+Es	pp10snn	pp10snn	
+pasūtīju	vmnist31san	vmnist31san	
+tikai	qs	qs	
+tēju	ncfsa4	ncfsa4	ncfpg4	
+.	zs	zs	
+<s>
+Un	ccs	ccs	
+šī	pd3fsnn	pd3fsnn	pd3msgn	
+vieta	ncfsn4	ncfsn4	ncfsv4	
+bija	vcnisii30an	vcnisii30an	vmnisii30an	
+laba	affsnnp	afmsgnp	affsnnp	
+diezgan	r0q	r0q	
+,	zc	zc	
+lai	css	css	qs	
+pavērotu	vmnc0t200an	vmnpdmsapsn	vmnpdmpgpsn	vmnpdfsapsn	vmnpdfpgpsn	vmnc0t200an	
+cilvēkus	ncmpa1	ncmpa1	
+,	zc	zc	
+kādus	pr0mpan	pi0mpan	pq0mpan	pr0mpan	
+es	pp10snn	pp10snn	
+vairs	r0t	r0t	
+nepazinu	vmnist11say	vmnist11say	
+savā	ps0fsln	ps0fsln	ps0msln	
+ikdienā	ncfsl4	ncfsl4	
+-	zd	zd	
+tajā	pd3fsln	pd3fsln	pd3msln	
+šaurajā	affslyp	afmslyp	affslyp	
+vidē	ncfsl5	n_fsl5	
+,	zc	zc	
+kur	r0p	vmnipt12san	vmnipt130an	vmnm0t12san	r0p	
+visi	pg0mpnn	ncmpn1	ncmpv1	pg0mpnn	
+likās	vmyisi130an	vmyisi130an	
+no	spsgy	sppdy	spsgy	
+vienas	mcsfsgv	mcsfsgv	mcsfpnv	mcsfpav	
+planētas	ncfsg4	vmnpdfsgpsn	vmnpdfpnpsn	vmnpdfpapsn	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+esam	vmnpu000000	vcnipii1pan	vcnpu000000	vmnipii1pan	vmnpu000000	
+,	zc	zc	
+kur	r0p	vmnipt12san	vmnipt130an	vmnm0t12san	r0p	
+nesmird	vmnipi330ay	vmnipi330ay	
+,	zc	zc	
+bet	ccs	ccs	ccd	
+smaržo	vmnipi230an	vmnipi22san	vmnipi230an	vmnm0i22san	
+-	zd	zd	
+pat	qs	qs	
+tualetēs	ncfpl5	ncfpl5	
+un	ccs	ccs	
+mīlas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	vmyipi330an	
+gultās	ncfpl4	ncfpl4	
+,	zc	zc	
+kur	r0p	vmnipt12san	vmnipt130an	vmnm0t12san	r0p	
+visi	pg0mpnn	ncmpn1	ncmpv1	pg0mpnn	
+slīd	vmnipi330an	vmnipi330an	
+viens	mcsmsnv	mcsmsnv	
+otram	mcsmsdv	mcsmsd_	
+pāri	rrp	n_mdn1	n_mdv1	ncmsa2	ncmsv2	ncmpn2	ncmpv2	rrp	spsdy	sppdy	
+un	ccs	ccs	
+garām	rrp	affpdnp	rrp	
+,	zc	zc	
+nesaskaroties	vmypu000000	vmypu000000	vmyrpi100ay	
+un	ccs	ccs	
+neaizskarot	vmnpu000000	vmnpu000000	vmnrpt100ay	
+,	zc	zc	
+lieto	vmnipt230an	vmnpdmsapsy	vmnpdmpgpsy	vmnpdfsapsy	vmnpdfpgpsy	vmnipt22san	vmnipt230an	vmnm0t22san	
+daudz	rpq	rpq	
+skanīgu	afmpgnp	afmsanp	afmpgnp	affsanp	affpgnp	
+vārdu	ncmpg1	ncmsa1	ncmpg1	
+,	zc	zc	
+viens	mcsmsnv	mcsmsnv	
+otra	mcsmsgv	mcsmsg_	mcsfsn_	
+tumšajos	afmplyp	afmplyp	
+kambaros	ncmpl2	ncmpl2	
+nelienot	vmnpu000000	vmnpu000000	vmnrpi100ay	
+.	zs	zs	
+<s>
+Bārmenis	ncmsn2	n_msn2	n_fpn6	n_fpa6	n_fpv6	v_npdmsnasn	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+kā	css	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+uzlaizīt	vmnn0t3000n	vmnn0t3000n	
+uzlaizīja	vmnist330an	vmnist330an	
+.	zs	zs	
+<s>
+Viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+vairs	r0t	r0t	
+nemedīja	vmnist230ay	vmnist230ay	
+vīrieša	ncmsg2	ncmsg2	
+skatienu	ncmsa1	ncmsa1	ncmpg1	
+,	zc	zc	
+galvu	ncfsa4	ncfsa4	ncfpg4	
+nodūrusi	vmnpdfsnasn	vmnpdfsnasn	
+,	zc	zc	
+vērās	vmyisi130an	vmyisi130an	
+galdā	ncmsl1	ncmsl1	
+,	zc	zc	
+kaut	qs	vmnn0t1000n	css	qs	
+ko	pi000an	pq000an	pr000an	pi000an	
+zīmēja	vmnist230an	vmnist230an	
+uz	spsgy	sppdy	spsay	spsgy	
+tā	pd3msgn	r0m	pd3fsnn	pd3msgn	ccd	qs	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+pirkstu	ncmsa1	ncmsa1	ncmpg1	
+,	zc	zc	
+mati	ncmpn1	ncmpn1	ncmpv1	v_nip_32san	v_nm0_32san	
+sakrituši	vmnpdmpnasn	vmnpdmpnasn	
+uz	sppdy	sppdy	spsay	spsgy	
+acīm	ncfpd6	ncfpd6	
+,	zc	zc	
+un	ccs	ccs	
+ik	qs	qs	
+pa	spsdy	sppdy	spsay	spsdy	
+brīdim	ncmsd2	ncmsd2	
+viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+tos	pd3mpan	pd3mpan	
+atglauda	vmnist130an	vmnist130an	vmnipt330an	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+kreiso	affsayp	afmsayp	afmpgyp	affsayp	affpgyp	
+roku	ncfsa4	ncfsa4	ncfpg4	vmnipt11san	
+,	zc	zc	
+uzmezdama	vmnppfsnap0	vmnppfsnap0	
+ātru	afmsanp	afmsanp	afmpgnp	affsanp	affpgnp	
+un	ccs	ccs	
+zaglīgu	afmsanp	afmsanp	afmpgnp	affsanp	affpgnp	
+skatu	ncmsa1	ncmsa1	ncmpg1	ncfpg5	vmnipt31san	
+vīrietim	ncmsd2	ncmsd2	
+,	zc	zc	
+kamēr	css	css	
+labā	affsnyp	afmslnp	afmsgyp	affslnp	affsnyp	affsvyp	r0m	
+nebeidza	vpnist130ay	vmnist130ay	vpnist130ay	
+vilkt	vmnn0t1000n	vmnn0t1000n	
+apļus	ncmpa2	ncmpa2	
+un	ccs	ccs	
+kvadrātus	ncmpa1	ncmpa1	
+,	zc	zc	
+apļus	ncmpa2	ncmpa2	
+un	ccs	ccs	
+kvadrātus	ncmpa1	ncmpa1	
+,	zc	zc	
+un	ccs	ccs	
+brīžam	r0t	n_msd1	n_msd1	n_msd4	a_msdn_	a_msdn_	v_nip_11pan	v_npu000000	v_nip_31pan	v_npu000000	
+sirdis	ncfpa6	ncfpn6	ncfpa6	ncfpv6	
+,	zc	zc	
+un	ccs	ccs	
+mute	ncfsn5	ncfsn5	ncfsv5	
+nebeidza	vpnist130ay	vmnist130ay	vpnist130ay	
+runāt	vmnn0t2000n	vmnn0t2000n	
+,	zc	zc	
+runāt	vmnn0t2000n	vmnn0t2000n	
+un	ccs	ccs	
+runāt	vmnn0t2000n	vmnn0t2000n	
+.	zs	zs	
+<s>
+Tomēr	qs	ccs	qs	
+meitene	ncfsn5	ncfsn5	ncfsv5	
+uzreiz	r0t	r0t	
+kļuva	vtnisi130an	vtnisi130an	
+pielaidīgāka	affsnnc	afmsgnc	affsnnc	
+.	zs	zs	
+<s>
+-	zd	zd	
+Redzi	vmnipt32san	ncfsa5	vmnipt32san	vmnm0t32san	
+?	zs	zs	
+<s>
+Sieviete	ncfsn5	ncfsn5	ncfsv5	
+galdam	ncmsd1	ncmsd1	
+pārliekusies	vmypdfsnasn	vmypdfsnasn	
+,	zc	zc	
+lai	css	css	qs	
+būtu	vmnc0ii00an	vcnc0ii00an	vmnc0ii00an	
+pēc	spsgy	sppdy	spsgy	stpgy	stsgy	
+iespējas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+tuvāk	rcp	rc_	
+vīrietim	ncmsd2	ncmsd2	
+,	zc	zc	
+vaigi	ncmpn1	ncmpn1	ncmpv1	
+sasārtuši	vmypdmpnasn	v_npdmpnasn	v_nis_12san	v_nip_32san	v_nm0_32san	
+,	zc	zc	
+acis	ncfpn6	ncfpn6	ncfpa6	ncfpv6	
+mirdz	vmnipi330an	vmnipi330an	
+.	zs	zs	
+<s>
+Kažoku	ncmsa1	ncmsa1	ncmpg1	
+negribi	vonipt32say	vonipt32say	vonm0t32say	
+novilkt	vmnn0t1000n	vmnn0t1000n	
+?	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+viņš	pp3msnn	pp3msnn	pd3msnn	
+man	pp10sdn	pp10sdn	
+darbu	ncmsa1	ncmsa1	ncmpg1	
+dod	vmnipti30an	vmnipti30an	
+.	zs	zs	
+<s>
+-	zd	zd	
+Aha	is	qs	is	
+.	zs	zs	
+<s>
+Man	pp10sdn	pp10sdn	
+jau	r0t	r0t	qs	
+sen	r0t	r0t	
+likās	vmyisi130an	vmyisi130an	
+,	zc	zc	
+ka	css	css	
+es	pp10snn	pp10snn	
+zinu	vmnipt31san	npfsa4	npfpg4	vmnipt31san	
+par	spsan	sppdn	spsan	sp00n	
+dzīvi	ncfsa5	ncfsa5	afmpnnp	r__	
+visu	pg0msan	ncmsa1	ncmpg1	pg0fpgn	pg0fsan	pg0mpgn	pg0msan	pg0msgn	
+,	zc	zc	
+izņemot	vmnn0t2000n	vmnn0t2000n	
+pašu	pg0msan	ncfpg5	pg0fpgn	pg0mpgn	pg0msan	
+galveno	armsayp	armsayp	armpgyp	arfsayp	arfpgyp	
+.	zs	zs	
+<s>
+Tēvs	ncmsn1	ncmsn1	ncmsv1	
+zinājis	vmnpdmsnasn	vmnpdmsnasn	
+,	zc	zc	
+ka	css	css	
+drīz	r0t	r0t	
+mirs	vmnifi130an	vmnifi130an	
+.	zs	zs	
+<s>
+-	zd	zd	
+Kas	pq000nn	pq000nn	pr000nn	pi000nn	
+?	zs	zs	
+<s>
+-	zd	zd	
+Bet	ccs	ccs	ccd	
+es	pp10snn	pp10snn	
+taču	qs	ncmpg2	ccs	qs	
+stāstu	vmnipt31san	ncmsa1	ncmpg1	vmnipt31san	
+tev	pp20sdn	pp20sdn	
+!	zs	zs	
+-	zd	zd	
+Sanī	np___0	np___0	
+drusku	r0q	ncfsa4	ncfpg4	r0q	
+sadusmota	vmnpdfsnpsn	vmnpdmsgpsn	vmnpdfsnpsn	
+atcirta	vmnist130an	vmnist130an	
+.	zs	zs	
+<s>
+Es	pp10snn	pp10snn	
+biju	vcnisii1san	vcnisii1san	vmnisii1san	
+.	zs	zs	
+<s>
+-	zd	zd	
+Pilnīgi	r0q	afmpnnp	r__	r0q	
+visu	pg0msan	ncmsa1	ncmpg1	pg0fpgn	pg0fsan	pg0mpgn	pg0msan	pg0msgn	
+.	zs	zs	
+<s>
+Mazliet	r0q	r0q	
+sāka	vpnist130an	vmnist130an	vpnist130an	
+sāpēt	vmnn0i3000n	v_nn0_3000n	
+galva	ncfsn4	ncfsn4	ncfsv4	
+.	zs	zs	
+<s>
+Un	ccs	ccs	
+tu	pp20snn	pp20snn	
+dabūsi	vmnift22san	vmnift22san	
+vēl	r0m	vmnipt330an	r0t	r0m	qs	
+šampanieti	ncmsa2	ncmsa2	ncmsv2	
+.	zs	zs	
+<s>
+Ļoti	r0q	r0q	
+labu	afmsanp	afmsanp	afmpgnp	affsanp	affpgnp	
+šampanieti	ncmsa2	ncmsa2	ncmsv2	
+.	zs	zs	
+<s>
+Sanī	np___0	np___0	
+tas	pd3msnn	pd3msnn	
+nezin	qs	qs	
+kāpēc	r0c	r0c	
+likās	vmyisi130an	vmyisi130an	
+smieklīgi	r0t	afmpnnp	r__	
+.	zs	zs	
+<s>
+-	zd	zd	
+Brauksim	vmnift11pan	vmnift11pan	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+taksi	ncmsa2	ncmsa2	ncmsv2	ncfsa5	
+,	zc	zc	
+-	zd	zd	
+es	pp10snn	pp10snn	
+atbildēju	vmnist31san	vmnist31san	
+.	zs	zs	
+<s>
+Priedēs	ncfpl5	ncfpl5	
+šalca	vmnisi130an	vmnisi130an	
+jūras	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+vējš	ncmsn1	ncmsn1	ncmsv1	
+.	zs	zs	
+<s>
+Pie	spsgy	sppdy	spsgy	
+kamīna	ncmsg1	ncmsg1	
+mēs	pp10pnn	vmnifi130an	pp10pnn	
+dzērām	vmnist11pan	vmnist11pan	
+zaļo	affsayp	afmsayp	afmpgyp	affsayp	affpgyp	vmnipi22san	vmnipi230an	vmnm0i22san	
+tēju	ncfsa4	ncfsa4	ncfpg4	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+domas	ncfpa4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+dara	vmnipt330an	vmnipt330an	
+nesaudzīgi	r0c	afmpnnp	r__	
+skaidras	affpnnp	affsgnp	affpnnp	affpanp	
+,	zc	zc	
+un	ccs	ccs	
+sausu	afmsanp	afmsanp	afmpgnp	affsanp	affpgnp	
+šampanieti	ncmsa2	ncmsa2	ncmsv2	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+prātu	ncmsa1	ncmsa1	ncmpg1	
+ietin	vmnipt130an	vmnipt12san	vmnipt130an	vmnm0t12san	
+sīksīku	armpgnp	n_msa1	n_mpg1	n_msa1	n_mpg1	n_mpg2	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	n_fpg5	n_mpg5	n_fpg6	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+sidrabainu	armpgnp	armsanp	armpgnp	arfsanp	arfpgnp	
+gaisa	ncmsg1	ncmsg1	vmnisi130an	
+burbulīšu	ncmpg2	ncmpg2	
+plīvurā	ncmsl1	ncmsl1	
+,	zc	zc	
+un	ccs	ccs	
+meitenei	ncfsd5	ncfsd5	
+negaršoja	vmnist230ay	vmnist230ay	
+,	zc	zc	
+un	ccs	ccs	
+tad	r0t	r0t	qs	
+es	pp10snn	pp10snn	
+noģērbu	vmnist11san	vmnist11san	
+Sanī	np___0	np___0	
+,	zc	zc	
+viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+apreibusi	vmnpdfsnasn	vmnpdfsnasn	
+ļāvās	vmyist130an	vmyist130an	
+,	zc	zc	
+ķermenis	ncmsn2	ncmsn2	
+šaudīgu	affpgnp	afmsanp	afmpgnp	affsanp	affpgnp	
+liesmu	ncfpg4	npfsa4	ncfsa4	npfpg4	ncfpg4	
+gaismā	ncfsl4	npfsl4	ncfsl4	
+likās	vmyisi130an	vmyisi130an	
+silts	afmsnnp	vmnpdmsnpsn	afmsnnp	
+,	zc	zc	
+tīrs	afmsnnp	afmsnnp	
+un	ccs	ccs	
+nevainīgs	armsnnp	armsnnp	
+,	zc	zc	
+bet	ccs	ccs	ccd	
+drēbes	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+dvakoja	vmnisi230an	v_nis_230an	v_nis_330an	n_msg1	n_msg1	n_msg2	n_fsn4	n_fsv4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+mazliet	r0q	r0q	
+skāņi	rpm	afmpnnp	r__	
+,	zc	zc	
+es	pp10snn	pp10snn	
+aiznesu	vmnist11san	vmnipt11san	vmnist11san	
+tās	pd3fpan	pd3fpan	pd3fpnn	pd3fsgn	
+uz	spsay	sppdy	spsay	spsgy	
+veļas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	vmyipi130an	
+istabu	ncfsa4	ncfsa4	ncfpg4	
+un	ccs	ccs	
+pēc	spsdy	sppdy	spsgy	stpgy	stsgy	
+tam	pd3msdn	pd3msdn	
+viņu	pp3fsan	pp3fpgn	pp3fsan	pp3mpgn	pp3msan	pd3msan	pd3mpgn	pd3fsan	pd3fpgn	
+pašu	pg0fsan	ncfpg5	pg0fpgn	pg0mpgn	pg0msan	
+nomazgāju	vmnist21san	vmnipt21san	vmnist21san	
+dušā	ncfsl4	ncfsl4	
+,	zc	zc	
+un	ccs	ccs	
+viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+smējās	vmyist130an	vmyist130an	
+-	zd	zd	
+smējās	vmyist130an	vmyist130an	
+un	ccs	ccs	
+teica	vmnist130an	vmnist130an	
+,	zc	zc	
+ka	css	css	
+nekad	r0t	r0t	
+nav	vcnipii30ay	vcnipii30ay	vgnipii30ay	
+bijusi	vmnpdfsnasn	vcnpdfsnasn	vmnpdfsnasn	
+tik	r0q	ncmsv1	r0q	qs	is	
+smalkā	affslnp	afmslnp	afmsgyp	affslnp	affsnyp	affsvyp	
+dušā	ncfsl4	ncfsl4	
+,	zc	zc	
+ar	sppdn	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+tādiem	pd0mpdn	pd0mpdn	
+krāniem	ncmpd1	n_mpd1	
+,	zc	zc	
+un	ccs	ccs	
+nekad	r0t	r0t	
+viņu	pp3fsan	pp3fpgn	pp3fsan	pp3mpgn	pp3msan	pd3msan	pd3mpgn	pd3fsan	pd3fpgn	
+nav	vcnipii30ay	vcnipii30ay	vgnipii30ay	
+mazgājusi	vmnpdfsnasn	vmnpdfsnasn	
+sieviete	ncfsn5	ncfsn5	ncfsv5	
+,	zc	zc	
+kopš	spsgn	sppdn	spsgn	css	
+bērnības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+ne	qs	ccr	ccd	qs	
+,	zc	zc	
+kopš	sppdn	sppdn	spsgn	css	
+tiem	pd3mpdn	pd3mpdn	
+laikiem	ncmpd1	ncmpd1	
+,	zc	zc	
+kad	r0t	r0t	
+viņas	pp3fpnn	pp3fpan	pp3fpnn	pp3fsgn	pd3fsgn	pd3fpnn	pd3fpan	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+mammu	ncfsa4	ncfsa4	ncfpg4	
+gāja	vmnisii30an	vmnisii30an	vmnisti30an	
+uz	spsay	sppdy	spsay	spsgy	
+pirti	ncfsa6	ncfsa6	
+,	zc	zc	
+jo	css	css	ccr	qs	
+mājās	ncfpl4	ncfpl4	
+viņām	pp3fpdn	pp3fpdn	pd3fpdn	
+nebija	vgnisii30ay	vcnisii30ay	vgnisii30ay	vmnisii30ay	
+siltā	afmsgyp	vmnpdmslpsn	vmnpdmsgpsy	vmnpdfslpsn	vmnpdfsnpsy	vmnpdfsvpsy	afmslnp	afmsgyp	affslnp	affsnyp	affsvyp	
+ūdens	ncmsg2	ncmsn2	ncmsg2	
+,	zc	zc	
+un	ccs	ccs	
+vēl	r0q	vmnipt330an	r0t	r0m	qs	
+viskautko	pi000an	a_msay_	a_mpgy_	a_fsay_	a_fpgy_	a_msay_	a_mpgy_	a_fsay_	a_fpgy_	
+viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+runāja	vmnist230an	vmnist230an	
+,	zc	zc	
+bet	ccs	ccs	ccd	
+es	pp10snn	pp10snn	
+neklausījos	vmyist31say	vmyist31say	
+,	zc	zc	
+jo	css	css	ccr	qs	
+tie	pd3mpnn	pd3mpnn	
+atkal	r0t	ncfsv4	r0t	
+bija	vcnisii30an	vcnisii30an	vmnisii30an	
+tikai	qs	qs	
+notikumi	ncmpn1	ncmpn1	ncmpv1	
+un	ccs	ccs	
+notikumi	ncmpn1	ncmpn1	ncmpv1	
+,	zc	zc	
+bet	ccs	ccs	ccd	
+būtība	ncfsn4	ncfsn4	ncfsv4	
+,	zc	zc	
+maita	ncfsn4	ncfsn4	ncfsv4	
+,	zc	zc	
+kā	css	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+arvien	r0t	r0t	
+,	zc	zc	
+kā	css	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+vienmēr	r0t	r0t	
+,	zc	zc	
+kā	css	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+allaž	r0t	r0t	
+slīdēja	vmnisi330an	vmnisi330an	
+garām	rrp	affpdnp	rrp	
+-	zd	zd	
+tepat	r0p	r0p	
+blakus	r0p	r0p	sppdy	spsdy	
+un	ccs	ccs	
+tomēr	qs	ccs	qs	
+nenotverama	vmnpdfsnppn	vmnpdmsgppn	vmnpdfsnppn	
+.	zs	zs	
+<s>
+Pirmās	mosfpnv	mosfsgv	mosfpnv	mosfpav	mosfpvv	
+,	zc	zc	
+no	spsgy	sppdy	spsgy	
+Holandes	npfsg5	n_fsg5	n_fpn5	n_fpa5	n_fpv5	
+nākušās	vmnpdfpnasy	vmnpdfplasn	vmnpdfsgasy	vmnpdfpnasy	vmnpdfpaasy	vmnpdfpvasy	vmypdfsgasn	voypdfsgasn	vmypdfpnasn	voypdfpnasn	
+tulpes	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+uz	spsgy	sppdy	spsay	spsgy	
+galda	ncmsg1	ncmsg1	
+,	zc	zc	
+dzeltenas	affpnnp	affsgnp	affpnnp	affpanp	
+kā	css	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+saule	ncfsn5	ncfsn5	ncfsv5	
+.	zs	zs	
+<s>
+Es	pp10snn	pp10snn	
+tevi	pp20san	pp20san	
+piemānīju	vmnist31san	v_nis_31san	
+.	zs	zs	
+<s>
+Kas	pq000nn	pq000nn	pr000nn	pi000nn	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+kas	pq000nn	pq000nn	pr000nn	pi000nn	
+?	zs	zs	
+<s>
+Tu	pp20snn	pp20snn	
+jau	qs	r0t	qs	
+droši vien	qc	qc	
+zini	vmnipt32san	vmnipt32san	vmnm0t32san	
+,	zc	zc	
+ka	css	css	
+Latvijā	npfsl4	npfsl4	
+un	ccs	ccs	
+citur	r0p	r0p	
+pasaulē	ncfsl5	ncfsl5	
+tev	pp20sdn	pp20sdn	
+,	zc	zc	
+taviem	ps0mpdn	ps0mpdn	
+draugiem	ncmpd1	ncmpd1	
+un	ccs	ccs	
+draudzenēm	ncfpd5	ncfpd5	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+pieejamas	vmnpdfpnppn	vmnpdfsgppn	vmnpdfsgppn	vmnpdfpnppn	vmnpdfpnppn	vmnpdfpappn	vmnpdfpappn	
+daudzas	pi0fpnn	pi0fpn_	pi0fpa_	
+vielas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+kā	css	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+,	zc	zc	
+piemēram	ncmsd1	ncmsd1	
+,	zc	zc	
+alkohols	ncmsn1	ncmsn1	ncmsv1	
+,	zc	zc	
+narkotikas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+,	zc	zc	
+cigaretes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+,	zc	zc	
+kuras	pr0fpan	vmyipi130an	vmyipi330an	pq0fpan	pq0fpnn	pq0fsgn	pr0fpan	pr0fpnn	pr0fsgn	pi0fpan	pi0fpnn	pi0fsgn	
+lietojot	vmnpu000000	vmnrpt200an	vmnpu000000	
+,	zc	zc	
+rodas	vmyipi130an	vmyipi130an	
+atkarība	ncfsn4	ncfsn4	
+.	zs	zs	
+<s>
+Sevišķi	r0q	armpnnp	r__	
+bīstama	affsnnp	afmsgnp	affsnnp	
+narkotika	ncfsn4	ncfsn4	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+ļoti	r0q	r0q	
+ātri	rpm	afmpnnp	r__	
+izraisa	vmnipt330an	v_nip_330an	
+spēcīgu	affsanp	afmsanp	afmpgnp	affsanp	affpgnp	
+atkarību	ncfsa4	ncfsa4	ncfpg4	
+.	zs	zs	
+<s>
+Tāpat kā	csc	csc	
+jebkura	pi0fsnn	a_msgnp	a_fsnnp	pi0fsnn	pi0msgn	
+cita	pi0fsnn	pi0fsnn	pi0msgn	
+atkarība	ncfsn4	ncfsn4	
+,	zc	zc	
+alkoholisms	ncmsn1	ncmsn1	ncmsv1	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+slimība	ncfsn4	ncfsn4	ncfsv4	
+,	zc	zc	
+kuru	pr0fsan	vmnipt11san	pq0fpgn	pq0fsan	pr0fpgn	pr0fsan	pi0fpgn	pi0fsan	pq0mpgn	pq0msan	pr0mpgn	pr0msan	pi0mpgn	pi0msan	
+var	vonipt330an	vonipt330an	
+apturēt	vmnn0t3000n	v_nn0_3000n	
+,	zc	zc	
+taču	ccs	ncmpg2	ccs	qs	
+pilnībā	r0q	ncfsl4	r0m	
+to	pd3fsan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+izārstēt	vmnn0t2000n	v_nn0t2000n	
+nav	vcnipii30ay	vcnipii30ay	vgnipii30ay	
+iespējams	armsnnp	armsnnp	
+.	zs	zs	
+<s>
+Prāta	ncmsg1	ncmsg1	
+aptumsums	ncmsn1	ncmsn1	ncmsv1	
+var	vonipt330an	vonipt330an	
+gadīties	veyn0i3000n	veyn0i3000n	
+pat	qs	qs	
+tad	r0t	r0t	qs	
+,	zc	zc	
+kad	r0t	r0t	
+alkoholiķis	ncmsn2	ncmsn2	
+nedzer	vmnipt130ay	vmnipt12say	vmnipt130ay	vmnm0t12say	
+,	zc	zc	
+un	ccs	ccs	
+ilgt	vmnn0i1000n	vmnn0i1000n	
+tiklab	ccc	css	
+piecas	mcsfpnv	mcsfpnv	mcsfpav	
+minūtes	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+kā	ccc	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+veselu	affsanp	afmsanp	afmpgnp	affsanp	affpgnp	
+dienu	ncfsa4	ncfsa4	ncfpg4	vmnipi31san	
+.	zs	zs	
+<s>
+•	xx	xx	
+Var	vonipt330an	vonipt330an	
+izraisīt	vmnn0t3000n	v_nn0_3000n	
+aknu	ncfpg4	n_fdg4	
+vēzi	ncmsa2	ncmsa2	ncmsv2	
+,	zc	zc	
+aknu	ncfpg4	n_fdg4	
+aptaukošanos	ncfsar	ncfsar	ncfpgr	
+,	zc	zc	
+hepatītu	ncmsa1	n_msa1	n_mpg1	
+,	zc	zc	
+cirozi	ncfsa5	n_mpn1	n_mpv1	n_mpn1	n_mpv1	n_msa2	n_msv2	n_mpn3	n_mpv3	n_fsa5	n_msa5	n_fsa6	a_mpnn_	r__	a_mpnn_	r__	v_nis_12san	v_nip_32san	v_nm0_32san	
+un	ccs	ccs	
+citas	pi0fpan	pi0fpan	pi0fpnn	pi0fsgn	
+aknu	ncfpg4	n_fdg4	
+saslimšanas	ncfpa4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+;	zc	zc	
+<s>
+Pastāv	vmnipt330an	vmnipt330an	vmnipi330an	
+liels	afmsnnp	ncmsn1	ncmsv1	afmsnnp	
+spontāno	armpgyp	armsayp	armpgyp	arfsayp	arfpgyp	
+abortu	ncmpg1	ncmsa1	ncmpg1	
+,	zc	zc	
+priekšlaicīgu	arfpgnp	armsanp	armpgnp	arfsanp	arfpgnp	
+dzemdību	ncfpg4	ncfdg4	
+,	zc	zc	
+nedzīva	armsgnp	armsgnp	arfsnnp	
+bērna	ncmsg1	ncmsg1	
+piedzimšanas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+risks	ncmsn1	ncmsn1	ncmsv1	
+,	zc	zc	
+kā arī	ccd	ccd	ccc	
+bērnam	ncmsd1	ncmsd1	
+var	vonipt330an	vonipt330an	
+būt	vmnn0ii000n	vcnn0ii000n	vmnn0ii000n	
+veselībai	ncfsd4	ncfsd4	
+bīstams	afmsnnp	afmsnnp	
+,	zc	zc	
+mazs	afmsnnp	afmsnnp	
+svars	ncmsn1	ncmsn1	ncmsv1	
+;	zc	zc	
+<s>
+•	xx	xx	
+pēc	spsgy	sppdy	spsgy	stpgy	stsgy	
+gada	ncmsg1	ncmsg1	
+-	zd	zd	
+koronāro	arfpgyp	armsayp	armpgyp	arfsayp	arfpgyp	
+slimību	ncfpg4	ncfsa4	ncfpg4	
+risks	ncmsn1	ncmsn1	ncmsv1	
+samazināsies	vmyifi330an	vmyifi32san	vmyifi330an	
+uz	spsay	sppdy	spsay	spsgy	
+pusi	ncfsa5	ncfsa5	
+,	zc	zc	
+salīdzinot	vmnpu000000	vmnrpt300an	vmnpu000000	
+ar	sppdn	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+smēķētājiem	ncmpd1	ncmpd1	
+;	zc	zc	
+<s>
+•	xx	xx	
+ietaupīsies	vmyifi32san	vmyifi32san	vmyifi330an	
+ievērojami	armpnnp	vmnpdmpnppn	armpnnp	r__	
+naudas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+līdzekļi	ncmpn2	ncmpn2	ncmpv2	
+,	zc	zc	
+kurus	pr0mpan	pq0mpan	pr0mpan	pi0mpan	
+iespējams	armsnnp	armsnnp	
+izlietot	vmnn0t2000n	vmnn0t2000n	
+daudz	r0q	rpq	
+vērtīgāk	rcm	rc_	
+.	zs	zs	
+<s>
+Jā	qs	qs	
+!	zs	zs	
+<s>
+Kādēļ	r0c	r0c	
+šīs	pd3fpnn	pd3fpan	pd3fpnn	pd3fsgn	
+nodarbes	ncfpn5	v_nif_130an	v_nif_230an	v_nif_330an	
+izraisa	vonipt330an	v_nip_330an	
+atkarību	ncfsa4	ncfsa4	ncfpg4	
+?	zs	zs	
+<s>
+Lielveikali	ncmpn1	n_mpn1	n_mpv1	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+preču	ncfpg5	ncfpg5	
+pārbagātību	ncfsa4	ncfsa4	ncfpg4	
+,	zc	zc	
+neskaitāmajām	vmnpdfpdppy	vmnpdfpdppy	
+akcijām	ncfpd4	ncfpd4	
+un	ccs	ccs	
+atlaidēm	ncfpd5	ncfpd5	
+sastopami	vmnpdmpnppn	vmnpdmpnppn	
+teju	r0q	n_fsa4	n_fpg4	r0_	
+uz	spsay	sppdy	spsay	spsgy	
+katra	pg0msgn	pg0fsnn	pg0msgn	
+stūra	ncmsg2	ncmsg2	
+,	zc	zc	
+tikai	qs	qs	
+pastiprina	vmnipt330an	vmnipt330an	
+vēlmi	ncfsa5	ncfsa5	
+iepirkties	vmyn0i1000n	vmyn0i1000n	
+.	zs	zs	
+<s>
+Pie	spsgy	sppdy	spsgy	
+ēšanas	ncfsg4	n_fsg4	n_fpn4	n_fpa4	n_fpv4	n_msg4	n_mpn4	n_mpa4	n_mpv4	a_fsgn_	a_fpnn_	a_fpan_	a_fsgn_	a_fpnn_	a_fpan_	v_yip_130an	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	v_yip_330an	
+jeb	ccs	ccs	
+uzvedības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+traucējumiem	ncmpd1	ncmpd1	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+saistīti	vmnpdmpnpsn	vmnpdmpnpsn	n_fsa5	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+ēšanu	ncfsa4	n_msa1	n_mpg1	n_msa1	n_mpg1	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+,	zc	zc	
+var	vonipt330an	vonipt330an	
+pieskaitīt	vmnn0t3000n	v_nn0_3000n	
+tādus	pd0mpan	pd0mpan	
+traucējumus	ncmpa1	ncmpa1	
+,	zc	zc	
+kā	css	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+nervozā	affsnyp	afmslnp	afmsgyp	affslnp	affsnyp	affsvyp	
+(	zb	zb	
+neirogēnā	affsnyp	n_msl1	n_msl1	n_fsl4	n_msl4	a_msln_	a_msgy_	a_fsln_	a_fsny_	a_fsvy_	a_msln_	a_msgy_	a_fsln_	a_fsny_	a_fsvy_	
+)	zb	zb	
+anoreksija	ncfsn4	n_fsn4	
+,	zc	zc	
+nervozā	affsnyp	afmslnp	afmsgyp	affslnp	affsnyp	affsvyp	
+būlīmija	ncfsn4	v_nis_230an	v_nis_330an	n_msg1	n_msg1	n_msg2	n_fsn4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+,	zc	zc	
+izmainīta	vmnpdfsnpsn	v_npdmsgpsn	v_npdfsnpsn	
+apetīte	ncfsn5	ncfsn5	
+.	zs	zs	
+<s>
+•	xx	xx	
+Forsētu	vmnpdmpgpsn	vmnpdmsapsn	vmnpdmpgpsn	vmnpdfsapsn	vmnpdfpgpsn	vmnc0t200an	
+ķermeņa	ncmsg2	ncmsg2	
+masas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+atjaunošanas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+mēģinājumi	ncmpn1	ncmpn1	ncmpv1	
+(	zb	zb	
+zondes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+ievietošana	ncfsn4	ncfsn4	ncfsv4	
+un	ccs	ccs	
+barošana	ncfsn4	ncfsn4	ncfsv4	
+caur	spsay	sppdy	spsay	
+to	pd3fsan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+)	zb	zb	
+var	vonipt330an	vonipt330an	
+novest	vmnn0t1000n	vmnn0t1000n	
+pie	spsgy	sppdy	spsgy	
+sliktāka	afmsgnc	afmsgnc	affsnnc	
+gala	ncmsg1	ncmsg1	
+rezultāta	ncmsg1	ncmsg1	
+-	zd	zd	
+pacients	ncmsn1	ncmsn1	ncmsv1	
+var	vonipt330an	vonipt330an	
+uztvert	vmnn0t1000n	vmnn0t1000n	
+šo	pd3fsan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+procedūru	ncfsa4	ncfsa4	ncfpg4	
+kā	css	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+varmācības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+mēģinājumu	ncmsa1	ncmsa1	ncmpg1	
+.	zs	zs	
+<s>
+Līdzatkarība	ncfsn4	n_msg1	n_msg1	n_fsn4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+,	zc	zc	
+tāpat kā	csc	csc	
+atkarība	ncfsn4	ncfsn4	
+,	zc	zc	
+pamatoti	rpm	vmnpdmpnpsn	
+tiek	vtnipi130an	vtnipi130an	
+uzskatīta	vmnpdfsnpsn	vmnpdmsgpsn	vmnpdfsnpsn	
+par	spsan	sppdn	spsan	sp00n	
+slimību	ncfsa4	ncfsa4	ncfpg4	
+,	zc	zc	
+jo	css	css	ccr	qs	
+tai	pd3fsdn	pd3fsdn	pd3fsln	pd3msln	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+noteiktas	affpnnp	vmnpdfsgpsn	vmnpdfpnpsn	vmnpdfpapsn	affsgnp	affpnnp	affpanp	
+pazīmes	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+,	zc	zc	
+paredzama	vmnpdfsnppn	vmnpdmsgppn	vmnpdfsnppn	
+gaita	ncfsn4	npmsg1	ncfsn4	ncfsv4	
+un	ccs	ccs	
+tā	pd3fsnn	r0m	pd3fsnn	pd3msgn	ccd	qs	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+hroniska	arfsnnp	armsgnp	arfsnnp	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+jāatceras	vmyd0t300an	vmyd0t300an	
+,	zc	zc	
+ka	css	css	
+tas	pd3msnn	pd3msnn	
+nevar	vonipt330ay	vonipt330an	
+turpināties	vmyn0i3000n	vmyn0i3000n	vmyipi32pan	
+bezgalīgi	r0t	armpnnp	r__	
+,	zc	zc	
+līdzatkarīgie	afmpnyp	afmpnyp	afmpvyp	
+bieži	r0q	afmpnnp	r__	r0q	
+"	zq	zq	
+sabrūk	vmnipi130an	vmnipi130an	
+"	zq	zq	
+,	zc	zc	
+sabojā	vmnipt230an	v_nipt22san	v_nipt230an	v_nm0t22san	
+savu	ps0fsan	ps0fpgn	ps0fsan	ps0mpgn	ps0msan	
+veselību	ncfsa4	ncfsa4	ncfpg4	
+vēl	r0t	vmnipt330an	r0t	r0m	qs	
+ātrāk	rct	rc_	
+nekā	css	r0m	pi0msgy	css	qs	
+atkarīgie	afmpnyp	afmpnyp	afmpvyp	
+,	zc	zc	
+jo	css	css	ccr	qs	
+par	sppdn	sppdn	spsan	sp00n	
+līdzatkarīgajiem	afmpdyp	afmpdyp	
+neviens	pg0msny	pi0msny	
+nerūpējas	vmyipi230ay	vmyipi230ay	
+-	zd	zd	
+visi	pg0mpnn	ncmpn1	ncmpv1	pg0mpnn	
+glābj	vmnipt130an	vmnipt130an	
+atkarīgo	afmsayp	afmsayp	afmpgyp	affsayp	affpgyp	
+.	zs	zs	
+<s>
+Līdzatkarība	ncfsn4	n_msg1	n_msg1	n_fsn4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+parasti	r0t	vmnpdmpnpsn	afmpnnp	r__	r0m	r0t	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+tur	r0p	vmnipt330an	r0p	
+,	zc	zc	
+kur	r0p	vmnipt12san	vmnipt130an	vmnm0t12san	r0p	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+kāds	pi0msnn	pi0msnn	pq0msnn	pr0msnn	
+atkarīgais	afmsnyp	afmsnyp	afmsvyp	
+,	zc	zc	
+cilvēks	ncmsn1	ncmsn1	ncmsv1	
+,	zc	zc	
+kurš	pr0msnn	pq0msnn	pr0msnn	pi0msnn	
+lieto	vmnipt230an	vmnpdmsapsy	vmnpdmpgpsy	vmnpdfsapsy	vmnpdfpgpsy	vmnipt22san	vmnipt230an	vmnm0t22san	
+kādas	pi0fpan	pi0fpan	pi0fpnn	pi0fsgn	pq0fpan	pq0fpnn	pq0fsgn	pr0fpan	pr0fpnn	pr0fsgn	
+vielas	ncfpa4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+,	zc	zc	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+atkarīgs	afmsnnp	afmsnnp	
+no	sppdy	sppdy	spsgy	
+azartspēlēm	ncfpd5	n_fpd5	
+,	zc	zc	
+datora	ncmsg1	ncmsg1	
+u. tml.	y	
+,	zc	zc	
+<s>
+Līdzatkarīgs	afmsnnp	afmsnnp	
+cilvēks	ncmsn1	ncmsn1	ncmsv1	
+vienmēr	r0t	r0t	
+zina	vmnipt330an	npfsn4	npfsv4	vmnipt330an	
+,	zc	zc	
+ko	pr000an	pq000an	pr000an	pi000an	
+un	ccs	ccs	
+kā	r0m	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+vajag	vonipt330an	vmnipt330an	
+darīt	vmnn0t3000n	vmnn0t3000n	
+otram	mcsmsdv	mcsmsd_	
+,	zc	zc	
+bet	ccs	ccs	ccd	
+viņam	pp3msdn	pp3msdn	pd3msdn	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+grūti	rpm	vmnpdmpnpsn	afmpnnp	r__	
+atbildēt	vmnn0t3000n	vmnn0t3000n	
+uz	spsay	sppdy	spsay	spsgy	
+jautājumu	ncmsa1	ncmsa1	ncmpg1	
+,	zc	zc	
+ko	pr000an	pq000an	pr000an	pi000an	
+vēlas	voyipt330an	affsgnp	affpnnp	affpanp	voyipt330an	
+un	ccs	ccs	
+kā	r0m	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+jūtas	vmyipt130an	n_fdn4	n_fda4	n_fdv4	vmyipt130an	
+viņš	pp3msnn	pp3msnn	pd3msnn	
+pats	pg0msnn	pg0msnn	
+.	zs	zs	
+<s>
+Līdzatkarīgajam	afmsdyp	afmsdyp	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+raksturīga	affsnnp	afmsgnp	affsnnp	
+atbildības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+uzņemšanās	ncfsnr	ncfpl4	
+par	spsan	sppdn	spsan	sp00n	
+atkarīgo	afmsayp	afmsayp	afmpgyp	affsayp	affpgyp	
+-	zd	zd	
+tendence	ncfsn5	ncfsn5	ncfsv5	
+viņu	pp3msan	pp3fpgn	pp3fsan	pp3mpgn	pp3msan	pd3msan	pd3mpgn	pd3fsan	pd3fpgn	
+"	zq	zq	
+glābt	vmnn0t1000n	vmnn0t1000n	
+"	zq	zq	
+,	zc	zc	
+novērst	vmnn0t1000n	vmnn0t1000n	
+un	ccs	ccs	
+neļaut	vmnn0t1000y	vmnn0t1000y	
+izbaudīt	vmnn0t3000n	vmnn0t3000n	
+savas	ps0fsgn	ps0fpan	ps0fpnn	ps0fsgn	
+rīcības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+sekas	ncfpa4	ncfdn4	ncfda4	ncfdv4	
+.	zs	zs	
+<s>
+Līdzatkarība	ncfsn4	n_msg1	n_msg1	n_fsn4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+parasti	r0m	vmnpdmpnpsn	afmpnnp	r__	r0m	r0t	
+veidojas	vmyipi230an	vmyipi230an	
+ģimenēs	ncfpl5	ncfpl5	
+,	zc	zc	
+kurās	pr0fpln	pq0fpln	pr0fpln	pi0fpln	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+kādas	pi0fpnn	pi0fpan	pi0fpnn	pi0fsgn	pq0fpan	pq0fpnn	pq0fsgn	pr0fpan	pr0fpnn	pr0fsgn	
+problēmas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+un	ccs	ccs	
+tā	pd3fsnn	r0m	pd3fsnn	pd3msgn	ccd	qs	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+saistīta	vmnpdfsnpsn	vmnpdmsgpsn	vmnpdfsnpsn	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+lomu	ncmpg1	ncmsa1	ncmpg1	ncfsa4	ncfpg4	
+sadali	ncfsa5	ncfsa5	v_nip_32san	v_nm0_32san	
+ģimenē	ncfsl5	ncfsl5	
+(	zb	zb	
+iekšējā	arfsnyp	armslnp	armsgyp	arfslnp	arfsnyp	arfsvyp	
+cilvēka	ncmsg1	ncmsg1	
+būtība	ncfsn4	ncfsn4	ncfsv4	
+neatbilst	vmnipt130ay	vmnn0t1000y	vmnipt130ay	
+tam	pd3msdn	pd3msdn	
+,	zc	zc	
+ko	pr000an	pq000an	pr000an	pi000an	
+viņš	pp3msnn	pp3msnn	pd3msnn	
+iemācās	voyipt330an	vmyipt330an	
+parādīt	vmnn0t3000n	vmnn0t3000n	ncfsv5	
+uz	spsay	sppdy	spsay	spsgy	
+āru	ncmsa1	n_msa1	n_mpg1	npmpg2	ncfpg5	
+)	zb	zb	
+.	zs	zs	
+<s>
+Taču	ccs	ncmpg2	ccs	qs	
+viņš	pp3msnn	pp3msnn	pd3msnn	
+nekad	r0t	r0t	
+pats	pg0msnn	pg0msnn	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+sevi	px000an	px000an	
+nav	vcnipii30ay	vcnipii30ay	vgnipii30ay	
+īsti	rpm	armpnnp	r__	
+apmierināts	vmnpdmsnpsn	vmnpdmsnpsn	
+,	zc	zc	
+un	ccs	ccs	
+neviens	pg0msny	pi0msny	
+arī	qs	ccs	qs	
+viņam	pp3msdn	pp3msdn	pd3msdn	
+neprasa	vmnipt330ay	vmnipt330ay	
+,	zc	zc	
+ko	pr000an	pq000an	pr000an	pi000an	
+viņš	pp3msnn	pp3msnn	pd3msnn	
+pats	pg0msnn	pg0msnn	
+vēlās	vmyipt330an	affplnp	affsgyp	affpnyp	affpayp	affpvyp	vmyisi130an	
+.	zs	zs	
+<s>
+Klauns	ncmsn1	ncmsn1	ncmsv1	
+-	zd	zd	
+tradicionāli	rpm	armpnnp	r__	
+kāds	pi0msnn	pi0msnn	pq0msnn	pr0msnn	
+no	sppdy	sppdy	spsgy	
+jaunākajiem	afmpdyc	afmpdyc	
+bērniem	ncmpd1	ncmpd1	
+ģimenē	ncfsl5	ncfsl5	
+.	zs	zs	
+<s>
+Bērnībā	ncfsl4	ncfsl4	
+viņi	pp3mpnn	pp3mpnn	pd3mpnn	
+bieži	rpq	afmpnnp	r__	r0q	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+ļoti	r0q	r0q	
+aktīvi	afmpnnp	ncmpn1	ncmpv1	afmpnnp	r__	
+,	zc	zc	
+tanī	pd3msln	pd3fsln	pd3msln	
+pat	qs	qs	
+laikā	ncmsl1	ncmsl1	
+arī	qs	ccs	qs	
+ļoti	r0q	r0q	
+radoši	vmnpdmpnapn	vmnpdmpnapn	r__	
+.	zs	zs	
+<s>
+Viņš	pp3msnn	pp3msnn	pd3msnn	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+neuzkrītošs	afmsnnp	afmsnnp	
+,	zc	zc	
+kluss	afmsnnp	afmsnnp	
+,	zc	zc	
+viņu	pp3msan	pp3fpgn	pp3fsan	pp3mpgn	pp3msan	pd3msan	pd3mpgn	pd3fsan	pd3fpgn	
+neievēro	vmnipt230ay	vmnipt22say	vmnipt230ay	vmnm0t22say	
+,	zc	zc	
+viņš	pp3msnn	pp3msnn	pd3msnn	
+turas	vmyipi330an	vmyipi330an	
+savrupi	rpm	armpnnp	r__	
+.	zs	zs	
+<s>
+*	xx	xx	
+Man	pp10sdn	pp10sdn	
+ā	xt	
+dzīvē	ncfsl5	ncfsl5	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+/	zx	zx	
+notiek	vmnipi130an	vmnipi130an	
+emocionālas	affpnnp	affsgnp	affpnnp	affpanp	
+krīzes	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+un	ccs	ccs	
+haoss	ncmsn1	ncmsn1	ncmsv1	
+.	zs	zs	
+<s>
+Nagu	ncmpg1	ncmsa1	ncmpg1	
+sastāvā	ncmsl1	ncmsl1	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+keratīns	ncmsn1	n_msn1	n_msv1	
+,	zc	zc	
+kura	pr0msgn	pq0fsnn	pr0fsnn	pi0fsnn	pq0msgn	pr0msgn	pi0msgn	
+daudzums	ncmsn1	ncmsn1	ncmsv1	
+nosaka	vmnipt330an	v_nip_330an	
+,	zc	zc	
+cik	r0q	r0q	css	
+veselīgi	afmpnnp	afmpnnp	r__	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+nagi	ncmpn1	ncmpn1	ncmpv1	
+.	zs	zs	
+<s>
+Mājas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+apstākļos	ncmpl2	ncmpl2	
+visefektīvākais	afmsnys	afmsnys	afmsvys	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+pīlings	ncmsn1	n_msn1	n_msv1	
+ar	sppdn	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+kafijas	ncfsg4	n_fsg4	n_fpn4	n_fpa4	n_fpv4	
+biezumiem	ncmpd1	ncmpd1	
+.	zs	zs	
+<s>
+Tā	pd3msgn	r0m	pd3fsnn	pd3msgn	ccd	qs	
+laika	ncmsg1	ncmsg1	
+kino	nc__g0	nc___0	
+tuvplāni	ncmpn1	n_mpn1	n_mpv1	n_mpn1	n_mpv1	n_msa2	n_msv2	n_msa2	n_mpn3	n_mpv3	n_fsa5	n_msa5	n_fsa6	a_mpnn_	r__	a_mpnn_	r__	v_nis_12san	v_nip_32san	v_nm0_32san	
+no	sppdy	sppdy	spsgy	
+aktrisēm	ncfpd5	ncfpd5	
+prasīja	vmnist330an	vmnist330an	
+ne tikai	ccd	ccd	
+nevainojamu	arfsanp	armsanp	armpgnp	arfsanp	arfpgnp	
+frizūru	ncfsa4	ncfsa4	ncfpg4	
+,	zc	zc	
+grimu	ncmsa1	vmnisi11san	
+,	zc	zc	
+bet arī	ccd	ccd	
+skaistus	ncmpa1	a_mpanp	
+nagus	ncmpa1	ncmpa1	
+.	zs	zs	
+<s>
+Nagu	ncmpg1	ncmsa1	ncmpg1	
+pieaudzēšana	ncfsn4	ncfsn4	ncfsv4	
+-	zd	zd	
+<s>
+Tas	pd3msnn	pd3msnn	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+ērti	rpm	afmpnnp	r__	
+un	ccs	ccs	
+praktiski	rpm	afmpnnp	r__	
+.	zs	zs	
+<s>
+Un	ccs	ccs	
+,	zc	zc	
+noņemot	vmnpu000000	vmnpu000000	vmnrpt100an	
+no	sppdy	sppdy	spsgy	
+pēdām	ncfpd4	ncfpd4	
+atmirušo	vmnpdmsaasy	vmnpdmsaasy	vmnpdmpgasy	vmnpdfsaasy	vmnpdfpgasy	
+ādu	ncfsa4	ncfsa4	ncfpg4	
+,	zc	zc	
+jūs	pp20pnn	pp20pan	pp20pnn	
+attīrāt	vmnipt32pan	v_nip_32pan	
+organismu	ncmsa1	ncmsa1	ncmpg1	
+un	ccs	ccs	
+ļaujat	vmnipt12pan	vmnipt12pan	
+tam	pd3msdn	pd3msdn	
+brīvi	rpm	ncfsa5	afmpnnp	r__	
+elpot	vmnn0t2000n	vmnn0t2000n	
+.	zs	zs	
+<s>
+Ja	css	css	qs	
+jūs	pp20pnn	pp20pan	pp20pnn	
+dodat	vmnipti2pan	vmnipti2pan	
+priekšroku	ncfsa4	ncfsa4	ncfpg4	
+veikt	vmnn0t1000n	vmnn0t1000n	
+pedikīru	ncmsa1	ncmsa1	ncmpg1	ncfpg5	
+mājas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+apstākļos	ncmpl2	ncmpl2	
+,	zc	zc	
+tad	r0t	r0t	qs	
+sākumā	ncmsl1	ncmsl1	
+rūpīgi	rpm	afmpnnp	r__	
+sagatavojiet	vmnm0t22pan	vmnm0t22p_n	
+kājas	ncfpa4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+.	zs	zs	
+<s>
+N/A	N/A	n_msg1	n_msg1	n_msg2	n_fsn4	n_fsv4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+Veicot	vmnpu000000	vmnpu000000	vmnrpt100an	
+pedikīru	ncmsa1	ncmsa1	ncmpg1	ncfpg5	
+,	zc	zc	
+,	zc	zc	
+pievērsiet	vmnm0t12pan	vmnift12pan	vmnm0t12pan	
+īpašu	affsanp	afmsanp	afmpgnp	affsanp	affpgnp	
+uzmanību	ncfsa4	ncfsa4	ncfpg4	
+nagu	ncmpg1	ncmsa1	ncmpg1	
+stāvoklim	ncmsd2	ncmsd2	
+.	zs	zs	
+<s>
+Pat	qs	qs	
+pati	pg0fsnn	pg0fsnn	
+dārgākā	affsnyc	afmslnc	afmsgyc	affslnc	affsnyc	affsvyc	
+nagu	ncmpg1	ncmsa1	ncmpg1	
+laka	ncfsn4	ncfsn4	ncfsv4	vmnist130an	
+nepadarīs	vmnift330ay	vmnift330ay	
+slimus	afmpanp	afmpanp	
+nagus	ncmpa1	ncmpa1	
+skaistus	afmpanp	a_mpanp	
+.	zs	zs	
+<s>
+Nagus	ncmpa1	ncmpa1	
+nedrīkst	vonipt330ay	vonipt330ay	
+vīlēt	vmnn0t2000n	vmnn0t2000n	
+jebkurā	pi0msln	a_mslnp	a_msgyp	a_fslnp	a_fsnyp	a_fsvyp	pi0fsln	pi0msln	
+virzienā	ncmsl1	ncmsl1	
+.	zs	zs	
+<s>
+Nagi	ncmpn1	ncmpn1	ncmpv1	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+jāvīlē	vmnd0t200an	vmnd0t200an	
+tikai	qs	qs	
+vienā	mcsmslv	mcsmslv	mcsfslv	
+virzienā	ncmsl1	ncmsl1	
+-	zd	zd	
+no	spsgy	sppdy	spsgy	
+malas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+uz	spsay	sppdy	spsay	spsgy	
+vidu	ncmsa3	ncmva3	ncmvv3	
+.	zs	zs	
+<s>
+MELIS	ncmsn2	ncmsn2	npfsv4	ncfsv4	
+<s>
+"	zq	zq	
+Neaušojies	vmym0i22say	vmyipi22say	vmyisi22say	vmym0i22say	vmypdmsnasn	
+,	zc	zc	
+Didzi	npmsv2	npmsa2	npmsv2	
+!	zs	zs	
+<s>
+-	zd	zd	
+"	zq	zq	
+Bet	ccs	ccs	ccd	
+kur	r0p	vmnipt12san	vmnipt130an	vmnm0t12san	r0p	
+tad	qs	r0t	qs	
+mēs	pp10pnn	vmnifi130an	pp10pnn	
+peldam	vmnipi31pan	vmnipi31pan	vmnpu000000	
+?	zs	zs	
+"	zq	zq	
+<s>
+—	zd	zd	
+"	zq	zq	
+Skat	is	ncmsv1	
+,	zc	zc	
+neapdedzini	vmnm0t32say	vmnipt32say	vmnm0t32say	
+pirkstus	ncmpa1	ncmpa1	
+!	zs	zs	
+"	zq	zq	
+<s>
+Teicu	vmnipt11san	vmnipt11san	vmnist11san	
+:	zo	zo	
+"	zq	zq	
+Gribu	vonipt31san	ncfsa4	ncfpg4	vonipt31san	
+gulēt	vmnn0t3000n	vmnn0t3000n	
+uz	spsgy	sppdy	spsay	spsgy	
+viņas	pd3fsgn	pp3fpan	pp3fpnn	pp3fsgn	pd3fsgn	pd3fpnn	pd3fpan	
+muguras	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+!	zs	zs	
+"	zq	zq	
+<s>
+Tas	pd3msnn	pd3msnn	
+viss	pg0msnn	ncmsn1	ncmsv1	pg0msnn	
+?	zs	zs	
+"	zq	zq	
+<s>
+Solīju	vmnist31san	vmnist31san	
+sodu	ncmsa1	ncmsa1	ncmpg1	ncfsa4	ncfpg4	vmnipt31san	
+...	zs	zs	
+"	zq	zq	
+<s>
+Vidas	npfsg4	n_fsg4	n_fpn4	n_fpa4	n_fpv4	n_msg4	n_mpn4	n_mpa4	n_mpv4	a_fsgn_	a_fpnn_	a_fpan_	a_fsgn_	a_fpnn_	a_fpan_	v_yip_130an	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	v_yip_330an	
+ausis	ncfpn6	ncfpn6	ncfpa6	ncfpv6	vmnpdmsnasn	
+un	ccs	ccs	
+apakšsejs	ncmsn1	v_nif_130an	v_nif_230an	v_nif_330an	
+noplūda	vmnisi130an	vmnisi130an	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+tumši	rpq	afmpnnp	r__	
+sarkanu	affsanp	afmsanp	afmpgnp	affsanp	affpgnp	
+līmi	ncfsa5	ncfsa5	
+,	zc	zc	
+ļoti	r0q	r0q	
+biezu	affsanp	afmsanp	afmpgnp	affsanp	affpgnp	
+un	ccs	ccs	
+tik	r0q	ncmsv1	r0q	qs	is	
+tumšu	affsanp	afmsanp	afmpgnp	affsanp	affpgnp	
+,	zc	zc	
+ka	css	css	
+sarkans	afmsnnp	afmsnnp	
+tas	pd3msnn	pd3msnn	
+gandrīz	r0q	r0q	
+vai	qs	css	ccs	ccr	ccd	qs	
+nebija	vcnisii30ay	vcnisii30ay	vgnisii30ay	vmnisii30ay	
+.	zs	zs	
+<s>
+Toreiz	r0t	r0t	
+garām	r0p	affpdnp	rrp	
+skrēja	vmnist130an	vmnist130an	vmnisi130an	
+tik	r0q	ncmsv1	r0q	qs	is	
+balti	afmpnnp	n_mdn1	n_mdv1	afmpnnp	r__	
+mākoņi	ncmpn2	ncmpn2	ncmpv2	
+.	zs	zs	
+<s>
+Vida	npfsn4	n_msg1	n_msg1	n_fsn4	n_fsv4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+nerunāja	vmnist230ay	vmnist230ay	
+,	zc	zc	
+neatvadījās	vmyisi330ay	v_yis_330ay	
+.	zs	zs	
+<s>
+Tikai	qs	qs	
+mežs	ncmsn1	ncmsn1	ncmsv1	
+slēpa	vmnist130an	vmnist130an	
+ceļu	ncmsa1	ncmsa1	ncmpg1	ncmpg2	vmnipt11san	
+pie	spsgy	sppdy	spsgy	
+viņas	pp3fsgn	pp3fpan	pp3fpnn	pp3fsgn	pd3fsgn	pd3fpnn	pd3fpan	
+,	zc	zc	
+apsedza	vmnist130an	vmnist130an	
+pēdas	ncfpa4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+,	zc	zc	
+nesameklējamas	vmnpdfpappn	vmnpdfsgppn	vmnpdfpnppn	vmnpdfpappn	
+.	zs	zs	
+<s>
+"	zq	zq	
+Meklēsim	vmnift21pan	vmnift21pan	
+mēs	pp10pnn	vmnifi130an	pp10pnn	
+arī	qs	ccs	qs	
+!	zs	zs	
+"	zq	zq	
+<s>
+"	zq	zq	
+Tā	r0m	r0m	pd3fsnn	pd3msgn	ccd	qs	
+vajag	vonipt330an	vmnipt330an	
+!	zs	zs	
+"	zq	zq	
+<s>
+JŪRASZIRDZIŅŠ	ncmsn1	ncmsn1	ncmsv1	
+UN	ccs	ccs	
+ES	pp10snn	pp10snn	
+<s>
+Kuļu	vmnipt11san	ncfpg5	vmnipt11san	
+kājas	ncfpa4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+,	zc	zc	
+lai	css	css	qs	
+neatmirst	vmnipi130ay	vmnipi130ay	
+,	zc	zc	
+klusītēm	r0m	r0m	
+saucu	vmnipt11san	vmnipt11san	vmnist11san	
+Manfrēdu	npmsa1	n_msa1	n_mpg1	n_msa1	n_mpg1	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+,	zc	zc	
+Mani	pp10san	vmnipt32san	vmnm0t32san	pp10san	ps0mpnn	
+,	zc	zc	
+zinu	vmnipt31san	npfsa4	npfpg4	vmnipt31san	
+,	zc	zc	
+ka	css	css	
+tas	pd3msnn	pd3msnn	
+tikai	qs	qs	
+sapnis	ncmsn2	ncmsn2	
+,	zc	zc	
+ka	css	css	
+rīt	r0t	vmnn0t1000n	ncmsv1	r0t	
+viss	pg0msnn	ncmsn1	ncmsv1	pg0msnn	
+būs	vcnifii30an	vcnifii30an	vmnifii30an	
+pavisam	r0m	r0q	
+citādi	r0m	armpnnp	r__	r0m	
+.	zs	zs	
+<s>
+Vienlaikus	r0t	r0t	
+reliģiozs	armsnnp	armsnnp	
+samta	ncmsg1	ncmsg1	
+klusums	ncmsn1	ncmsn1	ncmsv1	
+virs	spsgy	vmnift130an	sppdy	spsgy	
+ezera	ncmsg1	ncmsg1	
+un	ccs	ccs	
+lopkautuvju	ncfpg5	ncfpg5	
+apsūdzējums	ncmsn1	v_nif_130an	v_nif_230an	v_nif_330an	
+.	zs	zs	
+<s>
+Mēs	pp10pnn	vmnifi130an	pp10pnn	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+reiz	r0t	r0t	
+būsim	vcnifii1pan	vcnifii1pan	vmnifii1pan	
+tie	pd3mpnn	pd3mpnn	
+labākie	afmpnyc	afmpnyc	afmpvyc	
+!	zs	zs	
+<s>
+Manfrēds	npmsn1	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_230an	v_nif_330an	
+teiktu	vmnc0t100an	vmnpdmsapsn	vmnpdmpgpsn	vmnpdfsapsn	vmnpdfpgpsn	vmnc0t100an	
+,	zc	zc	
+ka	css	css	
+zvēri	ncmpn1	ncmpn1	ncmpv1	vmnipt32san	vmnm0t32san	
+atriebjas	vmyipi130an	vmyipi130an	
+par	sppdn	sppdn	spsan	sp00n	
+kažociņiem	ncmpd1	ncmpd1	
+,	zc	zc	
+apmetnīšiem	ncmpd2	ncmpd2	
+,	zc	zc	
+krādziņām	ncfpd4	n_fpd4	n_mpd4	a_fpdn_	a_fpdn_	v_nis_11pan	v_nip_31pan	v_npu000000	
+un	ccs	ccs	
+mufītēm	ncfpd5	ncfpd5	
+.	zs	zs	
+<s>
+Smilšu	ncfpg6	v_nif_11san	v_nif_21san	v_nif_31san	n_msa1	n_mpg1	n_msa1	n_mpg1	n_mpg2	n_mpg2	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	n_fpg5	n_mpg5	n_fpg6	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+piļu	ncfpg5	ncfpg5	ncfpg6	
+arhitekts	ncmsn1	ncmsn1	ncmsv1	
+.	zs	zs	
+<s>
+Kur	r0p	vmnipt12san	vmnipt130an	vmnm0t12san	r0p	
+viņi	pp3mpnn	pp3mpnn	pd3mpnn	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+?	zs	zs	
+<s>
+Tas	pd3msnn	pd3msnn	
+nu	qs	r0t	qs	is	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+pārītis	ncmsn2	ncmsn2	
+.	zs	zs	
+<s>
+Viņi	pp3mpnn	pp3mpnn	pd3mpnn	
+iemācīsies	vmyift330an	vmyift32san	vmyift330an	
+pārtikt	vmnn0i1000n	vtnn0i1000n	
+no	sppdy	sppdy	spsgy	
+ūdeņu	ncmpg2	ncmpg2	
+sanesām	ncfpd4	n_fdd4	vmnist11pan	
+,	zc	zc	
+nodzīvos	vmnift230an	vmnift230an	
+mūžu	ncmsa1	ncmsa1	ncmpg1	
+laivā	ncfsl4	ncfsl4	
+,	zc	zc	
+ja	css	css	qs	
+līdz	spsdy	vmnipt330an	r0_	sppdy	spsdy	css	
+tam	pd3msdn	pd3msdn	
+viens	mcsmsnv	mcsmsnv	
+otru	mosmsav	mcsmsa_	mcsfsa_	mcsmpg_	mcsfpg_	
+nepārmetīs	vmnift130ay	vmnift130ay	
+pār	spsay	sppdy	spsay	
+bortu	ncmsa1	ncmsa1	ncmpg1	
+,	zc	zc	
+un	ccs	ccs	
+aizsāks	vmnift130an	vmnift130an	vpnift130an	
+jaunu	affsanp	afmsanp	afmpgnp	affsanp	affpgnp	
+civilizāciju	ncfsa4	ncfsa4	ncfpg4	
+.	zs	zs	
+<s>
+Smird	vmnipi330an	ncmsv1	vmnipi330an	
+.	zs	zs	
+<s>
+Kad	r0t	r0t	
+ūdens	ncmsn2	ncmsn2	ncmsg2	
+sajauksies	vmyifi130an	vmyif_12san	vmyif_130an	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+teju	r0q	n_fsa4	n_fpg4	r0_	
+miljonu	ncmsa1	mcsmsam	mcsfsam	mcsmpgm	mcsfpgm	
+pilsētas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+pildījumu	ncmsa1	ncmsa1	ncmpg1	
+,	zc	zc	
+kad	r0t	r0t	
+samirks	vmnifi130an	vmnifi130an	
+ribiņas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+,	zc	zc	
+stilbiņi	ncmpn1	ncmpn1	ncmpv1	
+,	zc	zc	
+garnelītes	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+,	zc	zc	
+kad	r0t	r0t	
+tomāti	ncmpn1	ncmpn1	ncmpv1	
+samaisīsies	vmyifi330an	v_yif_32san	v_yif_330an	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+cementu	ncmsa1	ncmsa1	ncmpg1	
+un	ccs	ccs	
+veļas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	vmyipi130an	
+pulveriem	ncmpd2	ncmpd2	
+,	zc	zc	
+kad	r0t	r0t	
+grāmatu	ncfpg4	ncfsa4	ncfpg4	
+līme	ncfsn5	ncfsn5	ncfsv5	
+saplūdīs	vmnifi130an	vmnifi130an	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+skropstu	ncfpg4	ncfsa4	ncfpg4	
+tušu	ncmsa1	ncmsa1	ncmpg1	ncfsa4	ncfpg4	
+,	zc	zc	
+benzīnu	ncmsa1	ncmsa1	ncmpg1	
+,	zc	zc	
+tailenolu	ncmsa1	n_msa1	n_mpg1	n_msa1	n_mpg1	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+un	ccs	ccs	
+minerālmēsliem	ncmpd1	n_mdd1	
+,	zc	zc	
+kad	r0t	r0t	
+pašķīdīs	vmnifi130an	vmnifi130an	
+skābes	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+un	ccs	ccs	
+sārmi	ncmpn1	ncmpn1	ncmpv1	
+,	zc	zc	
+kad	r0t	r0t	
+sapuvuši	vmnpdmpnasn	vmnpdmpnasn	
+lopi	ncmpn1	ncmpn1	ncmpv1	
+peldēs	vmnifi330an	ncfpl5	vmnifi330an	
+uz	spsay	sppdy	spsay	spsgy	
+jūru	ncfsa4	ncfsa4	ncfpg4	
+nebeidzamā	vmnpdfslppn	vmnpdmslppn	vpnpdmslppn	vmnpdmsgppy	vpnpdmsgppy	vmnpdfslppn	vpnpdfslppn	vmnpdfsnppy	vpnpdfsnppy	vmnpdfsvppy	vpnpdfsvppy	
+procesijā	ncfsl4	ncfsl4	
+,	zc	zc	
+tad	r0t	r0t	qs	
+Rīgas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+vietā	ncfsl4	ncfsl4	
+virs	sppdy	vmnift130an	sppdy	spsgy	
+ūdeņiem	ncmpd2	ncmpd2	
+pacelsies	vmyifi130an	vmyifi12san	vmyifi130an	
+aiz	sppdy	sppdy	spsgy	
+baznīcu	ncfpg4	ncfsa4	ncfpg4	
+torņiem	ncmpd2	ncmpd2	
+aizķērušās	vmypdfpnasy	vmnpdfplasn	vmnpdfsgasy	vmnpdfpnasy	vmnpdfpaasy	vmnpdfpvasy	vmypdfsgasn	vmypdfpnasn	
+,	zc	zc	
+savēlušās	vmypdfpnasn	vmnpdfplasn	vmnpdfsgasy	vmnpdfpnasy	vmnpdfpaasy	vmnpdfpvasy	vmypdfsgasn	vmypdfpnasn	
+smirdgubas	ncfpn4	n_fsg4	n_fpn4	n_fpa4	n_fpv4	n_msg4	n_mpn4	n_mpa4	n_mpv4	a_fsgn_	a_fpnn_	a_fpan_	a_fsgn_	a_fpnn_	a_fpan_	v_yip_130an	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	v_yip_330an	
+un	ccs	ccs	
+mēsludauņi	ncmpn2	n_mpn1	n_mpv1	n_mpn1	n_mpv1	n_msa2	n_msv2	n_mpn2	n_mpv2	n_mpn2	n_mpv2	n_mpn3	n_mpv3	n_fsa5	n_msa5	n_fsa6	a_mpnn_	r__	a_mpnn_	r__	v_nis_12san	v_nip_32san	v_nm0_32san	
+.	zs	zs	
+<s>
+Viņu	pp3mpgn	pp3fpgn	pp3fsan	pp3mpgn	pp3msan	pd3msan	pd3mpgn	pd3fsan	pd3fpgn	
+melnās	affpnyp	affplnp	affsgyp	affpnyp	affpayp	affpvyp	
+kleitas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+,	zc	zc	
+jādomā	vmnd0t200an	vmnd0t200an	
+,	zc	zc	
+it	qs	qs	
+labi	rpm	afmpnnp	r__	
+turas	vmyipi330an	vmyipi330an	
+virs	spsgy	vmnift130an	sppdy	spsgy	
+ūdens	ncmsg2	ncmsn2	ncmsg2	
+.	zs	zs	
+<s>
+Kā	r0m	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+tu	pp20snn	pp20snn	
+domā	vmnipt22san	ncmsl1	ncfsl4	vmnipt22san	vmnipt230an	vmnm0t22san	
+,	zc	zc	
+vai	ccs	css	ccs	ccr	ccd	qs	
+kapliča	ncfsn4	ncfsn4	ncfsv4	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+cieši	rpm	afmpnnp	r__	r0m	
+noslēgta	vmnpdfsnpsn	armsgnp	afmsgnp	arfsnnp	affsnnp	
+?	zs	zs	
+<s>
+Izstādītu	vmnc0t300an	v_npdmsapsn	v_npdmpgpsn	v_npdfsapsn	v_npdfpgpsn	v_nc0_300an	
+eņģeļiem	ncmpd2	ncmpd2	
+?	zs	zs	
+<s>
+Augustīns	npmsn1	n_msn1	n_msv1	n_msn2	n_msg2	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+.	zs	zs	
+<s>
+Kāpēc	r0c	r0c	
+tieši	rpm	afmpnnp	r__	qs	
+es	pp10snn	pp10snn	
+?	zs	zs	
+<s>
+Uz	spsgy	sppdy	spsay	spsgy	
+Zinātņu	ncfpg5	ncfpg5	
+akadēmijas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+?	zs	zs	
+<s>
+Stārķi	ncmpn2	ncmsa2	ncmsv2	ncmpn2	ncmpv2	
+?	zs	zs	
+<s>
+Cīrulīši	ncmpn2	ncmpn2	ncmpv2	
+?	zs	zs	
+<s>
+Ko	pq000an	pq000an	pr000an	pi000an	
+viņš	pp3msnn	pp3msnn	pd3msnn	
+domā	vmnipt230an	ncmsl1	ncfsl4	vmnipt22san	vmnipt230an	vmnm0t22san	
+?	zs	zs	
+<s>
+Lai gan	csc	csc	
+—	zd	zd	
+viss	pg0msnn	ncmsn1	ncmsv1	pg0msnn	
+vienalga	r0m	r0m	
+,	zc	zc	
+viens	mcsmsnv	mcsmsnv	
+pīpis	ncmsn2	ncmsn2	
+,	zc	zc	
+viena	mcsfsnv	mcsmsgv	mcsfsnv	
+alga	ncfsn4	ncfsn4	ncfsv4	
+.	zs	zs	
+<s>
+Kas	pq000nn	pq000nn	pr000nn	pi000nn	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+?	zs	zs	
+<s>
+—	zd	zd	
+Es	pp10snn	pp10snn	
+jūs	pp20pan	pp20pan	pp20pnn	
+dzirdu	vmnipt31san	vmnipt31san	vmnipt31san	
+.	zs	zs	
+<s>
+Dzejnieks	ncmsn1	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+vai	qs	css	ccs	ccr	ccd	qs	
+te	qs	r0p	ccr	qs	
+pagadījies	vmypdmsnasn	v_yis_32san	v_ypdmsnasn	
+?	zs	zs	
+<s>
+Ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+varavīksnes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+atvēzienu	ncmsa1	n_msa_	n_mpg_	v_nip_11san	v_nis_11san	v_nip_31san	
+.	zs	zs	
+<s>
+Agneses	npfsg5	npfsg5	npfpn5	npfpa5	npfpv5	
+šallīte	ncfsn5	ncfsn5	
+šoreiz	r0t	r0t	
+nebija	vcnisii30ay	vcnisii30ay	vgnisii30ay	vmnisii30ay	
+ap	spsay	sppdy	spsay	
+pierīti	ncfsa5	ncfsa5	
+apsieta	vmnpdfsnpsn	vmnpdmsgpsn	vmnpdfsnpsn	
+,	zc	zc	
+atnāci	vmnisi12san	vmnisi12san	vmnist12san	
+uz	spsay	sppdy	spsay	spsgy	
+palikšanu	ncfsa4	ncfsa4	ncfsa4	ncfpg4	ncfpg4	
+bez	sppdn	sppdn	spsgn	
+relikvijām	ncfpd4	ncfpd4	
+.	zs	zs	
+<s>
+—	zd	zd	
+Nē	qs	qs	
+,	zc	zc	
+baroja	vmnist230an	vmnist230an	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+mandeļpudiņiem	ncmpd1	n_mpd1	n_mpd1	n_mpd2	n_mpd2	n_mpd3	a_mpdn_	a_mpdn_	n_msd5	
+.	zs	zs	
+<s>
+Es	pp10snn	pp10snn	
+mācīšos	vmyifi31san	vmyift31san	vmyifi31san	
+būt	vcnn0ii000n	vcnn0ii000n	vmnn0ii000n	
+eņģelis	ncmsn2	ncmsn2	
+.	zs	zs	
+<s>
+Man	pp10sdn	pp10sdn	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+bail	r0m	r0_	
+.	zs	zs	
+<s>
+Tas	pd3msnn	pd3msnn	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+plats	afmsnnp	afmsnnp	
+un	ccs	ccs	
+sauss	afmsnnp	afmsnnp	
+koka	ncmsg1	ncmsg1	n_fsn4	n_fsv4	
+tilts	ncmsn1	ncmsn1	ncmsv1	
+pār	spsay	sppdy	spsay	
+Daugavu	npfsa4	npfsa4	npfpg4	
+.	zs	zs	
+<s>
+Mana	ps0fsnn	vmnipt330an	ps0fsnn	ps0msgn	
+mute	ncfsn5	ncfsn5	ncfsv5	
+piepeši	r0t	armpnnp	r__	r0m	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+pilna	affsnnp	afmsgnp	affsnnp	
+sūdu	ncmpg1	n_msa1	n_mpg1	
+,	zc	zc	
+visbriesmīgāko	afmpgys	afmsays	afmpgys	affsays	affpgys	
+sūdu	ncmpg1	n_msa1	n_mpg1	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+garšo	vmnipt230an	vmnipt22san	vmnipt230an	vmnm0t22san	
+pēc	spsgy	sppdy	spsgy	stpgy	stsgy	
+sojas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+šokolādes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+.	zs	zs	
+<s>
+Viņš	pp3msnn	pp3msnn	pd3msnn	
+ģībst	vmnipi130an	vmnipi130an	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+ballē	ncfsl5	ncfsl5	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+tikai	qs	qs	
+slaidi	afmpnnp	n_mpn1	n_mpv1	n_mpn1	n_mpv1	n_msa2	n_msv2	n_mpn3	n_mpv3	n_fsa5	n_msa5	n_fsa6	a_mpnn_	r__	a_mpnn_	r__	v_nis_12san	v_nip_32san	v_nm0_32san	
+augumi	ncmpn1	ncmpn1	ncmpv1	
+ar	sppdn	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+lapseņu	ncfpg5	ncfpg5	
+vidukļiem	ncmpd2	ncmpd2	
+,	zc	zc	
+baltsārtas	arfpnnp	arfsgnp	arfpnnp	arfpanp	
+silikona	ncmsg1	n_msg1	
+krūtis	ncfpn6	ncfpn6	ncfpa6	ncfpv6	
+un	ccs	ccs	
+vīrieši	ncmpn2	ncmpn2	ncmpv2	
+ar	sppdn	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+notēmētiem	vmnpdmpdpsn	v_npdmpdpsn	
+failiem	ncmpd1	n_mpd1	
+.	zs	zs	
+<s>
+Grūst	vmnipi130an	vmnn0t1000n	vmnipi130an	
+laipa	ncfsn4	ncfsn4	ncfsv4	
+,	zc	zc	
+grūst	vmnipi130an	vmnn0t1000n	vmnipi130an	
+platais	afmsnyp	afmsnyp	afmsvyp	
+,	zc	zc	
+sausais	afmsnyp	afmsnyp	afmsvyp	
+koka	ncmsg1	ncmsg1	n_fsn4	n_fsv4	
+tilts	ncmsn1	ncmsn1	ncmsv1	
+kā	css	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+Titāniks	npmsn1	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+,	zc	zc	
+un	ccs	ccs	
+viļņu	ncmpg2	npmpg2	ncmpg2	
+galotnēs	ncfpl5	ncfpl5	
+puto	vmnipt230an	vmnipt22san	vmnipt230an	vmnm0t22san	
+mežģīņota	arfsnnp	v_npdmsgpsn	v_npdfsnpsn	v_npdmsgpsn	v_npdfsnpsn	v_npdmsgpsn	v_npdfsnpsn	n_msg1	n_msg1	n_fsn4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+veļa	ncfsn4	ncfsn4	ncfsv4	
+.	zs	zs	
+<s>
+Rudzpuķzilos	armplnp	n_mpl1	n_mpl1	n_mpl3	a_mpln_	a_mpay_	a_mpln_	a_mpay_	v_yip_11san	v_yis_11san	v_yip_31san	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+ģērbos	ncmpl1	ncmpl1	vmyisi11san	
+līdz	spsdy	vmnipt330an	r0_	sppdy	spsdy	css	
+zemei	ncfsd5	ncfsd5	
+.	zs	zs	
+<s>
+Un	ccs	ccs	
+mums	pp10pdn	pp10pdn	
+tiek	vtnipi130an	vtnipi130an	
+solīts	vmnpdmsnpsn	vmnpdmsnpsn	
+,	zc	zc	
+ka	css	css	
+nekad	r0t	r0t	
+nekad	r0t	r0t	
+nekad	r0t	r0t	
+šis	pd3msnn	pd3msnn	
+mirklis	ncmsn2	ncmsn2	
+nepaies	vmnifii30ay	vmnifii30ay	vmnifti30ay	
+.	zs	zs	
+<s>
+Oi	is	
+,	zc	zc	
+tu	pp20snn	pp20snn	
+!	zs	zs	
+<s>
+Ja	css	css	qs	
+meitietis	ncmsn2	n_msn2	n_fpn6	n_fpa6	n_fpv6	v_npdmsnasn	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+,	zc	zc	
+dabūsi	vmnift22san	vmnift22san	
+vairāk	rcq	rcq	
+,	zc	zc	
+ja	css	css	qs	
+ne	qs	ccr	ccd	qs	
+,	zc	zc	
+pusi	ncfsa5	ncfsa5	
+Elīzei	npfsd5	n_fsd5	n_mpn1	n_mpv1	n_mpn1	n_mpv1	n_msa2	n_msv2	n_mpn2	n_mpv2	n_mpn3	n_mpv3	n_fsa5	n_msa5	n_fsa6	a_mpnn_	r__	a_mpnn_	r__	v_nis_12san	v_nip_32san	v_nm0_32san	
+.	zs	zs	
+<s>
+Elīzes	npfsg5	n_fsg5	n_fpn5	n_fpa5	n_fpv5	n_msg5	n_mpn5	n_mpa5	n_mpv5	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+acis	ncfpn6	ncfpn6	ncfpa6	ncfpv6	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+tukšas	affpnnp	affsgnp	affpnnp	affpanp	
+,	zc	zc	
+milzīgas	affpnnp	affsgnp	affpnnp	affpanp	
+apakštases	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+ar	sppdn	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+sārtenām	arfpdnp	arfpdnp	
+maliņām	ncfpd4	n_fpd4	
+.	zs	zs	
+<s>
+Vitrāža	ncfsn4	ncfsn4	ncfsv4	
+?	zs	zs	
+<s>
+Skumju	afmpgnp	n_fdg4	afmsanp	afmpgnp	affsanp	affpgnp	
+viesulis	ncmsn2	ncmsn2	
+zirnekļtīklos	ncmpl1	n_mpl1	n_mpl1	n_mpl3	a_mpln_	a_mpay_	a_mpln_	a_mpay_	v_yip_11san	v_yis_11san	v_yip_31san	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+?	zs	zs	
+<s>
+Turas	vmyipi330an	vmyipi330an	
+kā	css	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+sieksta	ncfsn4	ncfsn4	ncfsv4	
+.	zs	zs	
+<s>
+Nelec	vmnipi12say	vmnipt12say	vmnipi12say	vmnipt130ay	vmnipi130ay	vmnm0t12say	vmnm0i12say	
+.	zs	zs	
+<s>
+Pliks	afmsnnp	afmsnnp	
+,	zc	zc	
+izmasēts	vmnpdmsnpsn	vmnpdmsnpsn	
+,	zc	zc	
+vēl	r0t	vmnipt330an	r0t	r0m	qs	
+joprojām	r0t	r0t	
+asarains	armsnnp	n_msn1	n_msv1	n_msn2	n_msg2	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+.	zs	zs	
+<s>
+Izlutināts	vmnpdmsnpsn	vmnpdmsnpsn	
+.	zs	zs	
+<s>
+Pasaki	vmnm0t12san	v_nip_32san	v_nm0_32san	
+paldies	is	is	
+,	zc	zc	
+ka	css	css	
+...	zs	zs	
+<s>
+Atliec	vmnm0t12san	vmnipt12san	vmnm0t12san	
+galvu	ncfsa4	ncfsa4	ncfpg4	
+,	zc	zc	
+atpūties	vmym0i12san	vmyipi12san	vmym0i12san	vmyisi12san	vmypdmsnasn	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+vai	qs	css	ccs	ccr	ccd	qs	
+tu	pp20snn	pp20snn	
+proti	vonipt12san	vmnipt12san	vmnm0t12san	qs	
+peldēt	vmnn0i3000n	vmnn0i3000n	
+?	zs	zs	
+<s>
+Es	pp10snn	pp10snn	
+neesmu	vcnipii1say	vcnipii1say	vgnipii1say	vmnipii1say	
+pieradis	vmnpdmsnasn	vmnpdmsnasn	
+...	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+es	pp10snn	pp10snn	
+,	zc	zc	
+lūk	is	
+,	zc	zc	
+kļuvu	vmnisi11san	vtnisi11san	
+pirmais	mosmsnv	mosmsnv	mosmsvv	
+cilvēks	ncmsn1	ncmsn1	ncmsv1	
+valstī	ncfsl6	ncfsl6	ncfsl6	
+,	zc	zc	
+un	ccs	ccs	
+es	pp10snn	pp10snn	
+,	zc	zc	
+es	pp10snn	pp10snn	
+...	zs	zs	
+<s>
+Būs	vcnifii30an	vcnifii30an	vmnifii30an	
+labi	rpm	afmpnnp	r__	
+.	zs	zs	
+<s>
+Tu	pp20snn	pp20snn	
+esi	vcnipii2san	vcnipii2san	vcnm0ii2san	vmnipii2san	vmnm0ii2san	
+dzīvs	afmsnnp	afmsnnp	
+.	zs	zs	
+<s>
+—	zd	zd	
+Meitenīgas	affpnnp	affsgnp	affpnnp	affpanp	
+pasaciņas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+.	zs	zs	
+<s>
+Kas	pq000nn	pq000nn	pr000nn	pi000nn	
+notiek	vmnipi130an	vmnipi130an	
+!	zs	zs	
+<s>
+Smel	vmnm0t12san	vmnipt12san	vmnm0t12san	
+,	zc	zc	
+dzer	vmnm0t12san	vmnipt12san	vmnipt130an	vmnm0t12san	
+,	zc	zc	
+grāb	vmnm0t12san	vmnipt12san	vmnm0t12san	
+!	zs	zs	
+<s>
+—	zd	zd	
+Elīz	npfsv5	npfsv4	
+,	zc	zc	
+ņem	vmnm0t12san	vmnipt12san	vmnipt130an	vmnm0t12san	
+manu	ps0msan	vmnipt31san	ps0fpgn	ps0fsan	ps0mpgn	ps0msan	
+jūraszirgu	ncmsa1	n_msa1	n_mpg1	n_msa1	n_mpg1	n_mpg2	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	n_fpg5	n_mpg5	n_fpg6	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+,	zc	zc	
+mīļā	affsvyp	afmslnp	afmsgyp	affslnp	affsnyp	affsvyp	
+dvēsele	ncfsv5	ncfsn5	ncfsv5	
+,	zc	zc	
+nerunā	vmnm0t22say	vmnipt22say	vmnipt230ay	vmnm0t22say	
+pretī	r0m	rrp	
+.	zs	zs	
+<s>
+—	zd	zd	
+Ko	pq000an	pq000an	pr000an	pi000an	
+lai	css	css	qs	
+es	pp10snn	pp10snn	
+laužu	vmnipt11san	vmnipt11san	
+?	zs	zs	
+<s>
+.	zs	zs	
+fa	xx	
+....	zx	zs	
+<s>
+Lauz	vmnm0t12san	
+,	zc	zc	
+ka	css	css	
+tev	pp20sdn	pp20sdn	
+saka	vmnipt330an	vmnipt330an	
+,	zc	zc	
+dolārmuca	ncfsv4	n_msg1	n_msg1	n_fsn4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+,	zc	zc	
+lauz	vmnm0t12san	
+!	zs	zs	
+<s>
+Jūs	pp20pnn	pp20pan	pp20pnn	
+visi	pg0mpnn	ncmpn1	ncmpv1	pg0mpnn	
+inficē - cē - cē - sities	vmyift22pan	v_yif_12pan	v_yif_22pan	v_yif_32pan	v_yn0_1000n	v_yn0_2000n	v_yn0_3000n	v_yip_12san	v_ym0_12san	v_yis_12san	v_ypdmsnasn	v_yip_32san	v_ym0_32san	n_fsg5	n_fpn5	n_fpa5	n_fpv5	n_msg5	n_mpn5	n_mpa5	n_mpv5	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+.	zs	zs	
+<s>
+Kāju	ncfsa4	ncfsa4	ncfpg4	
+pārsiet	vmnn0t1000n	vmnn0t1000n	
+protu	vmnipt11san	vmnipt11san	
+,	zc	zc	
+bet	ccs	ccs	ccd	
+slīkoņus	ncmpa2	ncmpa2	
+man	pp10sdn	pp10sdn	
+bail	r0m	r0_	
+aiztikt	vmnn0i1000n	vtnn0i1000n	
+.	zs	zs	
+<s>
+Es	pp10snn	pp10snn	
+varu	vonipt31san	npmpg2	ncfsa4	ncfpg4	ncfpg5	vonipt31san	
+.	zs	zs	
+<s>
+Sprūdžs	npmsn1	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+uzklausīs	vmnift330an	v_nif_330an	
+Rāviņa	npmsg1	ncfsn4	
+skaidrojumus	ncmpa1	n_mpa1	
+par	sppdn	sppdn	spsan	sp00n	
+Valsts	ncfsg6	ncfsn6	ncfsn6	ncfsg6	ncfsg6	ncfsv6	ncfsv6	
+kontroles	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+atklātajiem	vmnpdmpdpsy	vmnpdmpdpsy	
+pārkāpumiem	ncmpd1	ncmpd1	
+Jelgavā	npfsl4	npfsl4	
+<s>
+Savukārt	r0m	r0_	
+,	zc	zc	
+lai	css	css	qs	
+turpmāk	r0t	r0t	
+novērstu	vmnc0t100an	vmnpdmsapsn	vmnpdmpgpsn	vmnpdfsapsn	vmnpdfpgpsn	vmnc0t100an	
+šādu	pd0mpgn	pd0fpgn	pd0fsan	pd0mpgn	pd0msan	
+pārkāpumu	ncmpg1	ncmsa1	ncmpg1	
+un	ccs	ccs	
+nepilnību	ncfpg4	ncfsa4	ncfpg4	
+rašanos	ncfsar	ncfsar	ncfpgr	
+,	zc	zc	
+viņš	pp3msnn	pp3msnn	pd3msnn	
+uzskata	vmnipt330an	ncmsg1	vmnipt330an	
+,	zc	zc	
+ka	css	css	
+nepieciešams	afmsnnp	afmsnnp	
+rūpīgāk	rct	rc_	
+strādāt	vmnn0t2000n	vmnn0t2000n	
+ar	sppdn	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+pirmdokumentiem	ncmpd1	v_npdmpdpsn	v_npdmpdpsn	v_npdmpdpsn	n_mpd1	n_mpd1	n_mpd3	a_mpdn_	a_mpdn_	n_msd5	
+,	zc	zc	
+proti	qs	vmnipt12san	vmnm0t12san	qs	
+,	zc	zc	
+dažādiem	armpdnp	armpdnp	
+līgumiem	ncmpd1	ncmpd1	
+.	zs	zs	
+<s>
+VK	y	y	
+norāda	vmnipt330an	vmnipt330an	
+uz	spsay	sppdy	spsay	spsgy	
+pastāvošu	vmnpdmsaapn	vmnpdmsaapn	vmnpdmsaapn	vmnpdmpgapn	vmnpdmpgapn	vmnpdfsaapn	vmnpdfsaapn	vmnpdfpgapn	vmnpdfpgapn	
+risku	ncmsa1	ncmsa1	ncmpg1	
+,	zc	zc	
+ka	css	css	
+aģentūra	ncfsn4	ncfsn4	
+nelietderīgi	r0c	afmpnnp	r__	
+izlietojusi	vmnpdfsnasn	vmnpdfsnasn	
+līdzekļus	ncmpa2	ncmpa2	
+gandrīz	r0q	r0q	
+3000	xn	xn	
+latu	ncmpg1	ncmsa1	ncmpg1	ncfsa4	ncfpg4	
+apmērā	ncmsl1	ncmsl1	
+,	zc	zc	
+bez	spsgn	sppdn	spsgn	
+pamatota	vmnpdmsgpsn	vmnpdmsgpsn	vmnpdfsnpsn	
+iemesla	ncmsg1	ncmsg1	
+iegādājoties	vmyrpt200an	vmyrpt200an	vmypu000000	
+sniega	ncmsg1	ncmsg1	
+kausēšanas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+pakalpojumus	ncmpa1	ncmpa1	
+no	spsgy	sppdy	spsgy	
+komersanta	ncmsg1	ncmsg1	
+,	zc	zc	
+kuram	pr0msdn	vmnipt11pan	vmnpu000000	pq0msdn	pr0msdn	pi0msdn	
+atbilstoši	r0m	r0m	
+savstarpējā	armslnp	armslnp	armsgyp	arfslnp	arfsnyp	arfsvyp	
+līgumā	ncmsl1	ncmsl1	
+noteiktajam	vmnpdmsdpsy	vmnpdmsdpsy	afmsdyp	
+Jelgavas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+pilsētā	ncfsl4	ncfsl4	
+bija	vcnisii30an	vcnisii30an	vmnisii30an	
+jānodrošina	vmnd0t300an	vmnd0t300an	
+sniega	ncmsg1	ncmsg1	
+izvešanas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+pakalpojumi	ncmpn1	ncmpn1	ncmpv1	
+.	zs	zs	
+<s>
+Slēpošana	ncfsn4	ncfsn4	ncfsv4	
+nebūt	qs	qs	vcnn0ii000y	vgnn0ii00ay	vmnn0ii000y	
+nebeidzas	vmyipi130ay	vmyipi130ay	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+pirmā	mosmsgv	mosmsgv	mosfsnv	mosfsvv	
+atkušņa	ncmsg2	ncmsg2	
+iestāšanos	ncfsar	ncfsar	ncfpgr	
+.	zs	zs	
+<s>
+Tā	r0m	r0m	pd3fsnn	pd3msgn	ccd	qs	
+viņa	pd3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+arī	qs	ccs	qs	
+devās	vmyist130an	ncfpl4	vmyisti30an	
+kalnos	ncmpl1	ncmpl1	
+-	zd	zd	
+ar	sppdn	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+"	zq	zq	
+atpakaļ	r0p	r0p	
+sitošām	vmnpdfpdapn	vmnpdfpdapn	
+slēpēm	ncfpd5	ncfpd5	
+"	zq	zq	
+.	zs	zs	
+<s>
+Kā	r0m	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+nu	qs	r0t	qs	is	
+kurš	pr0msnn	pq0msnn	pr0msnn	pi0msnn	
+-	zd	zd	
+cits	pi0msnn	pi0msnn	
+Rīgu	npfsa4	npfsa4	npfpg4	
+,	zc	zc	
+cits	pi0msnn	pi0msnn	
+Siguldu	npfsa4	n_msa1	n_mpg1	n_msa1	n_mpg1	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+,	zc	zc	
+cits	pi0msnn	pi0msnn	
+vispār	r0m	r0m	
+zem	spsgy	sppdy	spsgy	
+sveša	afmsgnp	afmsgnp	affsnnp	
+uzvārda	ncmsg1	ncmsg1	
+startēja	vmnist230an	vmnist230an	
+.	zs	zs	
+<s>
+Piektdien	r0t	ncfsv4	r0t	
+ielikti	vmnpdmpnpsn	vmnpdmpnpsn	
+Ēdoles	npfsg5	n_fsg5	n_fpn5	n_fpa5	n_fpv5	n_msg5	n_mpn5	n_mpa5	n_mpv5	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+pamatskolas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+sporta	ncmsg1	ncmsg1	
+zāles	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+pamati	ncmpn1	ncmpn1	ncmpv1	
+,	zc	zc	
+bet	ccs	ccs	ccd	
+tajos	pd3mpln	pd3mpln	
+-	zd	zd	
+kapsula	ncfsn4	ncfsn4	ncfsv4	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+veselīga	afmsgnp	afmsgnp	affsnnp	
+dzīvesveida	ncmsg1	n_msg1	n_msg1	n_fsn4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+vēlējumu	ncmsa1	ncmsa1	ncmpg1	
+nākamajām	arfpdyp	vmnpdfpdppy	
+paaudzēm	ncfpd5	ncfpd5	
+un	ccs	ccs	
+skolas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+bukletu	ncmsa1	n_msa1	n_mpg1	
+.	zs	zs	
+<s>
+To	pd3msan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+vien	qs	qs	
+dzirdam	vmnipt31pan	vmnipt31pan	vmnpu000000	
+,	zc	zc	
+ka	css	css	
+Latvijā	npfsl4	npfsl4	
+iznīkst	vmnipi130an	vmnipi130an	
+ražošana	ncfsn4	ncfsn4	ncfsv4	
+.	zs	zs	
+<s>
+—	zd	zd	
+Dmitrij	npmsv1	n_fsd6	
+,	zc	zc	
+kā	r0m	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+jūs	pp20pnn	pp20pan	pp20pnn	
+izvēlējāties	vmyisi32pan	vmyisi32pan	
+šķirnes	ncfpa5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+un	ccs	ccs	
+cik	r0q	r0q	css	
+jums	pp20pdn	n_msn1	n_msv1	vmnift130an	pp20pdn	
+to	pd3fpgn	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+?	zs	zs	
+<s>
+Pirms	css	r0t	sppdy	spsgy	css	
+pievērsties	vmyn0i1000n	vmyn0i1000n	
+šinšillu	ncfpg4	ncfsa4	ncfpg4	
+audzēšanai	ncfsd4	ncfsd4	
+,	zc	zc	
+Dace	npfsn5	npfsn5	npfsv5	
+Uzija	npfsn4	v_nis_230an	v_nis_330an	n_msg1	n_msg1	n_msg2	n_fsn4	n_fsv4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+divus	mcsmpav	mcsmpav	
+gadus	ncmpa1	ncmpa1	
+dzīvnieciņu	ncmsa1	ncmsa1	ncmpg1	
+turēja	vmnist330an	vmnist330an	
+dzīvoklī	ncmsl2	ncmsl2	
+,	zc	zc	
+lai	css	css	qs	
+pārliecinātos	vmyc0i300an	vmnpdmplpsn	vmnpdmpapsy	vmyc0i300an	
+par	spsan	sppdn	spsan	sp00n	
+tā	pd3msgn	r0m	pd3fsnn	pd3msgn	ccd	qs	
+raksturu	ncmsa1	ncmsa1	ncmpg1	
+un	ccs	ccs	
+īpatnībām	ncfpd4	ncfpd4	
+.	zs	zs	
+<s>
+Dace	npfsn5	npfsn5	npfsv5	
+piemetina	vmnipt330an	vmnipt330an	
+:	zo	zo	
+«	zq	zq	
+Nevajag	vmnipt330ay	vmnipt330ay	
+sacerēties	vmyn0i3000n	vmyn0i3000n	
+pārāk	r0q	r0q	
+daudz	r0q	rpq	
+,	zc	zc	
+labāk	rcm	rc_	
+būt	vcnn0ii000n	vcnn0ii000n	vmnn0ii000n	
+piezemētiem	vmnpdmpdpsn	vmnpdmpdpsn	
+.	zs	zs	
+<s>
+Dace	npfsn5	npfsn5	npfsv5	
+sacīja	vmnist330an	vmnist330an	
+,	zc	zc	
+ka	css	css	
+pamazām	r0m	arfpdnp	r0m	
+iejutušies	vmypdmpnasn	vmypdmpnasn	
+lauku	ncmpg1	ncmsa1	ncmpg1	armsanp	armpgnp	arfsanp	arfpgnp	
+dzīves	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+ikdienā	ncfsl4	ncfsl4	
+,	zc	zc	
+taču	ccs	ncmpg2	ccs	qs	
+joprojām	r0t	r0t	
+diezgan	r0q	r0q	
+bieži	r0q	afmpnnp	r__	r0q	
+tiek	vtnipi130an	vtnipi130an	
+mērots	vmnpdmsnpsn	vmnpdmsnpsn	
+ceļš	ncmsn1	ncmsn1	ncmsv1	
+uz	spsay	sppdy	spsay	spsgy	
+Rīgu	npfsa4	npfsa4	npfpg4	
+,	zc	zc	
+kur	r0p	vmnipt12san	vmnipt130an	vmnm0t12san	r0p	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+plašākas	affpnnc	affsgnc	affpnnc	affpanc	
+atpūtas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+iespējas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+.	zs	zs	
+<s>
+Ceturtdien	r0t	n_fsv4	r0t	
+Augstākās	affsgyc	affplnc	affsgyc	affpnyc	affpayc	affpvyc	
+izglītības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+padomes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+sēdes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+laikā	ncmsl1	ncmsl1	
+klātesošie	armpnyp	v_npdmpnapy	v_npdmpvapy	v_npdmpnapy	v_npdmpvapy	a_mpny_	a_mpvy_	a_mpny_	a_mpvy_	n_fsn5	n_msn5	n_msv5	
+tā	r0m	r0m	pd3fsnn	pd3msgn	ccd	qs	
+arī	qs	ccs	qs	
+nespēja	vonist130ay	ncfsn4	ncfsv4	vonist130an	
+vienoties	vmyn0i2000n	vmyn0i2000n	
+par	spsan	sppdn	spsan	sp00n	
+konceptuālu	armsanp	armsanp	armpgnp	arfsanp	arfpgnp	
+atbalstu	ncmsa1	ncmsa1	ncmpg1	v_nip_31san	
+kādam	pi0msdn	pi0msdn	pq0msdn	pr0msdn	
+no	sppdy	sppdy	spsgy	
+padomes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+priekšsēdētāja	ncmsg1	ncmsg1	
+Jāņa	npmsg2	npmsg2	
+Vētras	npmsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+priekšlikumiem	ncmpd1	ncmpd1	
+finansējuma	ncmsg1	n_msg1	
+samazinājumam	ncmsd1	n_msd1	
+augstākajā	affslyc	afmslyc	affslyc	
+izglītībā	ncfsl4	ncfsl4	
+.	zs	zs	
+<s>
+Latvija	npfsn4	npfsn4	npfsv4	
+izmantojusi	vmnpdfsnasn	vmnpdfsnasn	
+ES	y	pp10snn	
+direktīvās	ncfpl4	ncfpl4	arfplnp	arfsgyp	arfpnyp	arfpayp	arfpvyp	
+paredzētās	vmnpdfpapsy	vmnpdfplpsn	vmnpdfsgpsy	vmnpdfpnpsy	vmnpdfpapsy	vmnpdfpvpsy	
+iespējas	ncfpa4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+piemērot	vmnn0t2000n	vmnn0t2000n	
+akcīzes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+nodokļa	ncmsg2	ncmsg2	
+atvieglojumus	ncmpa1	ncmpa1	
+biodegvielai	ncfsd4	n_fsd4	
+un	ccs	ccs	
+biodegvielas	ncfsg4	n_fsg4	n_fpn4	n_fpa4	n_fpv4	
+maisījumam	ncmsd1	ncmsd1	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+fosilo	arfsayp	armsayp	armpgyp	arfsayp	arfpgyp	
+degvielu	ncfsa4	ncfsa4	ncfpg4	
+,	zc	zc	
+un	ccs	ccs	
+līdz	r0m	vmnipt330an	r0_	sppdy	spsdy	css	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+to	pd3msan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+degvielai	ncfsd4	ncfsd4	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+lielāku	afmsanc	afmsanc	afmpgnc	affsanc	affpgnc	
+biodegvielas	ncfsg4	n_fsg4	n_fpn4	n_fpa4	n_fpv4	
+saturu	ncmsa1	ncmsa1	ncmpg1	v_nip_31san	
+tiek	vtnipi130an	vtnipi130an	
+piemērota	vmnpdfsnpsn	vmnpdmsgpsn	vmnpdfsnpsn	afmsgnp	affsnnp	
+zemāka	affsnnc	afmsgnc	affsnnc	
+akcīzes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+likme	ncfsn5	ncfsn5	ncfsv5	
+,	zc	zc	
+informēja	vmnist230an	vmnist230an	
+Finanšu	ncfpg5	n_fdg5	
+ministrijas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+Nodokļu	ncmpg2	ncmpg2	
+politikas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+departamentā	ncmsl1	ncmsl1	
+.	zs	zs	
+<s>
+Latvijas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+vieglatlēts	ncmsn1	ncmsn1	ncmsv1	
+Edgars	npmsn1	npmsn1	npmsv1	
+Timermanis	npmsn2	n_msn2	n_fpn6	n_fpa6	n_fpv6	v_npdmsnasn	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+ceturtdien	r0t	n_fsv4	r0t	
+izcīnīja	vmnist330an	v_nis_330an	
+bronzas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+godalgu	ncfsa4	ncfsa4	ncfpg4	
+Eiropas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+Jaunatnes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+olimpiādes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+vesera	ncmsg2	ncmsg2	
+mešanas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+sacensībās	ncfpl4	ncfpl4	
+.	zs	zs	
+<s>
+Veselības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+nozari	ncfsa5	ncfsa5	
+uzraugošās	vmnpdfpnapy	v_npdfplapn	v_npdfsgapy	v_npdfpnapy	v_npdfpaapy	v_npdfpvapy	
+Saeimas	npfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+komisijas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+otrdien	r0t	ncfsv4	r0t	
+uz	spsay	sppdy	spsay	spsgy	
+parlamentu	ncmsa1	ncmsa1	ncmpg1	
+aicinājušas	vmnpdfpnasn	vmnpdfsgasn	vmnpdfpnasn	vmnpdfpaasn	
+veselības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+ministru	ncmsa1	ncmsa1	ncmpg1	n_fpg5	
+Ivaru	npmsa1	npmsa1	npmpg1	
+Eglīti	npmsa5	npmsa2	npmsv2	ncfsa5	
+un	ccs	ccs	
+atbildīgos	afmpayp	afmplnp	afmpayp	
+ierēdņus	ncmpa2	n_mpa2	
+,	zc	zc	
+lūdzot	vmnpu000000	vmnpu000000	vmnrpt100an	
+skaidrot	vmnn0t2000n	vmnn0t2000n	
+un	ccs	ccs	
+pamatot	vmnn0t2000n	vmnn0t2000n	
+valdības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+pieņemtos	vmnpdmpapsy	vmnpdmplpsn	vmnpdmpapsy	
+lēmumus	ncmpa1	ncmpa1	
+veselības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+aprūpes	ncfsg5	n_fsg5	n_fpn5	n_fpa5	n_fpv5	
+jomā	ncfsl4	ncmsl1	ncfsl4	
+.	zs	zs	
+<s>
+Organizētās	vmnpdfsgpsy	vmnpdfplpsn	vmnpdfsgpsy	vmnpdfpnpsy	vmnpdfpapsy	vmnpdfpvpsy	
+noziedzības	ncfsg4	n_fsg4	n_fpn4	n_fpa4	n_fpv4	
+apkarošanas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+pārvaldes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+(	zb	zb	
+ONAP	y	y	
+)	zb	zb	
+darbinieki	ncmpn1	ncmpn1	ncmpv1	
+pārtraukuši	vmnpdmpnasn	vmnpdmpnasn	vmnpdmpnasn	
+divu	mcsfpgv	mcsmpgv	mcsfpgv	
+savstarpēji	r0c	armpnnp	r__	
+saistītu	vmnpdfpgpsn	vmnpdmsapsn	vmnpdmpgpsn	vmnpdfsapsn	vmnpdfpgpsn	vmnc0t300an	
+organizētu	vmnpdfpgpsn	vmnpdmsapsn	vmnpdmpgpsn	vmnpdfsapsn	vmnpdfpgpsn	vmnc0t200an	
+narkodīleru	ncmpg1	n_msa1	n_mpg1	n_msa1	n_mpg1	n_mpg2	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	n_fpg5	n_mpg5	n_fpg6	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+grupu	ncfpg4	ncfsa4	ncfpg4	
+darbību	ncfsa4	ncfsa4	ncfpg4	
+.	zs	zs	
+<s>
+Lietuvas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+prezidents	ncmsn1	ncmsn1	ncmsv1	
+Valds	npmsn1	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_230an	v_nif_330an	
+Adamkus	npmsn3	n_mpa1	n_mpa1	n_mpa2	n_msn3	n_msg3	n_msv3	n_mpa3	a_mpan_	a_mpan_	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+vēstulē	ncfsl5	ncfsl5	
+Eiropas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+Savienības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+(	zb	zb	
+ES	y	pp10snn	
+)	zb	zb	
+dalībvalstu	ncfpg6	n_fpg6	
+vadītājiem	ncmpd1	ncmpd1	
+,	zc	zc	
+kā arī	ccd	ccd	ccc	
+Eiropas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+Komisijas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+,	zc	zc	
+NATO	y	y	
+,	zc	zc	
+ANO	y	n_fsv4	np___0	y	
+un	ccs	ccs	
+Eiropas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+Drošības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+un	ccs	ccs	
+sadarbības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+organizācijas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+(	zb	zb	
+EDSO	y	y	
+)	zb	zb	
+vadībai	ncfsd4	ncfsd4	
+aicinājis	vmnpdmsnasn	vmnpdmsnasn	
+vērīgi	r0m	afmpnnp	r__	r0m	
+sekot	vmnn0i2000n	vmnn0i2000n	
+Krievijas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+darbībai	ncfsd4	ncfsd4	
+attiecībā	ncfsl4	ncfsl4	
+pret	sppdy	sppdy	spsay	
+noteiktām	affpdnp	vmnpdfpdpsn	affpdnp	
+Gruzijas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+teritorijām	ncfpd4	ncfpd4	
+.	zs	zs	
+<s>
+Slimības	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+un	ccs	ccs	
+cilvēka	ncmsg1	ncmsg1	
+darbība	ncfsn4	ncfsn4	ncfsv4	
+var	vonipt330an	vonipt330an	
+izraisīt	vmnn0t3000n	v_nn0_3000n	
+uz	spsgy	sppdy	spsay	spsgy	
+Zemes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+masveidīgu	affsanp	afmsanp	afmpgnp	affsanp	affpgnp	
+izmiršanu	ncfsa4	ncfsa4	ncfpg4	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+būtu	vcnc0t100an	vcnc0ii00an	vmnc0ii00an	
+jau	r0t	r0t	qs	
+sestā	mosfsnv	mosmsgv	mosfsnv	mosfsvv	
+planētas	ncfsg4	vmnpdfsgpsn	vmnpdfpnpsn	vmnpdfpapsn	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+vēsturē	ncfsl5	ncfsl5	
+.	zs	zs	
+<s>
+Aizvadītajā	vmnpdfslpsy	vmnpdmslpsy	vmnpdfslpsy	
+naktī	ncfsl6	ncfsl6	
+ap	sppdy	sppdy	spsay	
+plkst.	y	y	
+2. 40	xx	
+Liepājas	npfsg4	n_fsg4	n_fpn4	n_fpa4	n_fpv4	
+Pētertirgū	npmsl3	n_msl3	
+nodedzis	vmnpdmsnasn	vmnpdmsnasn	vmnpdmsnasn	
+tirdzniecības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+paviljons	ncmsn1	ncmsn1	ncmsv1	
+vairāk	rcq	rcq	
+nekā	css	r0m	pi0msgy	css	qs	
+300	xn	xn	
+kvadrātmetru	ncmpg1	ncmsa1	ncmpg1	
+platībā	ncfsl4	n_fsl4	
+,	zc	zc	
+informēja	vmnist230an	vmnist230an	
+Liepājas	npmsn1	n_fsg4	n_fpn4	n_fpa4	n_fpv4	
+pilsētas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+un	ccs	ccs	
+rajona	ncmsg1	ncmsg1	
+Policijas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+pārvaldes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+preses	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+sekretāre	ncfsn5	ncfsn5	
+Jolanta	npfsn4	npfsn4	npfsv4	
+Knīse	npfsn5	n_fsn5	n_fsv5	n_msn5	n_msv5	
+.	zs	zs	
+<s>
+Pagājušajā	vmnpdmslasy	vmnpdmslasy	vmnpdmslasy	vmnpdfslasy	vmnpdfslasy	
+gadā	ncmsl1	ncmsl1	
+par	sppdn	sppdn	spsan	sp00n	
+14	xn	xn	
+%	xx	xx	
+pieaugusi	vmnpdfsnasn	vmnpdfsnasn	
+zīdaiņu	ncmpg2	ncmpg2	
+mirstība	ncfsn4	ncfsn4	ncfsv4	
+,	zc	zc	
+liecina	vmnipt330an	vmnipt330an	
+Centrālās	arfsgyp	arfplnp	arfsgyp	arfpnyp	arfpayp	arfpvyp	
+statistikas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+pārvaldes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+apkopotie	vmnpdmpnpsy	vmnpdmpnpsy	vmnpdmpvpsy	
+pagājušā	vmnpdmslasn	vmnpdmslasn	vmnpdmslasn	vmnpdmsgasy	vmnpdmsgasy	vmnpdfslasn	vmnpdfslasn	
+gada	ncmsg1	ncmsg1	
+demogrāfiskās	arfsgyp	arfplnp	arfsgyp	arfpnyp	arfpayp	arfpvyp	
+statistikas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+dati	ncmpn1	ncmdn1	ncmdv1	
+.	zs	zs	
+<s>
+Iedzīvotāju	ncmpg1	ncmsa1	ncmpg1	ncfsa4	ncfpg4	
+skaita	ncmsg1	ncmsg1	vmnipt330an	
+pieaugums	ncmsn1	ncmsn1	ncmsv1	
+pagājušajā	vmnpdmslasy	vmnpdmslasy	vmnpdmslasy	vmnpdfslasy	vmnpdfslasy	
+gadā	ncmsl1	ncmsl1	
+bija	vcnisii30an	vcnisii30an	vmnisii30an	
+vērojams	vmnpdmsnppn	vmnpdmsnppn	
+tikai	qs	qs	
+Rīgas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+(	zb	zb	
+6655	xn	xn	
+cilvēki	ncmpn1	ncmpn1	ncmpv1	
+)	zb	zb	
+,	zc	zc	
+Ogres	npfsg5	n_fsg5	n_fpn5	n_fpa5	n_fpv5	n_msg5	n_mpn5	n_mpa5	n_mpv5	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+(	zb	zb	
+751	xn	xn	
+cilvēks	ncmsn1	ncmsn1	ncmsv1	
+)	zb	zb	
+un	ccs	ccs	
+Jelgavas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+(	zb	zb	
+337	xn	xn	
+cilvēki	ncmpn1	ncmpn1	ncmpv1	
+)	zb	zb	
+rajonā	ncmsl1	ncmsl1	
+,	zc	zc	
+kā arī	ccd	ccd	ccc	
+Jūrmalā	ncfsl4	ncfsl4	
+(	zb	zb	
+172	xn	xn	
+cilvēki	ncmpn1	ncmpn1	ncmpv1	
+)	zb	zb	
+.	zs	zs	
+<s>
+Brīva	affsnnp	afmsgnp	affsnnp	
+preču	ncfpg5	ncfpg5	
+kustība	ncfsn4	ncfsn4	ncfsv4	
+Eiropas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+ekonomiskajā	affslyp	afmslyp	afmslyp	affslyp	affslyp	
+telpā	ncfsl4	ncfsl4	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+viena	mcsfsnv	mcsmsgv	mcsfsnv	
+no	sppdy	sppdy	spsgy	
+Eiropas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+Kopienas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+lielajām	affpdyp	affpdyp	
+brīvībām	ncfpd4	ncfpd4	
+,	zc	zc	
+kuras	pr0fsgn	vmyipi130an	vmyipi330an	pq0fpan	pq0fpnn	pq0fsgn	pr0fpan	pr0fpnn	pr0fsgn	pi0fpan	pi0fpnn	pi0fsgn	
+mērķis	ncmsn2	ncmsn2	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+sniegt	vmnn0t1000n	vmnn0t1000n	
+preču	ncfpg5	ncfpg5	
+pircējiem	ncmpd1	ncmpd1	
+visizdevīgākos	afmpays	afmplns	afmpays	
+nosacījumus	ncmpa1	ncmpa1	
+preču	ncfpg5	ncfpg5	
+iegādei	ncfsd5	ncfsd5	
+.	zs	zs	
+<s>
+Izklausās	vmyipi330an	v_yip_330an	
+hipotētiski	r0m	n_mpn1	n_mpv1	n_mpn1	n_mpv1	n_msa2	n_msv2	n_mpn2	n_mpv2	n_mpn3	n_mpv3	n_fsa5	n_msa5	n_fsa6	a_mpnn_	r__	a_mpnn_	r__	v_nis_12san	v_nip_32san	v_nm0_32san	
+,	zc	zc	
+bet	ccs	ccs	ccd	
+pagājušajā	vmnpdmslasy	vmnpdmslasy	vmnpdmslasy	vmnpdfslasy	vmnpdfslasy	
+gadā	ncmsl1	ncmsl1	
+šī	pd3fsnn	pd3fsnn	pd3msgn	
+bija	vcnisii30an	vcnisii30an	vmnisii30an	
+reāla	arfsnnp	armsgnp	arfsnnp	
+situācija	ncfsn4	ncfsn4	
+ar	sppdn	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+vairākām	pi0fpdn	pi0fpd_	
+slimnīcā	ncfsl4	ncfsl4	
+lietojamām	vmnpdfpdppn	vmnpdfpdppn	
+zālēm	ncfpd5	ncfpd5	
+.	zs	zs	
+<s>
+Vientulība	ncfsn4	ncfsn4	
+.	zs	zs	
+<s>
+Tilta	ncmsg1	ncmsg1	
+vidū	ncmsl3	ncmvl3	
+tu	pp20snn	pp20snn	
+apstājies	vmyipi12san	vmyipi12san	vmym0i12san	vmyisi12san	vmypdmsnasn	
+un	ccs	ccs	
+jūti	vmnipt12san	ncmsa2	ncmsv2	vmnipt12san	vmnm0t12san	
+,	zc	zc	
+kā	r0m	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+Vientulība	ncfsn4	ncfsn4	
+tev	pp20sdn	pp20sdn	
+ausī	ncfsl6	ncfsl6	
+bļauj	vmnipt130an	vmnipt12san	vmnipi12san	vmnipt130an	vmnipi130an	vmnm0t12san	vmnm0i12san	
+:	zo	zo	
+"	zq	zq	
+Lec	vmnm0i12san	vmnipt12san	vmnipi12san	vmnipt130an	vmnipi130an	vmnm0t12san	vmnm0i12san	
+!	zs	zs	
+<s>
+Nesen	r0t	r0t	
+uzzināju	vmnist31san	vmnist31san	
+,	zc	zc	
+ka	css	css	
+man	pp10sdn	pp10sdn	
+ļoti	r0q	r0q	
+tuva	affsnnp	afmsgnp	affsnnp	
+draudzene	ncfsn5	ncfsn5	ncfsv5	
+centusies	voypdfsnasn	voypdfsnasn	
+izdarīt	vmnn0t3000n	vmnn0t3000n	
+pašnāvību	ncfsa4	ncfsa4	ncfpg4	
+.	zs	zs	
+<s>
+Lai arī	csc	csc	
+pagājuši	vmnpdmpnasn	vmnpdmpnasn	vmnpdmpnasn	
+gandrīz	r0q	r0q	
+20	xn	xn	
+gadi	ncmpn1	ncmpn1	ncmpv1	
+kopš	sppdn	sppdn	spsgn	css	
+pēdējiem	armpdnp	armpdnp	
+Dziesmusvētkiem	ncmdd1	n_mpd1	n_mpd1	n_mpd2	n_mpd3	a_mpdn_	a_mpdn_	n_msd5	
+,	zc	zc	
+kuros	pr0mpln	vmyipi11san	vmyipi31san	pq0mpln	pr0mpln	pi0mpln	
+piedalījos	vmyisi31san	vmyisi31san	
+dalībnieka	ncmsg1	n_msg1	
+-	zd	zd	
+dejotāja	ncmsg1	ncmsg1	ncfsn4	
+-	zd	zd	
+lomā	ncfsl4	ncmsl1	ncfsl4	
+,	zc	zc	
+man	pp10sdn	pp10sdn	
+vēl	r0t	vmnipt330an	r0t	r0m	qs	
+aizvien	r0t	r0t	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+dīvaina	affsnnp	afmsgnp	affsnnp	
+vai	ccs	css	ccs	ccr	ccd	qs	
+pat	qs	qs	
+drusku	r0q	ncfsa4	ncfpg4	r0q	
+neērta	affsnnp	afmsgnp	affsnnp	
+sajūta	ncfsn4	ncfsn4	ncfsv4	
+sēžot	vmnpu000000	vmnpu000000	vmnrpi100an	
+skatītāju	ncmpg1	ncmsa1	ncmpg1	
+tribīnēs	ncfpl5	ncfpl5	
+.	zs	zs	
+<s>
+Koncerts	ncmsn1	ncmsn1	ncmsv1	
+bija	vcnisii30an	vcnisii30an	vmnisii30an	
+brīnišķīgs	afmsnnp	afmsnnp	
+.	zs	zs	
+<s>
+Skaistākais	afmsnyc	a_msnyc	a_msvyc	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+var	vonipt330an	vonipt330an	
+būt	vmnn0t1000n	vcnn0ii000n	vmnn0ii000n	
+futbolā	ncmsl1	ncmsl1	
+,	zc	zc	
+tas	pd3msnn	pd3msnn	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+rezultāts	ncmsn1	ncmsn1	ncmsv1	
+uz	spsgy	sppdy	spsay	spsgy	
+tablo	nc_pg0	n____0	
+.	zs	zs	
+<s>
+Paskatieties	vmympt32pan	vmym0t32pan	
+uz	spsay	sppdy	spsay	spsgy	
+tablo	nc___0	n____0	
+...	zs	zs	
+<s>
+Konsultē	vmnipt230an	vmnipt22san	vmnipt230an	vmnm0t22san	
+psihoterapeite	ncfsn5	n_fsn5	n_msn5	n_msv5	
+Iveta	npfsn4	npfsn4	npfsv4	
+Pļaviņa	npfsn4	ncfsn4	
+<s>
+Vispār	r0m	r0m	
+mūsu	pp10pgn	pp10pgn	
+sabiedrībā	ncfsl4	ncfsl4	
+ļoti	r0q	r0q	
+daudziem	pi0mpdn	pi0mpd_	
+cilvēkiem	ncmpd1	ncmpd1	
+nav	vgnipii30ay	vcnipii30ay	vgnipii30ay	
+ģimenes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+priekšstata	ncmsg1	ncmsg1	
+.	zs	zs	
+<s>
+Ļoti	r0q	r0q	
+daudzas	pi0fpnn	pi0fpn_	pi0fpa_	
+sievietes	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+piedzīvojušas	vmnpdfpnasn	vmnpdfsgasn	vmnpdfpnasn	vmnpdfpaasn	
+vīra	ncmsg1	ncmsg1	
+neuzticību	ncfsa4	ncfsa4	ncfpg4	
+un	ccs	ccs	
+netic	vmnipt330ay	vmnipt330ay	
+,	zc	zc	
+ka	css	css	
+attiecības	ncfdn4	ncfsg4	ncfdn4	ncfpn4	ncfda4	ncfpa4	ncfdv4	ncfpv4	
+var	vonipt330an	vonipt330an	
+būt	vcnn0ii000n	vcnn0ii000n	vmnn0ii000n	
+arī	qs	ccs	qs	
+citādākas	arfpnnc	arfsgnc	arfpnnc	arfpanc	
+.	zs	zs	
+<s>
+Kā	r0m	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+nodrošināt	vmnn0t3000n	vmnn0t3000n	vmnipt32pan	
+to	pd3msan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+,	zc	zc	
+ka	css	css	
+otrajā	mosfslv	mosmslv	mosfslv	
+laulībā	ncfsl4	ncfsl4	
+būsi	vcnifii2san	vcnifii2san	vmnifii2san	
+laimīgāka	affsnnc	afmsgnc	affsnnc	
+?	zs	zs	
+<s>
+Nekas	pi0msny	pi0msny	
+nav	vcnipii30ay	vcnipii30ay	vgnipii30ay	
+beidzies	vmypdmsnasn	vmyipi12san	vmym0i12san	vmyisi12san	vmypdmsnasn	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+,	zc	zc	
+protams	qs	vmnpdmsnppn	qs	
+,	zc	zc	
+tāds	pd0msnn	pd0msnn	
+laiks	ncmsn1	ncmsn1	ncmsv1	
+kā	css	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+mēnesis	ncmsn2	ncmsn2	
+vai	ccs	css	ccs	ccr	ccd	qs	
+divi	mcsmpnv	mcsmpnv	
+šajā	pd3msln	pd3fsln	pd3msln	
+gadījumā	ncmsl1	ncmsl1	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+tikai	r0q	qs	
+piliens	ncmsn1	n_msn1	n_msv1	
+jūrā	ncfsl4	ncfsl4	
+.	zs	zs	
+<s>
+Gads	ncmsn1	ncmsn1	ncmsv1	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+tāds	pd0msnn	pd0msnn	
+optimāls	armsnnp	armsnnp	
+laiks	ncmsn1	ncmsn1	ncmsv1	
+,	zc	zc	
+lai	css	css	qs	
+pārdzīvotu	vmnc0t200an	vmnpdmsapsn	vmnpdmpgpsn	vmnpdfsapsn	vmnpdfpgpsn	vmnc0t200an	
+,	zc	zc	
+piemēram	ncmsd1	ncmsd1	
+,	zc	zc	
+tuva	afmsgnp	afmsgnp	affsnnp	
+cilvēka	ncmsg1	ncmsg1	
+nāvi	ncfsa5	ncfsa5	
+.	zs	zs	
+<s>
+Kaut	qs	vmnn0t1000n	css	qs	
+tagad	r0t	r0t	
+,	zc	zc	
+pēdējos	armplnp	armplnp	armpayp	
+gados	ncmpl1	ncmpl1	veyipi31san	
+,	zc	zc	
+parādījusies	vmypdfsnasn	v_ypdfsnasn	
+tendence	ncfsn5	ncfsn5	ncfsv5	
+,	zc	zc	
+ka	css	css	
+tieši	qs	afmpnnp	r__	qs	
+sievietes	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+tās	pd3fpnn	pd3fpan	pd3fpnn	pd3fsgn	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+aiziet	vmnipii30an	vmnn0i1000n	vmnn0t1000n	vmnipii30an	
+.	zs	zs	
+<s>
+Otrās	mosfsgv	mosfsgv	mosfpnv	mosfpav	mosfpvv	mcsfpl_	
+laulības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+plusi	ncmpn1	ncmpn1	ncmpv1	
+un	ccs	ccs	
+mīnusi	ncmpn1	ncmpn1	ncmpv1	
+<s>
+Tāda	pd0fsnn	pd0fsnn	pd0msgn	
+salīdzināšana	ncfsn4	ncfsn4	ncfsv4	
+uz	sppdy	sppdy	spsay	spsgy	
+attiecībām	ncfdd4	ncfdd4	ncfpd4	
+iedarbojas	vmyipi230an	vmyipi230an	
+graujoši	r0m	vmnpdmpnapn	r__	
+.	zs	zs	
+<s>
+Kāpēc	r0c	r0c	
+?	zs	zs	
+<s>
+Ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+tāda	pd0fsnn	pd0fsnn	pd0msgn	
+franču	ncmpg2	npmpg2	n_mds2	
+psihoterapijas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+grāmata	ncfsn4	ncfsn4	ncfsv4	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+saucas	vmyipi130an	vmyipi130an	
+«	zq	zq	
+Viss	ncmsn1	ncmsn1	ncmsv1	pg0msnn	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+valoda	ncfsn4	ncfsn4	ncfsv4	
+»	zq	zq	
+.	zs	zs	
+<s>
+Jo	css	css	ccr	qs	
+-	zd	zd	
+kas	pq000nn	pq000nn	pr000nn	pi000nn	
+tad	qs	r0t	qs	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+attiecības	ncfdn4	ncfsg4	ncfdn4	ncfpn4	ncfda4	ncfpa4	ncfdv4	ncfpv4	
+?	zs	zs	
+<s>
+Sievietes	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+vēlas	vmyipt330an	affsgnp	affpnnp	affpanp	voyipt330an	
+attiecības	ncfda4	ncfsg4	ncfdn4	ncfpn4	ncfda4	ncfpa4	ncfdv4	ncfpv4	
+un	ccs	ccs	
+vēlas	voyipt330an	affsgnp	affpnnp	affpanp	voyipt330an	
+dzīvot	vmnn0t2000n	vmnn0t2000n	
+laulībā	ncfsl4	ncfsl4	
+.	zs	zs	
+<s>
+Viņam	pp3msdn	pp3msdn	pd3msdn	
+nav	vcnipii30ay	vcnipii30ay	vgnipii30ay	
+tie	pd3mpnn	pd3mpnn	
+bērni	ncmpn1	ncmpn1	ncmpv1	
+jāmīl	vmnd0t300an	vmnd0t300an	
+.	zs	zs	
+<s>
+Es	pp10snn	pp10snn	
+vienmēr	r0t	r0t	
+saku	vmnipt31san	n_fdg4	vmnipt31san	
+-	zd	zd	
+bērniem	ncmpd1	ncmpd1	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+labi	r0m	afmpnnp	r__	
+augt	vmnn0i1000n	vmnn0i1000n	
+ģimenē	ncfsl5	ncfsl5	
+,	zc	zc	
+kur	r0p	vmnipt12san	vmnipt130an	vmnm0t12san	r0p	
+valda	vmnipt330an	npfsn4	npfsv4	vmnipt330an	
+mīlestība	ncfsn4	ncfsn4	
+.	zs	zs	
+<s>
+Neapšaubāmi	r0m	v_npdmpnppn	
+,	zc	zc	
+slavenajos	afmplyp	afmplyp	
+pusaudža	ncmsg2	ncmsg2	
+gados	ncmpl1	ncmpl1	veyipi31san	
+.	zs	zs	
+<s>
+Trešā	mosfsnv	mosmsgv	mosfsnv	mosfsvv	
+un	ccs	ccs	
+varbūt	qs	qs	
+pat	qs	qs	
+ceturtā	mosfsnv	mosmsgv	mosfsnv	mosfsvv	
+?	zs	zs	
+<s>
+Realitātē	ncfsl5	ncfsl5	
+otrā	mosfsnv	mosmsgv	mosfsnv	mosfsvv	mcsmsl_	mcsfsl_	
+laulība	ncfsn4	ncfsn4	ncfsv4	
+mūsdienās	ncfpl4	ncfdl4	
+jau	r0t	r0t	qs	
+kļuvusi	vmnpdfsnasn	vtnpdfsnasn	
+par	spsan	sppdn	spsan	sp00n	
+normu	ncfsa4	ncfsa4	ncfpg4	
+.	zs	zs	
+<s>
+Par	spsan	sppdn	spsan	sp00n	
+neuzticēšanos	ncfsar	ncfsar	ncfpgr	
+.	zs	zs	
+<s>
+Tur	r0p	vmnipt330an	r0p	
+sākotnēji	r0t	armpnnp	r__	
+atkal	r0t	ncfsv4	r0t	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+kaut	qs	vmnn0t1000n	css	qs	
+kas	pi000nn	pq000nn	pr000nn	pi000nn	
+pozitīvs	afmsnnp	ncmsn1	ncmsv1	afmsnnp	
+,	zc	zc	
+bet	ccs	ccs	ccd	
+tiklīdz	css	css	
+parādās	vmyipi330an	v_yip_330an	
+nepatīkamais	afmsnyp	afmsnyp	afmsvyp	
+-	zd	zd	
+pie	spsgy	sppdy	spsgy	
+nākamā	armsgy	vmnpdmslppn	vmnpdmsgppy	vmnpdfslppn	vmnpdfsnppy	vmnpdfsvppy	
+...	zs	zs	
+<s>
+Un	ccs	ccs	
+konflikti	ncmpn1	n_mpn1	n_mpv1	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+visās	pg0fpln	pg0fpln	
+attiecībās	ncfdl4	ncfdl4	ncfpl4	
+,	zc	zc	
+pilnīgi	r0q	afmpnnp	r__	r0q	
+visās	pg0fpln	pg0fpln	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+bieži	r0q	afmpnnp	r__	r0q	
+vien	qs	qs	
+sievietes	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+tā	r0m	r0m	pd3fsnn	pd3msgn	ccd	qs	
+arī	qs	ccs	qs	
+nav	vcnipii30ay	vcnipii30ay	vgnipii30ay	
+tikušas	vtnpdfpnasn	vtnpdfsgasn	vtnpdfpnasn	vtnpdfpaasn	
+ātrā	xt	afmslnp	afmsgyp	affslnp	affsnyp	affsvyp	
+no	spsgy	sppdy	spsgy	
+šīs	pd3fsgn	pd3fpan	pd3fpnn	pd3fsgn	
+pusaudžu	ncmpg2	ncmpg2	ncfpg5	
+ticības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+,	zc	zc	
+ka	css	css	
+iespējams	armsnnp	armsnnp	
+satikt	vmnn0t1000n	vmnn0t1000n	
+vīrieti	ncmsa2	ncmsa2	ncmsv2	
+,	zc	zc	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+kuru	pr0msan	vmnipt11san	pq0fpgn	pq0fsan	pr0fpgn	pr0fsan	pi0fpgn	pi0fsan	pq0mpgn	pq0msan	pr0mpgn	pr0msan	pi0mpgn	pi0msan	
+būs	vmnifii30an	vcnifii30an	vmnifii30an	
+kaisle	ncfsn5	ncfsn5	ncfsv5	
+mūža	ncmsg1	ncmsg1	
+garumā	ncmsl1	ncmsl1	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+kā	r0m	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+var	vonipt330an	vonipt330an	
+atšķirt	vmnn0t1000n	vmnn0t1000n	
+konfliktu	ncmsa1	n_msa1	n_mpg1	
+no	spsgy	sppdy	spsgy	
+tā	pd3msgn	r0m	pd3fsnn	pd3msgn	ccd	qs	
+,	zc	zc	
+ka	css	css	
+tu	pp20snn	pp20snn	
+attiecībās	ncfdl4	ncfdl4	ncfpl4	
+...	zs	zs	
+<s>
+Reizēm	r0q	ncfpd5	
+tās	pd3fpnn	pd3fpan	pd3fpnn	pd3fsgn	
+rodas	vmyipi130an	vmyipi130an	
+arī	qs	ccs	qs	
+ļoti	r0q	r0q	
+negaidot	vmnpu000000	vmnrpt300ay	vmnpu000000	
+.	zs	zs	
+<s>
+aizgājušo	vmnpdmsaasy	vmnpdmsaasy	vmnpdmsaasy	vmnpdmpgasy	vmnpdmpgasy	vmnpdfsaasy	vmnpdfsaasy	vmnpdfpgasy	vmnpdfpgasy	
+.	zs	zs	
+<s>
+Un	ccs	ccs	
+kā	r0m	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+runāt	vmnn0t2000n	vmnn0t2000n	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+meitu	ncfsa4	ncfsa4	ncfpg4	
+?	zs	zs	
+»	zq	zq	
+<s>
+A.	y	y	
+Upīša	npmsg2	n_msg1	n_msg1	n_msg2	n_fsn4	n_fsv4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+Skrīveru	npmdg2	ncmpg2	
+vidusskolā	ncfsl4	ncfsl4	
+notika	vmnisi130an	vmnisi130an	
+audzēkņu	ncmpg2	n_mpg2	ncfpg5	
+ierindas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+skate	ncfsn5	ncfsn5	ncfsv5	
+.	zs	zs	
+<s>
+"	zq	zq	
+Uzskatīju	vmnist31san	vmnist31san	
+par	spsan	sppdn	spsan	sp00n	
+lielu	afmsanp	ncmsa1	ncmpg1	afmsanp	afmpgnp	affsanp	affpgnp	vmnipt31san	
+godu	ncmsa1	ncmsa1	ncmpg1	
+atnākt	vmnn0i1000n	vmnn0i1000n	vmnn0t1000n	
+un	ccs	ccs	
+piedalīties	vmyn0i3000n	vmyn0i3000n	
+.	zs	zs	
+<s>
+Strenču	npmdg2	n_msa1	n_mpg1	n_msa1	n_mpg1	n_mpg2	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	n_fpg5	n_mpg5	n_fpg6	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+domes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+priekšsēdētāja	ncfsn1	ncmsg1	
+Velga	npfsn4	npfsn4	npfsv4	
+Graumane	npfsn5	n_fsn5	n_fsv5	n_msn5	n_msv5	
+noliedz	vmnipt130an	vmnipt12san	vmnipt130an	vmnm0t12san	
+runas	ncfpa4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+,	zc	zc	
+ka	css	css	
+bedru	ncfpg5	ncfpg5	
+labošana	ncfsn4	ncfsn4	ncfsv4	
+un	ccs	ccs	
+zāles	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+pļaušana	ncfsn4	ncfsn4	ncfsv4	
+pilsētā	ncfsl4	ncfsl4	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+saistīta	vmnpdfsnpsn	vmnpdmsgpsn	vmnpdfsnpsn	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+valsts	ncfsg6	ncfsn6	ncfsn6	ncfsg6	ncfsg6	ncfsv6	ncfsv6	
+pirmās	mosfsgv	mosfsgv	mosfpnv	mosfpav	mosfpvv	
+amatpersonas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+vizīti	ncfsa5	ncfsa5	
+.	zs	zs	
+<s>
+Abi	pg0mpnn	pg0mpnn	
+dēli	ncmpn1	ncmpn1	ncmpv1	ncmsa2	ncmsv2	ncfsa5	
+gandrīz	r0q	r0q	
+vienā	mcsmslv	mcsmslv	mcsfslv	
+laikā	ncmsl1	ncmsl1	
+pārveda	vmnist130an	ncfsn4	ncfsv4	
+vedeklas	ncfpa4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+un	ccs	ccs	
+nu jau	qc	n_mpg2	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	n_fpg5	n_mpg5	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+pilna	affsnnp	afmsgnp	affsnnp	
+māja	ncfsn4	ncfsn4	ncfsv4	vmnist130an	
+mazu	affpgnp	afmsanp	afmpgnp	affsanp	affpgnp	
+atvasīšu	ncfpg5	ncfpg5	
+.	zs	zs	
+<s>
+ĒDENES	npfsg5	npfsg5	npfpn5	npfpa5	npfpv5	
+DĀRZS	ncmsn1	ncmsn1	ncmsv1	
+<s>
+Vai	qs	css	ccs	ccr	ccd	qs	
+nav	vcnipii30ay	vcnipii30ay	vgnipii30ay	
+savādi	r0m	armpnnp	r__	r0m	
+,	zc	zc	
+kā	r0m	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+viss	pg0msnn	ncmsn1	ncmsv1	pg0msnn	
+sāk	vpnipt130an	vmnipt130an	vpnipt130an	
+briest	vmnn0i1000n	vmnn0i1000n	vmnipi130an	
+un	ccs	ccs	
+augt	vmnn0i1000n	vmnn0i1000n	
+šajā	pd3msln	pd3fsln	pd3msln	
+gadalaikā	ncmsl1	ncmsl1	
+?	zs	zs	
+<s>
+Nekā	pi0msgy	r0m	pi0msgy	css	qs	
+vairāk	rcq	rcq	
+tur	r0p	vmnipt330an	r0p	
+nebija	vgnisii30ay	vcnisii30ay	vgnisii30ay	vmnisii30ay	
+.	zs	zs	
+<s>
+Vispirms	r0t	r0t	
+viņai	pp3fsdn	pp3fsdn	pd3fsdn	
+bija	vmnisii30an	vcnisii30an	vmnisii30an	
+trauks	ncmsn1	ncmsn1	ncmsv1	vmnift130an	vmnifi130an	
+ar	sppdn	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+zelta	ncmsg1	vmnpdmsgpsn	vmnpdfsnpsn	ncmvg1	v_nip_330an	
+zivtiņām	ncfpd4	ncfpd4	
+Zeltīti	npfsa5	vmnpdmpnpsn	v_npdmpnpsn	npfsa5	
+,	zc	zc	
+Sarkangalvīti	npfsa5	npfsa5	
+un	ccs	ccs	
+Melno	afmsayp	afmsayp	afmpgyp	affsayp	affpgyp	vmnipt22san	vmnipt230an	vmnm0t22san	
+Pēteri	npmsa2	npmsa2	npmsv2	npmpn2	npmpv2	
+.	zs	zs	
+<s>
+Viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+nostājās	vmyisi130an	ncfpl4	vmyisi130an	
+spoguļa	ncmsg2	ncmsg2	
+priekšā	ncfsl4	ncfsl4	r0p	
+un	ccs	ccs	
+skatījās	vmyist330an	vmyisi330an	vmyist330an	
+sev	px000dn	px000dn	
+acīs	ncfpl6	ncfpl6	
+.	zs	zs	
+<s>
+Tā kā	csc	csc	qc	
+arī	qs	ccs	qs	
+tagad	r0t	r0t	
+nebija	vgnisii30ay	vcnisii30ay	vgnisii30ay	vmnisii30ay	
+nekādas	pi0fsgy	pi0fpay	pi0fpny	pi0fsgy	
+atbildes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+,	zc	zc	
+viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+apgrieza	vmnist130an	vmnist130an	
+teikto	vmnpdmsapsy	vmnpdmsapsy	vmnpdmpgpsy	vmnpdfsapsy	vmnpdfpgpsy	
+otrādi	r0m	armpnnp	r__	r0m	
+un	ccs	ccs	
+sacīja	vmnist330an	vmnist330an	
+:	zo	zo	
+"	zq	zq	
+Es	pp10snn	pp10snn	
+esmu	vcnipii1san	vcnipii1san	vmnipii1san	
+tu	pp20snn	pp20snn	
+.	zs	zs	
+"	zq	zq	
+<s>
+To	pd3msan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+viņš	pp3msnn	pp3msnn	pd3msnn	
+varēja	vonist330an	vonist330an	
+gan	qs	ncmsv1	ccr	qs	
+darīt	vmnn0t3000n	vmnn0t3000n	
+,	zc	zc	
+jo	css	css	ccr	qs	
+viņam	pp3msdn	pp3msdn	pd3msdn	
+vis	qs	ncmsv1	qs	
+nebija	vcnisii30ay	vcnisii30ay	vgnisii30ay	vmnisii30ay	
+lemts	vmnpdmsnpsn	vmnpdmsnpsn	
+savus	ps0mpan	ps0mpan	
+melnos	afmpayp	afmplnp	afmpayp	vmnift230an	
+matus	ncmpa1	ncmpa1	
+uz	spsay	sppdy	spsay	spsgy	
+visu	pg0msan	ncmsa1	ncmpg1	pg0fpgn	pg0fsan	pg0mpgn	pg0msan	pg0msgn	
+mūžu	ncmsa1	ncmsa1	ncmpg1	
+paturēt	vmnn0t3000n	v_nn0_3000n	
+kaut vai	qc	qc	
+taisni	rpm	ncfsa5	afmpnnp	r__	
+karājamies	vmypu000000	vmyipi21pan	vmypu000000	
+uz	spsay	sppdy	spsay	spsgy	
+leju	ncfsa4	ncfsa4	ncfpg4	vmnipt11san	
+.	zs	zs	
+<s>
+Vai	qs	css	ccs	ccr	ccd	qs	
+pastāv	vmnipt330an	vmnipt330an	vmnipi330an	
+dzīve	ncfsn5	ncfsn5	ncfsv5	
+pēc	spsgy	sppdy	spsgy	stpgy	stsgy	
+nāves	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+?	zs	zs	
+<s>
+Ne	qs	ccr	ccd	qs	
+tik	r0q	ncmsv1	r0q	qs	is	
+sen	r0t	r0t	
+Sofijai	npfsd4	npfsd4	
+bija	vcnisii30an	vcnisii30an	vmnisii30an	
+nomirusi	vmnpdfsnasn	vmnpdfsnasn	
+vecmāmiņa	ncfsn4	ncfsn4	
+.	zs	zs	
+<s>
+Viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+visiem	pg0fpdn	ncmpd1	pg0mpdn	
+spēkiem	ncmpd1	ncmpd1	
+mēģināja	vonist330an	vmnist330an	venist330an	
+domāt	vmnn0t2000n	vmnn0t2000n	
+par	spsan	sppdn	spsan	sp00n	
+to	pd3msan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+,	zc	zc	
+ka	css	css	
+viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+pašlaik	r0t	r0t	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+,	zc	zc	
+lai	css	css	qs	
+tādā	pd0msln	pd0fsln	pd0msln	
+veidā	ncmsl1	ncmsl1	
+aizmirstu	vmnc0t100an	vmnpdmsapsn	vmnpdmpgpsn	vmnpdfsapsn	vmnpdfpgpsn	vmnc0t100an	vmnipt11san	
+,	zc	zc	
+ka	css	css	
+vienmēr	r0t	r0t	
+tas	pd3msnn	pd3msnn	
+tā	r0m	r0m	pd3fsnn	pd3msgn	ccd	qs	
+nebūs	vmnifii30ay	vgnifii30ay	vcnifii30ay	vmnifii30ay	
+.	zs	zs	
+<s>
+Tiklīdz	css	css	
+viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+sakopoja	vmnist230an	vmnist230an	
+visas	pg0fpan	pg0fpan	pg0fpnn	pg0fsgn	
+domas	ncfpa4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+par	spsan	sppdn	spsan	sp00n	
+to	pd3msan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+,	zc	zc	
+ka	css	css	
+viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+eksistē	vmnipi230an	vmnipi22san	vmnipi230an	vmnm0i22san	
+,	zc	zc	
+tūlīt	r0t	r0t	
+klāt	r0p	vmnn0t1000n	r0p	
+bija	vmnisii30an	vcnisii30an	vmnisii30an	
+arī	qs	ccs	qs	
+doma	ncfsn4	ncmsg1	ncfsn4	ncfsv4	
+par	spsan	sppdn	spsan	sp00n	
+dzīves	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+galu	ncmsa1	ncmsa1	ncmpg1	
+.	zs	zs	
+<s>
+"	zq	zq	
+Man	pp10sdn	pp10sdn	
+nav	vgnipii30ay	vcnipii30ay	vgnipii30ay	
+ne	qs	ccr	ccd	qs	
+jausmas	ncfsg4	npfsg4	ncfsg4	npfpn4	ncfpn4	npfpa4	ncfpa4	npfpv4	ncfpv4	
+,	zc	zc	
+"	zq	zq	
+<s>
+Pirmo	mosfsav	mosmsav	mosmpgv	mosfsav	mosfpgv	
+reizi	ncfsa5	ncfsa5	
+mūžā	ncmsl1	ncmsl1	
+viņai	pp3fsdn	pp3fsdn	pd3fsdn	
+likās	vmyisi130an	vmyisi130an	
+,	zc	zc	
+ka	css	css	
+nav	vcnipii30ay	vcnipii30ay	vgnipii30ay	
+pareizi	r0c	afmpnnp	r__	
+dzīvot	vmnn0t2000n	vmnn0t2000n	
+pasaulē	ncfsl5	ncfsl5	
+un	ccs	ccs	
+pat	qs	qs	
+nejautāt	vmnn0t2000y	vmnist12pay	vmnn0t2000y	
+,	zc	zc	
+no	spsgy	sppdy	spsgy	
+kurienes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+tā	pd3fsnn	r0m	pd3fsnn	pd3msgn	ccd	qs	
+cēlusies	vmypdfsnasn	vmypdfsnasn	
+.	zs	zs	
+<s>
+Cik	r0q	r0q	css	
+vien	qs	qs	
+Sofija	npfsn4	npfsn4	npfsv4	
+sevi	px000an	px000an	
+atcerējās	vmyist330an	vmyist330an	
+,	zc	zc	
+viņai	pp3fsdn	pp3fsdn	pd3fsdn	
+bija	vcnisii30an	vcnisii30an	vmnisii30an	
+zināma	vmnpdfsnppn	vmnpdmsgppn	vmnpdfsnppn	
+maza	affsnnp	afmsgnp	affsnnp	
+sprauga	ncfsn4	ncfsn4	ncfsv4	
+dzīvžogā	ncmsl1	ncmsl1	
+.	zs	zs	
+<s>
+Visbeidzot	r0t	r0t	
+un	ccs	ccs	
+galu	ncmpg1	ncmsa1	ncmpg1	
+galā	ncmsl1	ncmsl1	r0_	
+,	zc	zc	
+kaut	qs	vmnn0t1000n	css	qs	
+kam	pi000dn	pq000dn	pr000dn	pi000dn	
+reiz	r0t	r0t	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+bijis	vcnpdmsnasn	vcnpdmsnasn	vmnpdmsnasn	
+jātop	vmnd0i100an	vtnd0i100an	vmnd0i100an	
+no	spsgy	sppdy	spsgy	
+nekā	pi0msgy	r0m	pi0msgy	css	qs	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+tieši	qs	afmpnnp	r__	qs	
+šo	pd3fsan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+iespēju	ncfsa4	ncfsa4	ncfpg4	
+viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+taču	qs	ncmpg2	ccs	qs	
+nupat	r0t	r0t	
+kā	qs	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+bija	vcnisii30an	vcnisii30an	vmnisii30an	
+noraidījusi	vmnpdfsnasn	vmnpdfsnasn	
+!	zs	zs	
+<s>
+Un	ccs	ccs	
+no	spsgy	sppdy	spsgy	
+kurienes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+cēlušās	vmnpdfplasn	vmnpdfplasn	vmnpdfsgasy	vmnpdfpnasy	vmnpdfpaasy	vmnpdfpvasy	vmypdfsgasn	vmypdfpnasn	
+šīs	pd3fpnn	pd3fpan	pd3fpnn	pd3fsgn	
+divas	mcsfpnv	mcsfpnv	mcsfpav	
+vēstules	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+?	zs	zs	
+<s>
+Sofija	npfsn4	npfsn4	npfsv4	
+izķeksēja	vmnist230an	vmnist230an	
+pamatīgu	afmsanp	afmsanp	afmpgnp	affsanp	affpgnp	
+žūksni	ncmsa2	ncmsa2	ncmsv2	
+ar	sppdn	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+reklāmām	ncfpd4	ncfpd4	
+,	zc	zc	
+avīzēm	ncfpd5	ncfpd5	
+un	ccs	ccs	
+pāris	pi00pan	ncmsn2	ar_____	
+vēstules	ncfpa5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+mātei	ncfsd5	ncfsd5	
+.	zs	zs	
+<s>
+Bez	sppdn	sppdn	spsgn	
+tam	pd3msdn	pd3msdn	
+bija	vmnisii30an	vcnisii30an	vmnisii30an	
+arī	qs	ccs	qs	
+pastkarte	ncfsn5	ncfsn5	ncfsv5	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+skatu	ncmsa1	ncmsa1	ncmpg1	ncfpg5	vmnipt31san	
+no	spsgy	sppdy	spsgy	
+kādas	pi0fsgn	pi0fpan	pi0fpnn	pi0fsgn	pq0fpan	pq0fpnn	pq0fsgn	pr0fpan	pr0fpnn	pr0fsgn	
+dienvidu	ncmpg1	ncmdg1	n_msa3	n_msv3	n_mpg3	
+pludmales	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+.	zs	zs	
+<s>
+"	zq	zq	
+Sofijai	npfsd4	npfsd4	
+Amundsenai	npfsd4	npfsd4	
+,	zc	zc	
+nodot	vmnn0t2000n	vmnn0ti000n	
+Hildai	npfsd4	npfsd4	
+Mellerei	npfsd5	npfsd5	
+Knāgai	npfsd4	npfsd4	
+,	zc	zc	
+Āboliņa	ncmsg1	ncmsg1	
+ceļš	ncmsn1	ncmsn1	ncmsv1	
+3	xn	xn	
+...	zs	zs	
+"	zq	zq	
+<s>
+Kā	r0m	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+jau	r0t	r0t	qs	
+Tu	pp20snn	pp20snn	
+labi	r0m	afmpnnp	r__	
+zini	vmnipt32san	vmnipt32san	vmnm0t32san	
+,	zc	zc	
+dāvana	ncfsn4	ncfsn4	ncfsv4	
+Tev	pp20sdn	pp20sdn	
+būs	vcnifii30an	vcnifii30an	vmnifii30an	
+tāda	pd0fsnn	pd0fsnn	pd0msgn	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+Tev	pp20sdn	pp20sdn	
+palīdzēs	vonift330an	ncfpl5	vmnift330an	
+pieaugt	vmnn0i1000n	vmnn0i1000n	
+.	zs	zs	
+<s>
+Tur	r0p	vmnipt330an	r0p	
+bija	vmnisii30an	vcnisii30an	vmnisii30an	
+daudzi	pi0mpnn	pi0mpn_	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+uzvārdu	ncmsa1	ncmsa1	ncmpg1	
+Mellers	npmsn1	ncmsn1	npmsn1	ncmsv1	npmsv1	
+,	zc	zc	
+bija	vmnisii30an	vcnisii30an	vmnisii30an	
+arī	qs	ccs	qs	
+vairāki	pi0mpnn	pi0mpn_	
+Knāgi	npmpn1	npmpn1	npmpv1	
+.	zs	zs	
+<s>
+Viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+ņēmās	vmyisi130an	vmyisi130an	
+pētīt	vmnn0t3000n	vmnn0t3000n	
+nesaprotamo	vmnpdfsappy	vmnpdmsappy	vmnpdmsvppy	vmnpdmpgppy	vmnpdfsappy	vmnpdfpgppy	
+skatu	ncmpg1	ncmsa1	ncmpg1	ncfpg5	vmnipt31san	
+karti	ncfsa5	ncfsa5	
+vēlreiz	r0t	r0t	
+.	zs	zs	
+<s>
+Interesanti	rpm	afmpnnp	r__	
+,	zc	zc	
+kādā	pr0msln	pi0fsln	pq0fsln	pr0fsln	pi0msln	pq0msln	pr0msln	
+veidā	ncmsl1	ncmsl1	
+tas	pd3msnn	pd3msnn	
+varēja	vonist330an	vonist330an	
+«	zq	zq	
+būt	vmnn0ii000n	vcnn0ii000n	vmnn0ii000n	
+vieglāk	rct	rc_	
+»	zq	zq	
+?	zs	zs	
+<s>
+Sofija	npfsn4	npfsn4	npfsv4	
+ievēroja	vmnist230an	vmnist230an	
+Jūrunas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+balsī	ncfsl6	ncfsl6	ncfsl6	
+rūgtuma	ncmsg1	ncmsg1	
+pieskaņu	ncfsa4	ncfsa4	ncfpg4	
+.	zs	zs	
+<s>
+Sofija	npfsn4	npfsn4	npfsv4	
+juta	vmnist130an	npfsn4	npfsv4	vmnist130an	
+nožēlu	ncfsa4	ncfsa4	ncfpg4	
+,	zc	zc	
+ka	css	css	
+bija	vcnisii30an	vcnisii30an	vmnisii30an	
+sāpinājusi	vmnpdfsnasn	vmnpdfsnasn	
+draudzeni	ncfsa5	ncfsa5	
+.	zs	zs	
+<s>
+Apieties	vmyn0i1000n	v_nif_130an	v_nif_230an	v_nif_330an	
+saudzīgi	r0m	afmpnnp	r__	
+...	zs	zs	
+<s>
+Varbūt	qs	qs	
+filosofu	ncmpg1	ncmsa1	ncmpg1	
+dzīšanos	ncfsar	ncfsar	ncfpgr	
+pēc	stpgy	sppdy	spsgy	stpgy	stsgy	
+patiesības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+var	vonipt330an	vonipt330an	
+salīdzināt	vmnn0t3000n	vmnn0t3000n	vmnipt32pan	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+detektīvromānu	ncmsa1	ncmsa1	ncmpg1	
+.	zs	zs	
+<s>
+Tas	pd3msnn	pd3msnn	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+tāpat	r0m	r0m	qs	
+,	zc	zc	
+kā	r0m	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+skatoties	vmypu000000	vmyrpi300an	vmyrpt300an	vmypu000000	vmypu000000	
+burvju	ncmpg2	ncmpg2	ncfpg5	
+mākslinieka	ncmsg1	ncmsg1	
+trikus	ncmpa1	ncmpa1	
+.	zs	zs	
+<s>
+Tā	r0m	r0m	pd3fsnn	pd3msgn	ccd	qs	
+tas	pd3msnn	pd3msnn	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+,	zc	zc	
+triks	ncmsn1	ncmsn1	ncmsv1	
+viņam	pp3msdn	pp3msdn	pd3msdn	
+izdevies	vmyist12san	vmyisti2san	vmypdmsnasn	
+tikai	qs	qs	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+acu	ncfpg6	n_msa1	n_mpg1	n_msa1	n_mpg1	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+apmānīšanu	ncfsa4	ncfsa4	ncfpg4	
+,	zc	zc	
+to	pd3msan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+mēs	pp10pnn	vmnifi130an	pp10pnn	
+labprāt	r0m	r0m	
+atzīstam	vmnipt11pan	vmnipt11pan	vmnpu000000	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+filosofi	ncmpn1	ncmpn1	ncmpv1	
+mēģina	vonipt330an	vmnipt330an	venipt330an	
+rāpties	vmyn0i1000n	vmyn0i1000n	
+augšup	r0p	r0p	
+pa	spsay	sppdy	spsay	spsdy	
+vienu	mcsmsav	mcsmsav	mcsfsav	mcsmpgv	mcsfpgv	
+no	spsgy	sppdy	spsgy	
+šī	pd3msgn	pd3fsnn	pd3msgn	
+kažoka	ncmsg1	ncmsg1	
+smalkajām	affpdyp	affpdyp	
+spalviņām	ncfpd4	ncfpd4	
+,	zc	zc	
+lai	css	css	qs	
+varētu	vonc0t300an	vonpdmsapsn	vonpdmpgpsn	vonpdfsapsn	vonpdfpgpsn	vonc0t300an	
+paskatīties	vmyn0t3000n	vmyn0t3000n	
+lielajam	afmsdyp	afmsdyp	
+burvju	ncmpg2	ncmpg2	ncfpg5	
+māksliniekam	ncmsd1	ncmsd1	
+gluži	r0q	r0q	
+acīs	ncfpl6	ncfpl6	
+.	zs	zs	
+<s>
+Turpmāk	r0t	r0t	
+vēl	r0t	vmnipt330an	r0t	r0m	qs	
+.	zs	zs	
+<s>
+Kas	pq000nn	pq000nn	pr000nn	pi000nn	
+,	zc	zc	
+kas	pq000nn	pq000nn	pr000nn	pi000nn	
+?	zs	zs	
+<s>
+Sofija	npfsn4	npfsn4	npfsv4	
+paskatījās	vmyist330an	vmyist330an	
+,	zc	zc	
+cik	r0q	r0q	css	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+pulkstenis	ncmsn2	ncmsn2	
+.	zs	zs	
+<s>
+Nu	r0t	r0t	qs	is	
+viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+pameta	vmnist130an	vmnist130an	
+skatu	ncmsa1	ncmsa1	ncmpg1	ncfpg5	vmnipt31san	
+visapkārt	r0p	r0p	
+,	zc	zc	
+bet	ccs	ccs	ccd	
+nē	qs	qs	
+,	zc	zc	
+nebija	vgnisii30ay	vcnisii30ay	vgnisii30ay	vmnisii30ay	
+neviena	pi0msgy	pi0fsny	pi0msgy	
+.	zs	zs	
+<s>
+Viņa	pp3fsnn	pp3fsnn	pp3msgn	pd3msgn	pd3fsnn	
+drāzās	vmyisi130an	vmyisi130an	
+uz	spsay	sppdy	spsay	spsgy	
+mežmalu	ncfsa4	ncfsa4	ncfpg4	
+un	ccs	ccs	
+vērīgi	r0m	afmpnnp	r__	r0m	
+pārlūkoja	vmnist230an	vmnist230an	
+šauro	afmsayp	afmsayp	afmpgyp	affsayp	affpgyp	
+taciņu	ncmsa1	ncmsa1	ncmpg1	ncfsa4	ncfpg4	
+.	zs	zs	
+<s>
+Pēc	sppdy	sppdy	spsgy	stpgy	stsgy	
+dažiem	pi0mpdn	pi0mpdn	
+mēnešiem	ncmpd2	ncmpd2	ncmpd2	
+tā	pd3fsnn	r0m	pd3fsnn	pd3msgn	ccd	qs	
+mainās	vmyipi330an	vmyipi330an	
+un	ccs	ccs	
+pievēršas	vmyipi130an	vmyipi130an	
+gluži	r0q	r0q	
+jaunai	affsdnp	affsdnp	
+realitātei	ncfsd5	ncfsd5	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+ilgi	rpm	afmpnnp	r__	vmnisi12san	
+,	zc	zc	
+pirms	r0t	r0t	sppdy	spsgy	css	
+bērns	ncmsn1	ncmsn1	ncmsv1	
+iemācās	vmyipt330an	vmyipt330an	
+kārtīgi	r0m	afmpnnp	r__	
+runāt	vmnn0t2000n	vmnn0t2000n	
+,	zc	zc	
+—	zd	zd	
+un	ccs	ccs	
+ilgi	rpm	afmpnnp	r__	vmnisi12san	
+,	zc	zc	
+pirms	r0t	r0t	sppdy	spsgy	css	
+viņš	pp3msnn	pp3msnn	pd3msnn	
+iemācās	vmyipt330an	vmyipt330an	
+filosofiski	rpm	afmpnnp	r__	
+domāt	vmnn0t2000n	vmnn0t2000n	
+,	zc	zc	
+—	zd	zd	
+pasaule	ncfsn5	ncfsn5	ncfsv5	
+viņam	pp3msdn	pp3msdn	pd3msdn	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+kļuvusi	vcnpdfsnasn	vtnpdfsnasn	
+ikdienišķi	r0m	afmpnnp	r__	
+parasta	affsnnp	vmnpdmsgpsn	vmnpdfsnpsn	afmsgnp	affsnnp	
+.	zs	zs	
+<s>
+Mēs	pp10pnn	vmnifi130an	pp10pnn	
+vispār	r0m	r0m	
+nezinām	vmnpu000000	vmnipt31pay	vmnpu000000	
+,	zc	zc	
+vai	css	css	ccs	ccr	ccd	qs	
+pastāv	vmnipt330an	vmnipt330an	vmnipi330an	
+dzīvība	ncfsn4	ncfsn4	ncfsv4	
+uz	sppdy	sppdy	spsay	spsgy	
+citām	pi0fpdn	pi0fpdn	
+planētām	ncfpd4	vmnpdfpdpsn	ncfpd4	
+.	zs	zs	
+<s>
+Tu	pp20snn	pp20snn	
+zini	vmnipt32san	vmnipt32san	vmnm0t32san	
+,	zc	zc	
+ka	css	css	
+Tu	pp20snn	pp20snn	
+rāpo	vmnipi22san	vmnipi22san	vmnipi230an	vmnm0i22san	
+pa	spsay	sppdy	spsay	spsdy	
+kādu	pi0msan	pi0fpgn	pi0fsan	pq0fpgn	pq0fsan	pr0fpgn	pr0fsan	pi0mpgn	pi0msan	pq0mpgn	pq0msan	pr0mpgn	pr0msan	
+Visuma	ncmsg1	ncmsg1	
+ķermeni	ncmsa2	ncmsa2	ncmsv2	
+.	zs	zs	
+<s>
+Tu	pp20snn	pp20snn	
+esi	vcnipii2san	vcnipii2san	vcnm0ii2san	vmnipii2san	vmnm0ii2san	
+izjutusi	vmnpdfsnasn	vmnpdfsnasn	
+sevī	px000ln	px000ln	
+,	zc	zc	
+ka	css	css	
+Tu	pp20snn	pp20snn	
+pati	pg0fsnn	pg0fsnn	
+esi	vcnipii2san	vcnipii2san	vcnm0ii2san	vmnipii2san	vmnm0ii2san	
+šāds	pd0msnn	pd0msnn	
+apbrīnojams	vmnpdmsnppn	vmnpdmsnppn	
+radījums	ncmsn1	ncmsn1	ncmsv1	
+.	zs	zs	
+<s>
+Kādu	pi0msan	pi0fpgn	pi0fsan	pq0fpgn	pq0fsan	pr0fpgn	pr0fsan	pi0mpgn	pi0msan	pq0mpgn	pq0msan	pr0mpgn	pr0msan	
+rītu	ncmsa1	vmnpdmsapsn	vmnpdmpgpsn	vmnpdfsapsn	vmnpdfpgpsn	vmnc0t100an	ncmsa1	ncmpg1	r0t	
+māmiņa	ncfsn4	ncfsn4	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+tēti	ncmsa2	ncmsa2	ncmsv2	ncmpn2	ncmpv2	ncfsa5	
+un	ccs	ccs	
+mazo	afmsayp	afmsayp	afmpgyp	affsayp	affpgyp	
+divus	mcsmpav	mcsmpav	
+vai	css	css	ccs	ccr	ccd	qs	
+trīs	mcsmpav	vmnift130an	vmnipt330an	mcs0p0v	mcsfpav	mcsfplv	mcsfpnv	mcsmpav	mcsmplv	mcsmpnv	
+gadus	ncmpa1	ncmpa1	
+veco	afmsayp	afmsayp	afmpgyp	affsayp	affpgyp	vmnipt22san	vmnipt230an	vmnm0t22san	
+Tomasu	ncmsa1	ncmsa1	ncmpg1	
+sēž	vmnipi130an	vmnipi130an	
+virtuvē	ncfsl5	ncfsl5	
+un	ccs	ccs	
+ēd	vmnipt130an	vmnipt12san	vmnipt130an	vmnm0t12san	
+brokastis	ncfpa6	ncfdn6	n_fdn6	ncfda6	n_fda6	ncfdv6	n_fdv6	n_fsn6	n_fsg6	n_fsv6	
+.	zs	zs	
+<s>
+Pieaugot	vmnpu000000	vmnpu000000	vmnrpi100an	
+mēs	pp10pnn	vmnifi130an	pp10pnn	
+acīmredzami	r0m	afmpnnp	r__	
+zaudējam	vmnipt21pan	vmnipt21pan	vmnpu000000	
+savas	ps0fpan	ps0fpan	ps0fpnn	ps0fsgn	
+spējas	ncfpa4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	affsgnp	affpnnp	affpanp	
+izjust	vmnn0t1000n	vmnn0t1000n	
+pārsteigumu	ncmsa1	ncmsa1	ncmpg1	
+par	spsan	sppdn	spsan	sp00n	
+pasauli	ncfsa5	ncfsa5	
+.	zs	zs	
+<s>
+Bērniem	ncmpd1	ncmpd1	
+pasaule	ncfsn5	ncfsn5	ncfsv5	
+—	zd	zd	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+visu	pg0msan	ncmsa1	ncmpg1	pg0fpgn	pg0fsan	pg0mpgn	pg0msan	pg0msgn	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+tajā	pd3fsln	pd3fsln	pd3msln	
+ir	vmnipii30an	qs	vcnipii30an	vmnipii30an	
+,	zc	zc	
+—	zd	zd	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+kaut	qs	vmnn0t1000n	css	qs	
+kas	pi000nn	pq000nn	pr000nn	pi000nn	
+jauns	afmsnnp	afmsnnp	
+,	zc	zc	
+kaut	qs	vmnn0t1000n	css	qs	
+kas	pi000nn	pq000nn	pr000nn	pi000nn	
+mulsinošs	vmnpdmsnapn	vmnpdmsnapn	
+.	zs	zs	
+<s>
+Tieši	qs	afmpnnp	r__	qs	
+tādā	pd0fsln	pd0fsln	pd0msln	
+ziņā	ncfsl4	ncfsl4	
+filosofi	ncmpn1	ncmpn1	ncmpv1	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+ievērības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+cienīgs	afmsnnp	afmsnnp	
+izņēmums	ncmsn1	ncmsn1	ncmsv1	
+.	zs	zs	
+<s>
+Ja	css	css	qs	
+Tu	pp20snn	pp20snn	
+vēlētos	voyc0t300an	vmnpdmplpsn	vmnpdmpapsy	vmnpdmplpsn	vmnpdmpapsy	voyc0t300an	
+pārtraukt	vmnn0t1000n	vmnn0t1000n	vmnn0i1000n	
+šo	pd3msan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+kursu	ncmsa1	ncmsa1	ncmpg1	
+,	zc	zc	
+Tev	pp20sdn	pp20sdn	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+pilnīga	affsnnp	afmsgnp	affsnnp	
+iespēja	ncfsn4	ncfsn4	ncfsv4	
+to	pd3msan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+izdarīt	vmnn0t3000n	vmnn0t3000n	
+.	zs	zs	
+<s>
+Īss	afmsnnp	afmsnnp	
+kopsavilkums	ncmsn1	ncmsn1	ncmsv1	
+.	zs	zs	
+<s>
+Vienīgi	qs	armpnnp	r__	qs	
+filosofi	ncmpn1	ncmpn1	ncmpv1	
+uzņemas	vmyipi130an	vmyipi130an	
+riskanto	afmsayp	afmsayp	afmpgyp	affsayp	affpgyp	
+ceļojumu	ncmsa1	ncmsa1	ncmpg1	
+uz	sppdy	sppdy	spsay	spsgy	
+valodas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+un	ccs	ccs	
+esamības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+ārējām	arfpdnp	arfpdnp	
+robežām	ncfpd4	ncfpd4	
+.	zs	zs	
+<s>
+Tad	r0t	r0t	qs	
+viņi	pp3mpnn	pp3mpnn	pd3mpnn	
+turpina	vpnipt330an	vpnipt330an	vmnipt330an	
+sarunāties	vmyn0i2000n	vmyn0i2000n	
+tāpat kā	csc	csc	
+iepriekš	r0t	r0t	
+:	zo	zo	
+<s>
+Viņam	pp3msdn	pp3msdn	pd3msdn	
+nebija	vgnisii30ay	vcnisii30ay	vgnisii30ay	vmnisii30ay	
+galvas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+.	zs	zs	
+<s>
+Veļuku	ncmsa1	n_msa1	n_mpg1	n_msa1	n_mpg1	n_mpg2	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	n_fpg5	n_mpg5	n_fpg6	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+sataisīt	vmnn0t3000n	v_nn0_3000n	
+nebūs	vcnifii30ay	vgnifii30ay	vcnifii30ay	vmnifii30ay	
+vienkārši	r0m	afmpnnp	r__	r0m	
+.	zs	zs	
+<s>
+Tāds	pd0msnn	pd0msnn	
+brīnums	ncmsn1	ncmsn1	ncmsv1	
+man	pp10sdn	pp10sdn	
+filmā	ncfsl4	ncfsl4	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+vajadzīgs	afmsnnp	afmsnnp	
+kā	css	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+ēst	vmnn0t1000n	vmnn0t1000n	
+.	zs	zs	
+<s>
+Es	pp10snn	pp10snn	
+runāju	vmnipt21san	vmnipt21san	vmnist21san	
+par	sppdn	sppdn	spsan	sp00n	
+mums	pp10pdn	pp10pdn	
+visiem	pg0mpdn	ncmpd1	pg0mpdn	
+.	zs	zs	
+<s>
+Vispār	r0m	r0m	
+es	pp10snn	pp10snn	
+pazīstu	vmnipt11san	vmnipt11san	
+daudzas	pi0fpan	pi0fpn_	pi0fpa_	
+sakarīgas	affpanp	affsgnp	affpnnp	affpanp	
+sievietes	ncfpa5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+.	zs	zs	
+<s>
+Man	pp10sdn	pp10sdn	
+negaršo	vmnipt230ay	vmnipt22say	vmnipt230ay	vmnm0t22say	
+āboli	ncmpn1	ncmpn1	ncmpv1	
+.	zs	zs	
+<s>
+Vēži	ncmpn2	ncmpn2	ncmpv2	
+atgriežas	vmyipi130an	vmyipi130an	
+pie	spsgy	sppdy	spsgy	
+suņa	ncmsg2	ncmsg2	
+.	zs	zs	
+<s>
+Pa	spsay	sppdy	spsay	spsdy	
+dienu	ncfsa4	ncfsa4	ncfpg4	vmnipi31san	
+atkal	r0t	ncfsv4	r0t	
+piezvanīja	vmnist330an	v_nis_330an	
+Viktors	npmsn1	npmsn1	npmsv1	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+neviens	pi0msny	pi0msny	
+jau	qs	r0t	qs	
+mani	pp10san	vmnipt32san	vmnm0t32san	pp10san	ps0mpnn	
+netraucē	vmnipt230ay	vmnipt22say	vmnipt230ay	vmnm0t22say	
+.	zs	zs	
+<s>
+Pēc	sppdy	sppdy	spsgy	stpgy	stsgy	
+Jāņiem	npmdd2	npmpd2	n_mdd2	
+līdz	sppdy	vmnipt330an	r0_	sppdy	spsdy	css	
+Pēteriem	npmdd2	npmpd2	
+pukstēja	vmnisi330an	vmnisi330an	
+nieres	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+.	zs	zs	
+<s>
+Tā	r0m	r0m	pd3fsnn	pd3msgn	ccd	qs	
+nu	r0t	r0t	qs	is	
+manī	pp10sln	pp10sln	
+rit	vmnipi330an	ncmsv1	vmnipi330an	
+puse	ncfsn5	ncfsn5	ncfsv5	
+Čingizhana	npmsg1	n_msg1	n_msg1	n_fsn4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+pēcteču	ncmpg2	ncmpg2	
+asiņu	ncmpg2	ncfdg6	ncfpg6	
+.	zs	zs	
+<s>
+Viņš	pp3msnn	pp3msnn	pd3msnn	
+mani	pp10san	vmnipt32san	vmnm0t32san	pp10san	ps0mpnn	
+satika	vmnist130an	vmnist130an	
+tepat	r0p	r0p	
+Viņķeļu	npmdg2	n_msa1	n_mpg1	n_msa1	n_mpg1	n_mpg2	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	n_fpg5	n_mpg5	n_fpg6	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+ceļā	ncmsl1	ncmsl1	
+pie	spsgy	sppdy	spsgy	
+autobusu	ncmpg1	ncmsa1	ncmpg1	
+pieturas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	v_yip_330an	
+.	zs	zs	
+<s>
+Savos	ps0mpln	ps0mpln	
+nieka	ncmsg1	ncmsg1	
+trīsdesmit	mcc0p0d	mcc0p0d	
+trīs	mcsmplv	vmnift130an	vmnipt330an	mcs0p0v	mcsfpav	mcsfplv	mcsfpnv	mcsmpav	mcsmplv	mcsmpnv	
+gados	ncmpl1	ncmpl1	veyipi31san	
+gribi	vonipt32san	vonipt32san	vonm0t32san	
+mirt	vmnn0i1000n	vmnn0i1000n	
+un	ccs	ccs	
+nīsti	vmnipt12san	vmnpdmpnpsn	vmnipt12san	vmnm0t12san	
+visu	pg0fsan	ncmsa1	ncmpg1	pg0fpgn	pg0fsan	pg0mpgn	pg0msan	pg0msgn	
+pasauli	ncfsa5	ncfsa5	
+.	zs	zs	
+<s>
+Šoreiz	r0t	r0t	
+Francis	npmsn2	npmsn2	
+laiž	vmnipt130an	vmnipt130an	
+pudelē	ncfsl5	ncfsl5	
+.	zs	zs	
+<s>
+Un	ccs	ccs	
+visi	pg0mpnn	ncmpn1	ncmpv1	pg0mpnn	
+tā kā	csc	csc	qc	
+nomērīti	vmnpdmpnpsn	v_npdmpnpsn	
+.	zs	zs	
+<s>
+Uz	sppdy	sppdy	spsay	spsgy	
+atvadām	ncfpd4	n_fdd4	v_nip_31pan	v_npu000000	
+iedeva	vmnist130an	vmnisti30an	
+desmit	mcs0p0d	mcs_p0d	
+metāla	ncmsg1	ncmsg1	
+rubļus	ncmpa2	ncmpa2	
+.	zs	zs	
+<s>
+Par	sppdn	sppdn	spsan	sp00n	
+dažām	pi0fpdn	pi0fpdn	
+metāla	ncmsg1	ncmsg1	
+naudiņām	ncfpd4	ncfpd4	
+viņš	pp3msnn	pp3msnn	pd3msnn	
+itin	qs	qs	
+priecīgs	afmsnnp	afmsnnp	
+pārdeva	vmnisti30an	vmnisti30an	
+Izoldei	npfsd5	npfsd5	
+visu	pg0msan	ncmsa1	ncmpg1	pg0fpgn	pg0fsan	pg0mpgn	pg0msan	pg0msgn	
+lielo	afmsayp	afmsayp	afmpgyp	affsayp	affpgyp	
+saišķi	ncmsa2	ncmsa2	ncmsv2	ncmpn2	ncmpv2	
+.	zs	zs	
+<s>
+Gandrīz	r0q	r0q	
+līdz	spsdy	vmnipt330an	r0_	sppdy	spsdy	css	
+ausmai	ncfsd4	npfsd4	ncfsd4	
+Izolde	npfsn5	npfsn5	npfsv5	
+un	ccs	ccs	
+Tristāns	npmsn1	n_msn1	n_msv1	n_msn2	n_msg2	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+centās	voyist130an	voyist130an	
+viens	mcsmsnv	mcsmsnv	
+otru	mcsmsav	mcsmsa_	mcsfsa_	mcsmpg_	mcsfpg_	
+pārspēt	vmnn0t1000n	vonn0t1000n	vmnn0t1000n	
+jokainajā	affslyp	afmslyp	affslyp	
+rotaļā	ncfsl4	ncfsl4	
+.	zs	zs	
+<s>
+Izolde	npfsn5	npfsn5	npfsv5	
+joprojām	r0t	r0t	
+vēro	vmnipt230an	vmnipt22san	vmnipt230an	vmnm0t22san	
+sevi	px000an	px000an	
+spogulī	ncmsl2	ncmsl2	
+.	zs	zs	
+<s>
+Mums	pp10pdn	pp10pdn	
+nebija	vgnisii30ay	vcnisii30ay	vgnisii30ay	vmnisii30ay	
+lielāku	afmpgnc	afmsanc	afmpgnc	affsanc	affpgnc	
+svētku	ncmdg1	ncmdg1	
+par	sppdn	sppdn	spsan	sp00n	
+šiem	pd3mpdn	pd3mpdn	
+pavasara	ncmsg2	ncmsg2	
+piknikiem	ncmpd1	ncmpd1	
+.	zs	zs	
+<s>
+Es	pp10snn	pp10snn	
+nostājos	vmyisi11san	vmyipi11san	vmyisi11san	
+pie	spsgy	sppdy	spsgy	
+kumodes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+un	ccs	ccs	
+vēru	vmnist11san	ncmpg2	ncfpg5	vmnist11san	
+vaļā	r0m	ncfsl4	r0m	
+visas	pg0fpan	pg0fpan	pg0fpnn	pg0fsgn	
+atvilktnes	ncfpa5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+pēc	spsgy	sppdy	spsgy	stpgy	stsgy	
+kārtas	ncfsg4	vmnpdfsgpsn	vmnpdfpnpsn	vmnpdfpapsn	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+.	zs	zs	
+<s>
+Mans	ps0msnn	ps0msnn	
+dīvainais	afmsnyp	afmsnyp	afmsvyp	
+nomods	ncmsn1	ncmsn1	ncmsv1	
+bija	vcnisii30an	vcnisii30an	vmnisii30an	
+tik	r0q	ncmsv1	r0q	qs	is	
+netverams	vmnpdmsnppn	vmnpdmsnppn	
+un	ccs	ccs	
+vienlaikus	r0t	r0t	
+īsts	armsnnp	armsnnp	
+.	zs	zs	
+<s>
+Pa	spsay	sppdy	spsay	spsdy	
+šo	pd3fsan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+garlaicīgo	affsayp	afmsayp	afmpgyp	affsayp	affpgyp	
+zemes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+šļuru	ncfsa4	n_msa1	n_mpg1	n_msa1	n_mpg1	n_mpg2	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	n_fpg5	n_mpg5	n_fpg6	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+es	pp10snn	pp10snn	
+rudeņos	ncmpl2	ncmpl2	
+brienu	vmnipi11san	vmnipt11san	vmnipi11san	
+uz	sppdy	sppdy	spsay	spsgy	
+mājām	ncfpd4	ncfpd4	vmnist11pan	
+.	zs	zs	
+<s>
+Bet	ccs	ccs	ccd	
+tad	r0t	r0t	qs	
+Andža	npmsg1	npmsg1	
+šaudīgās	affpnyp	affplnp	affsgyp	affpnyp	affpayp	affpvyp	
+acis	ncfpn6	ncfpn6	ncfpa6	ncfpv6	
+sastapās	vmyisi130an	vmyisi130an	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+Tīnas	npfsg4	npfsg4	npfpn4	npfpa4	npfpv4	
+skatienu	ncmsa1	ncmsa1	ncmpg1	
+.	zs	zs	
+<s>
+Lai	qs	css	qs	
+Marija	npfsn4	npfsn4	ncfsn4	npfsv4	ncfsv4	
+dara	vmnipt330an	vmnipt330an	
+savus	ps0mpan	ps0mpan	
+darbus	ncmpa1	ncmpa1	
+.	zs	zs	
+<s>
+Ēdenes	npfsg5	npfsg5	npfpn5	npfpa5	npfpv5	
+kreppapīra	ncmsg1	ncmsg1	
+eņģelis	ncmsn2	ncmsn2	
+aizdomīgi	r0q	afmpnnp	r__	
+noskatīja	vmnist330an	v_nis_330an	
+Miu	npfsa4	n_msa1	n_mpg1	n_msa1	n_mpg1	n_mpg2	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	n_fpg5	n_mpg5	n_fpg6	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+un	ccs	ccs	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+trenētu	vmnpdfsapsn	vmnpdmsapsn	vmnpdmpgpsn	vmnpdfsapsn	vmnpdfpgpsn	vmnc0t200an	
+kustību	ncfsa4	ncfsa4	ncfpg4	
+uzšķīra	vmnist130an	vmnist130an	
+vajadzīgo	affsayp	afmsayp	afmpgyp	affsayp	affpgyp	
+vietu	ncfsa4	ncfsa4	ncfpg4	
+mātes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+pasē	ncfsl5	ncfsl5	
+.	zs	zs	
+<s>
+Šādās	pd0fpln	pd0fpln	
+reizēs	ncfpl5	ncfpl5	
+Mia	npfsn4	n_msg1	n_msg1	n_msg2	n_fsn4	n_fsv4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+jau	r0t	r0t	qs	
+sen	r0t	r0t	
+vairs	r0t	r0t	
+nejuta	vmnist130ay	vmnist130ay	
+nožēlu	ncfsa4	ncfsa4	ncfpg4	
+.	zs	zs	
+<s>
+Ievads	ncmsn1	ncmsn1	ncmsv1	
+<s>
+Tā	r0m	r0m	pd3fsnn	pd3msgn	ccd	qs	
+tika	vtnisi130an	ncmsg1	vtnisi130an	
+izstrādātas	vmnpdfpnpsn	vmnpdfsgpsn	vmnpdfpnpsn	vmnpdfpapsn	
+tolaik	r0t	
+par	sppdn	sppdn	spsan	sp00n	
+pilnīgām	affpdnp	affpdnp	
+uzskatītas	vmnpdfpnpsn	vmnpdfsgpsn	vmnpdfpnpsn	vmnpdfpapsn	
+govju	ncfpg6	ncfpg6	
+,	zc	zc	
+cūku	ncfpg4	ncfsa4	ncfpg4	
+,	zc	zc	
+aitu	ncfpg4	ncfsa4	ncfpg4	
+un	ccs	ccs	
+zirgu	ncmpg1	ncmsa1	ncmpg1	
+ēdināšanas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+normas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+,	zc	zc	
+ko	pr000an	pq000an	pr000an	pi000an	
+plaši	r0q	afmpnnp	r__	
+izmantoja	vmnist230an	vmnist230an	
+lopkopības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+praksē	ncfsl5	ncfsl5	
+;	zc	zc	
+tika	vtnisi130an	ncmsg1	vtnisi130an	
+sagatavots	vmnpdmsnpsn	vmnpdmsnpsn	
+vietējo	armpgyp	armsayp	armpgyp	arfsayp	arfpgyp	
+barības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+līdzekļu	ncmpg2	ncmpg2	
+katalogs	ncmsn1	ncmsn1	ncmsv1	
+,	zc	zc	
+kurā	pq0msln	pq0fsln	pr0fsln	pi0fsln	pq0msln	pr0msln	pi0msln	
+ietverta	vmnpdfsnpsn	vmnpdmsgpsn	vmnpdfsnpsn	
+informācija	ncfsn4	ncfsn4	
+par	sppdn	sppdn	spsan	sp00n	
+394	xn	xn	
+barības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+līdzekļiem	ncmpd2	ncmpd2	
+,	zc	zc	
+raksturojot	vmnpu000000	vmnrpt200an	vmnpu000000	
+to	pd3mpgn	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+ķīmisko	armsayp	armsayp	armpgyp	arfsayp	arfpgyp	
+sastāvu	ncmsa1	ncmsa1	ncmpg1	v_nip_31san	
+un	ccs	ccs	
+barības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+vērtību	ncfsa4	ncfsa4	ncfpg4	
+pēc	stpgy	sppdy	spsgy	stpgy	stsgy	
+37	xn	xn	
+kritērijiem	ncmpd1	ncmpd1	
+(	zb	zb	
+J.	y	y	
+Latvietis	npmsn2	ncmsn2	
+)	zb	zb	
+;	zc	zc	
+izstrādāti	vmnpdmpnpsn	vmnpdmpnpsn	
+vairāki	pi0mpnn	pi0mpn_	
+lopbarības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+bagātinātājpiedevu	ncfpg4	n_msa1	n_mpg1	n_msa1	n_mpg1	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+varianti	ncmpn1	ncmpn1	ncmpv1	
+-	zd	zd	
+receptes	ncfpn5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+kompleksiem	ncmpd1	ncmpd1	armpdnp	
+vitamīnu	ncmpg1	ncmsa1	ncmpg1	
+,	zc	zc	
+makro -	xx	
+un	ccs	ccs	
+mikroelementu	ncmpg1	n_msa1	n_mpg1	
+,	zc	zc	
+fermentu	ncmpg1	ncmsa1	ncmpg1	
+prēmiksiem	ncmpd1	n_mpd1	n_mpd1	n_mpd3	a_mpdn_	a_mpdn_	n_msd5	
+cūkām	ncfpd4	ncfpd4	
+,	zc	zc	
+kazām	ncfpd4	ncfpd4	
+,	zc	zc	
+teļiem	ncmpd1	ncmpd1	
+,	zc	zc	
+vistām	ncfpd4	ncfpd4	
+(	zb	zb	
+J.	y	y	
+Latvietis	npmsn2	ncmsn2	
+,	zc	zc	
+J.	y	y	
+Sprūžs	npmsn1	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+,	zc	zc	
+A.	y	y	
+Baumane	npfsn5	n_fsn5	n_fsv5	n_msn5	n_msv5	
+,	zc	zc	
+L.	y	y	
+Degola	npfsn4	n_msg1	n_msg1	n_fsn4	n_fsv4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+,	zc	zc	
+I.	y	y	
+Vītiņa	npfsn4	n_msg1	n_msg1	n_msg2	n_fsn4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+,	zc	zc	
+V.	y	y	
+Krastiņa	npmsg1	ncmsg1	
+,	zc	zc	
+A.	y	y	
+Erte	npfsn5	n_fsn5	n_fsv5	n_msn5	n_msv5	
+,	zc	zc	
+R.	y	y	
+Kaugers	npmsn1	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+)	zb	zb	
+.	zs	zs	
+<s>
+Aktīvi	rpm	ncmpn1	ncmpv1	afmpnnp	r__	
+šajos	pd3mpln	pd3mpln	
+pasākumos	ncmpl1	ncmpl1	
+iesaistījās	vmyist330an	v_yis_330an	
+zinātniskās	arfsgyp	arfplnp	arfsgyp	arfpnyp	arfpayp	arfpvyp	
+ražošanas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+apvienības	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+un	ccs	ccs	
+firmas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+"	zq	zq	
+Rekasan	np___0	
+"	zq	zq	
+(	zb	zb	
+Vācija	npfsn4	npfsn4	npfsv4	
+)	zb	zb	
+,	zc	zc	
+"	zq	zq	
+Kemira	npfsn4	n_msg1	n_msg1	n_msg2	n_fsn4	n_fsv4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+"	zq	zq	
+un	ccs	ccs	
+"	zq	zq	
+Suomen	np___0	
+Rehu	np___0	n_msa1	n_mpg1	n_msa1	n_mpg1	n_mpg2	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	n_fpg5	n_mpg5	n_fpg6	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+"	zq	zq	
+(	zb	zb	
+Somija	npfsn4	npfsn4	npfsv4	
+)	zb	zb	
+,	zc	zc	
+"	zq	zq	
+Euribrid	np___0	
+"	zq	zq	
+(	zb	zb	
+Holande	npfsn5	n_fsn5	n_fsv5	
+)	zb	zb	
+,	zc	zc	
+"	zq	zq	
+Baltic	np___0	
+Feed	np___0	
+"	zq	zq	
+,	zc	zc	
+"	zq	zq	
+Straume	ncfsn5	ncfsn5	ncfsv5	
+"	zq	zq	
+,	zc	zc	
+"	zq	zq	
+Proventus	np___0	v_npdmpapsn	v_npdmpapsn	v_npdmpapsn	n_mpa1	n_mpa1	n_msn3	n_msg3	n_msv3	n_mpa3	a_mpan_	a_mpan_	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+Farma	np___0	n_msg1	n_msg1	n_fsn4	n_fsv4	n_msn4	n_msv4	a_msgn_	a_fsnn_	a_msgn_	a_fsnn_	v_nis_130an	
+"	zq	zq	
+un	ccs	ccs	
+citas	pi0fpnn	pi0fpan	pi0fpnn	pi0fsgn	
+vietējās	arfpnyp	arfplnp	arfsgyp	arfpnyp	arfpayp	arfpvyp	
+un	ccs	ccs	
+ārzemju	ncfpg5	ncfdg5	
+firmas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+.	zs	zs	
+<s>
+Par	spsan	sppdn	spsan	sp00n	
+labāko	afmsayc	afmsayc	afmpgyc	affsayc	affpgyc	
+atzīts	vmnpdmsnpsn	vmnpdmsnpsn	
+modelis	ncmsn2	ncmsn2	
+,	zc	zc	
+kurā	pr0msln	pq0fsln	pr0fsln	pi0fsln	pq0msln	pr0msln	pi0msln	
+fiksētie	vmnpdmpnpsy	vmnpdmpnpsy	vmnpdmpvpsy	
+faktori	ncmpn1	ncmpn1	ncmpv1	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+reģions	ncmsn1	n_msn1	n_msv1	
+,	zc	zc	
+ganāmpulka	ncmsg1	ncmsg1	
+klase	ncfsn5	ncfsn5	ncfsv5	
+,	zc	zc	
+gads	ncmsn1	ncmsn1	ncmsv1	
+,	zc	zc	
+sezona	ncfsn4	ncfsn4	ncfsv4	
+un	ccs	ccs	
+vecums	ncmsn1	ncmsn1	ncmsv1	
+atnesoties	vmypu000000	vmypu000000	vmyrpi100an	
+(	zb	zb	
+Z.	y	y	
+Grīslis	npmsn2	ncmsn2	
+,	zc	zc	
+L.	y	y	
+Paura	npfsn4	ncmsg2	
+)	zb	zb	
+.	zs	zs	
+<s>
+Pētījumu	ncmpg1	ncmsa1	ncmpg1	
+novitāte	ncfsn5	n_fsn5	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+skābējamās	vmnpdfsgppy	vmnpdfplppn	vmnpdfsgppy	vmnpdfpnppy	vmnpdfpappy	vmnpdfpvppy	
+zaļmasas	ncfsg4	n_fsg4	n_fpn4	n_fpa4	n_fpv4	
+epifītās	arfsgyp	v_npdfplpsn	v_npdfsgpsy	v_npdfpnpsy	v_npdfpapsy	v_npdfpvpsy	v_npdfplpsn	v_npdfsgpsy	v_npdfpnpsy	v_npdfpapsy	v_npdfpvpsy	v_npdfplpsn	v_npdfsgpsy	v_npdfpnpsy	v_npdfpapsy	v_npdfpvpsy	n_fpl4	n_mpl4	a_fpln_	a_fsgy_	a_fpny_	a_fpay_	a_fpvy_	a_fpln_	a_fsgy_	a_fpny_	a_fpay_	a_fpvy_	v_yis_130an	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	v_yip_330an	
+mikrofloras	ncfsg4	n_fsg4	n_fpn4	n_fpa4	n_fpv4	
+mijiedarbības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+noskaidrošana	ncfsn4	ncfsn4	ncfsv4	
+ar	sppdn	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+šīs	pd3fsgn	pd3fpan	pd3fpnn	pd3fsgn	
+masas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+skābējamības	ncfsg4	n_fsg4	n_fpn4	n_fpa4	n_fpv4	n_msg4	n_mpn4	n_mpa4	n_mpv4	a_fsgn_	a_fpnn_	a_fpan_	a_fsgn_	a_fpnn_	a_fpan_	v_yip_130an	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	v_yip_330an	
+rādītājiem	ncmpd1	n_mpd1	
+.	zs	zs	
+<s>
+Strauji	r0q	afmpnnp	r__	
+pieaug	vmnipi130an	vmnipi130an	
+rūpnieciskā	arfsnyp	armslnp	armsgyp	arfslnp	arfsnyp	arfsvyp	
+krustošana	ncfsn4	ncfsn4	ncfsv4	
+ar	sppdn	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+gaļas	ncfsg4	ncfvg4	
+šķirņu	ncfpg5	ncfpg5	
+buļļiem	ncmpd2	n_mpd1	n_mpd1	n_mpd2	n_mpd3	a_mpdn_	a_mpdn_	n_msd5	
+(	zb	zb	
+V.	y	y	
+Jaunzems	npmsn1	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_130an	v_nif_230an	v_nif_330an	
+,	zc	zc	
+I.	y	y	
+Rūvalds	npmsn1	n_msn1	n_msv1	n_fsn6	n_fsg6	n_fsv6	a_msnn_	v_nif_230an	v_nif_330an	
+)	zb	zb	
+.	zs	zs	
+<s>
+Izmantojot	vmnpu000000	vmnrpt200an	vmnpu000000	
+firmas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+"	zq	zq	
+Euribrid	np___0	
+"	zq	zq	
+vaislas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+materiālu	ncmsa1	ncmsa1	ncmpg1	armsanp	armpgnp	arfsanp	arfpgnp	
+un	ccs	ccs	
+precīzi	rpm	afmpnnp	r__	r0m	
+izpildot	vmnpu000000	v_nrp_300an	v_npu000000	
+labturības	ncfsg4	n_fsg4	n_fpn4	n_fpa4	n_fpv4	
+prasības	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+,	zc	zc	
+iegūta	vmnpdfsnpsn	vmnpdmsgpsn	vmnpdfsnpsn	
+broilercāļu	ncmpg2	n_msa1	n_mpg1	n_msa1	n_mpg1	n_mpg2	n_msa3	n_msv3	n_mpg3	n_fsa4	n_fpg4	n_msa4	n_mpg4	n_fpg5	n_mpg5	n_fpg6	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	a_msan_	a_mpgn_	a_fsan_	a_fpgn_	v_nip_11san	v_nis_11san	v_nip_31san	
+gaļa	ncfsn4	ncfvn4	ncfvv4	
+atbilstoši	r0m	r0m	
+ES	y	pp10snn	
+prasībām	ncfpd4	ncfpd4	
+.	zs	zs	
+<s>
+Promocijas	ncfsg4	n_fsg4	n_fpn4	n_fpa4	n_fpv4	
+darbs	ncmsn1	ncmsn1	ncmsv1	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+veltīts	vmnpdmsnpsn	vmnpdmsnpsn	
+elektrisko	armpgyp	armsayp	armpgyp	arfsayp	arfpgyp	
+sadales	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+tīklu	ncmpg1	ncmsa1	ncmpg1	
+attīstības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+plānošanas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+problēmām	ncfpd4	ncfpd4	
+.	zs	zs	
+<s>
+Detalizēta	arfsnnp	vmnpdmsgpsn	vmnpdfsnpsn	
+analīze	ncfsn5	ncfsn5	
+veikta	vmnpdfsnpsn	vmnpdmsgpsn	vmnpdfsnpsn	
+sekojošām	vmnpdfpdapn	vmnpdfpdapn	
+trim	mcsfpdv	mcsfpdv	mcsmpdv	
+tīklu	ncmpg1	ncmsa1	ncmpg1	
+optimizācijas	ncfsg4	n_fsg4	n_fpn4	n_fpa4	n_fpv4	
+metožu	ncfpg5	ncfpg5	
+grupām	ncfpd4	ncfpd4	
+:	zo	zo	
+heuristiskām	arfpdnp	n_fpd4	n_mpd4	a_fpdn_	a_fpdn_	v_nis_11pan	v_nip_31pan	v_npu000000	
+metodēm	ncfpd5	ncfpd5	
+,	zc	zc	
+dinamiskajai	affsdyp	affsdyp	
+programēšanai	ncfsd4	ncfsd4	ncfsd4	ncfsd4	n_fsd4	a_fsdn_	a_fsdn_	n_msa2	n_msv2	n_mpn2	n_mpv2	n_mpn3	n_mpv3	n_fsa5	n_msa5	a_mpnn_	r__	a_mpnn_	r__	v_nis_12san	v_nip_32san	v_nm0_32san	
+un	ccs	ccs	
+ģenētiskiem	armpdnp	armpdnp	
+algoritmiem	ncmpd1	ncmpd1	
+.	zs	zs	
+<s>
+Galvenās	arfpnyp	arfplnp	arfsgyp	arfpnyp	arfpayp	arfpvyp	
+programmas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+funkcijas	ncfpn4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+:	zo	zo	
+1.	xo	xo	
+novērtēt	vmnn0t2000n	v_nn0t2000n	
+tīkla	ncmsg1	ncmsg1	
+pašreizējo	armsayp	armsayp	armpgyp	arfsayp	arfpgyp	
+stāvokli	ncmsa2	ncmsa2	ncmsv2	
+(	zb	zb	
+jaudas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+plūsmas	ncfpa4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+,	zc	zc	
+īsslēguma	ncmsg1	n_msg1	
+strāvas	ncfpa4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+)	zb	zb	
+;	zc	zc	
+2.	xo	xo	
+atrast	vmnn0t1000n	vmnn0t1000n	
+apakšstaciju	ncfpg4	ncfsa4	ncfpg4	
+optimālo	armsayp	armsayp	armpgyp	arfsayp	arfpgyp	
+izvietojumu	ncmsa1	ncmsa1	ncmpg1	
+,	zc	zc	
+to	pd3mpgn	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+jaudas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+un	ccs	ccs	
+elektroapgādes	ncfsg5	n_fsg5	n_fpn5	n_fpa5	n_fpv5	
+robežas	ncfpa4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+;	zc	zc	
+3.	xo	xo	
+atrast	vmnn0t1000n	vmnn0t1000n	
+tīkla	ncmsg1	ncmsg1	
+optimālo	arfsayp	armsayp	armpgyp	arfsayp	arfpgyp	
+konfigurāciju	ncfsa4	n_fsa4	n_fpg4	
+(	zb	zb	
+līniju	ncfpg4	ncfsa4	ncfpg4	
+trases	ncfpa5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+)	zb	zb	
+,	zc	zc	
+līniju	ncfpg4	ncfsa4	ncfpg4	
+vadu	ncmpg1	ncmsa1	ncmpg1	vmnipt31san	
+šķērsgriezumus	ncmpa1	ncmpa1	
+un	ccs	ccs	
+noslodzi	ncfsa5	n_fsa5	
+.	zs	zs	
+<s>
+Šajā	pd3msln	pd3fsln	pd3msln	
+gadījumā	ncmsl1	ncmsl1	
+multikriteriālā	arfsnyp	n_msl1	n_msl1	n_fsl4	n_msl4	a_msln_	a_msgy_	a_fsln_	a_fsny_	a_fsvy_	a_msln_	a_msgy_	a_fsln_	a_fsny_	a_fsvy_	
+analīze	ncfsn5	ncfsn5	
+var	vonipt330an	vonipt330an	
+palīdzēt	vmnn0t3000n	vmnn0t3000n	
+pieņemt	vmnn0t1000n	vmnn0t1000n	
+pareizo	afmsayp	afmsayp	afmpgyp	affsayp	affpgyp	
+lēmumu	ncmsa1	ncmsa1	ncmpg1	
+,	zc	zc	
+kā	ccc	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+ari	xt	vmnist12san	
+dot	vmnn0ti000n	vmnn0ti000n	
+vispārēju	armsanp	armsanp	armpgnp	arfsanp	arfpgnp	
+priekšstatu	ncmsa1	ncmsa1	ncmpg1	
+par	sppdn	sppdn	spsan	sp00n	
+iespējamiem	armpdnp	armpdnp	
+plānošanas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+virzieniem	ncmpd1	ncmpd1	
+.	zs	zs	
+<s>
+Tāpēc	r0c	r0c	
+,	zc	zc	
+arvien	r0t	r0t	
+biežāk	rcq	rc_	rcq	
+priekšplānā	ncmsl1	n_msl1	n_msl1	n_fsl4	n_msl4	a_msln_	a_msgy_	a_fsln_	a_fsny_	a_fsvy_	a_msln_	a_msgy_	a_fsln_	a_fsny_	a_fsvy_	
+izvirzās	vmyipi330an	v_yip_330an	
+pētījumi	ncmpn1	ncmpn1	ncmpv1	
+,	zc	zc	
+saistīti	vmnpdmpnpsn	vmnpdmpnpsn	n_fsa5	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+plānošanas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+un	ccs	ccs	
+pamatotas	vmnpdfsgpsn	vmnpdfsgpsn	vmnpdfpnpsn	vmnpdfpapsn	
+lēmumu	ncmpg1	ncmsa1	ncmpg1	
+pieņemšanas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+metodikas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+attīstību	ncfsa4	ncfsa4	ncfpg4	
+.	zs	zs	
+<s>
+13.	xo	xo	
+Lai	css	css	qs	
+samazinātu	vmnc0t300an	vmnpdmsapsn	vmnpdmpgpsn	vmnpdfsapsn	vmnpdfpgpsn	vmnc0t300an	
+aprēķinu	ncmpg1	ncmsa1	ncmpg1	vmnipt31san	
+laiku	ncmsa1	ncmsa1	ncmpg1	
+un	ccs	ccs	
+nepieciešamus	afmpanp	afmpanp	
+resursus	ncmpa1	ncmda1	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+risinot	vmnpu000000	vmnrpt300an	vmnpu000000	
+dinamiskos	afmpayp	afmplnp	afmpayp	
+uzdevumus	ncmpa1	ncmpa1	
+dramatiski	r0q	afmpnnp	r__	
+pieaug	vmnipi130an	vmnipi130an	
+,	zc	zc	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+iespējams	armsnnp	armsnnp	
+ieviest	vmnn0t1000n	vmnn0t1000n	
+katrā	pg0msln	pg0fsln	pg0msln	
+laika	ncmsg1	ncmsg1	
+periodā	ncmsl1	ncmsl1	
+sekojošus	vmnpdmpaapn	vmnpdmpaapn	
+papildus	r0m	r0m	
+ierobežojumus	ncmpa1	ncmpa1	
+:	zo	zo	
+14.	xo	xo	
+pasākumu	ncmpg1	ncmsa1	ncmpg1	
+skaitam	ncmsd1	ncmsd1	
+;	zc	zc	
+15.	xo	xo	
+kapitālieguldījumiem	ncmpd1	ncmpd1	
+;	zc	zc	
+16.	xo	xo	
+alternatīvo	armsayp	armsayp	armpgyp	arfsayp	arfpgyp	
+atrisinājumu	ncmsa1	ncmsa1	ncmpg1	
+,	zc	zc	
+jeb	ccs	ccs	
+kandidātu	ncmsa1	ncmsa1	ncmpg1	
+uz	spsay	sppdy	spsay	spsgy	
+galīgo	armsayp	armsayp	armpgyp	arfsayp	arfpgyp	
+lēmumu	ncmsa1	ncmsa1	ncmpg1	
+skaitam	ncmsd1	ncmsd1	
+.	zs	zs	
+<s>
+Ievads	ncmsn1	ncmsn1	ncmsv1	
+<s>
+Tradicionāli	rpm	armpnnp	r__	
+par	sppdn	sppdn	spsan	sp00n	
+nozīmīgākajiem	afmpdyc	afmpdyc	
+tiek	vtnipi130an	vtnipi130an	
+uzskatīti	vmnpdmpnpsn	vmnpdmpnpsn	ncfsa5	
+demogrāfiskie	armpnyp	armpnyp	armpvyp	
+faktori	ncmpn1	ncmpn1	ncmpv1	
+,	zc	zc	
+dažkārt	r0t	r0t	
+tos	pd3mpan	pd3mpan	
+pat	qs	qs	
+sašaurinot	vmnpu000000	vmnrpt300an	vmnpu000000	
+līdz	spsdy	vmnipt330an	r0_	sppdy	spsdy	css	
+vienam	mcsmsdv	mcsmsdv	
+faktoram	ncmsd1	ncmsd1	
+-	zd	zd	
+skolēnu	ncmpg1	ncmsa1	ncmpg1	
+skaitam	ncmsd1	ncmsd1	
+.	zs	zs	
+<s>
+Saistība	ncfsn4	ncfsn4	ncfsv4	
+ar	spsan	vmnipt12san	vmnipt130an	vmnm0t12san	sppdn	spsan	qs	
+ekonomisko	affpgyp	afmsayp	afmsayp	afmpgyp	afmpgyp	affsayp	affsayp	affpgyp	affpgyp	
+situāciju	ncfsa4	ncfsa4	ncfpg4	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+nenoliedzama	vmnpdfsnppn	vmnpdmsgppn	vmnpdfsnppn	
+,	zc	zc	
+un	ccs	ccs	
+tas	pd3msnn	pd3msnn	
+varētu	vonc0t300an	vonpdmsapsn	vonpdmpgpsn	vonpdfsapsn	vonpdfpgpsn	vonc0t300an	
+būt	vcnn0ii000n	vcnn0ii000n	vmnn0ii000n	
+bijis	vcnpdmsnasn	vcnpdmsnasn	vmnpdmsnasn	
+par	spsan	sppdn	spsan	sp00n	
+pamatu	ncmsa1	ncmsa1	ncmpg1	
+Horn	xf	
+P.	y	y	
+J.	y	y	
+idejai	ncfsd4	ncfsd4	
+prognozēt	vmnn0t2000n	vmnn0t2000n	
+skolotāju	ncmpg1	ncmsa1	ncmpg1	ncfsa4	ncfpg4	
+skaitu	ncmsa1	ncmsa1	ncmpg1	vmnipt31san	
+,	zc	zc	
+izmantojot	vmnpu000000	vmnrpt200an	vmnpu000000	
+ekonometrisko	armsayp	armsayp	armpgyp	arfsayp	arfpgyp	
+modeli	ncmsa2	ncmsa2	ncmsv2	
+un	ccs	ccs	
+aplūkot	vmnn0t2000n	vmnn0t2000n	
+to	pd3msan	pd3fpgn	pd3fsan	pd3mpgn	pd3msan	
+kā	css	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+funkciju	ncfsa4	ncfsa4	ncfpg4	
+no	spsgy	sppdy	spsgy	
+iekšzemes	ncfsg5	ncfsg5	ncfpn5	ncfpa5	ncfpv5	
+kopprodukta	ncmsg1	n_msg1	
+vienam	mcsmsdv	mcsmsdv	
+iedzīvotājam	ncmsd1	ncmsd1	
+un	ccs	ccs	
+skolēnu	ncmpg1	ncmsa1	ncmpg1	
+skaita	ncmsg1	ncmsg1	vmnipt330an	
+(	zb	zb	
+Horn	xf	
+,	zc	zc	
+1988	xn	xn	
+)	zb	zb	
+.	zs	zs	
+<s>
+Kā	r0m	r0m	pq000gn	pr000gn	pi000gn	css	ccd	qs	
+liecina	vmnipt330an	vmnipt330an	
+pagājušajā	vmnpdmslasy	vmnpdmslasy	vmnpdmslasy	vmnpdfslasy	vmnpdfslasy	
+gadā	ncmsl1	ncmsl1	
+Latvijā	npfsl4	npfsl4	
+veiktais	vmnpdmsnpsy	vmnpdmsnpsy	vmnpdmsvpsy	
+pētījums	ncmsn1	ncmsn1	ncmsv1	
+,	zc	zc	
+tad	r0t	r0t	qs	
+vismaz	r0q	r0q	
+pēc	spsgy	sppdy	spsgy	stpgy	stsgy	
+augstskolas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+beigšanas	ncfsg4	ncfsg4	ncfsg4	ncfpn4	ncfpn4	ncfpa4	ncfpa4	ncfpv4	ncfpv4	
+vai	ccs	css	ccs	ccr	ccd	qs	
+jau	r0t	r0t	qs	
+studiju	ncfpg4	ncfsa4	ncfpg4	
+laikā	ncmsl1	ncmsl1	
+pedagoģisko	arfpgyp	armsayp	armpgyp	arfsayp	arfpgyp	
+specialitāšu	ncfpg5	ncfpg5	
+studentu	ncmpg1	ncmsa1	ncmpg1	
+izvēlētais	vmnpdmsnpsy	v_npdmsnpsy	v_npdmsvpsy	
+darbs	ncmsn1	ncmsn1	ncmsv1	
+atbilda	vmnist130an	vmnist130an	
+iegūtai	vmnpdfsdpsn	vmnpdfsdpsn	
+izglītībai	ncfsd4	ncfsd4	
+.	zs	zs	
+<s>
+Tas	pd3msnn	pd3msnn	
+noved	vmnipt130an	vmnipt12san	vmnipt130an	vmnm0t12san	
+pie	spsgy	sppdy	spsgy	
+tā	pd3msgn	r0m	pd3fsnn	pd3msgn	ccd	qs	
+,	zc	zc	
+ka	css	css	
+šajās	pd3fpln	pd3fpln	
+teritorijās	ncfpl4	ncfpl4	
+ir	vcnipii30an	qs	vcnipii30an	vmnipii30an	
+mazāka	affsnnc	afmsgnc	affsnnc	
+skolēnu	ncmpg1	ncmsa1	ncmpg1	
+un	ccs	ccs	
+pedagoģisko	armpgyp	armsayp	armpgyp	arfsayp	arfpgyp	
+darbinieku	ncmpg1	ncmsa1	ncmpg1	
+attiecība	ncfsn4	ncfsn4	
+.	zs	zs	
+<s>
+Ņemot	vmnpu000000	vmnpu000000	vmnrpt100an	
+vērā	r0m	r0_	
+veikto	vmnpdfsapsy	vmnpdmsapsy	vmnpdmpgpsy	vmnpdfsapsy	vmnpdfpgpsy	
+analīzi	ncfsa5	ncfsa5	
+,	zc	zc	
+varam	vonipt31pan	vonipt31pan	vonpu000000	
+secināt	vmnn0t3000n	vmnn0t3000n	vmnipt32pan	
+,	zc	zc	
+ka	css	css	
+pedagoģisko	armpgyp	armsayp	armpgyp	arfsayp	arfpgyp	
+darbinieku	ncmpg1	ncmsa1	ncmpg1	
+skaitu	ncmsa1	ncmsa1	ncmpg1	vmnipt31san	
+ietekmējošos	vmnpdmpaapy	vmnpdmplapn	vmnpdmpaapy	
+faktorus	ncmpa1	ncmpa1	
+var	vonipt330an	vonipt330an	
+nosacīti	r0m	v_npdmpnpsn	armpnnp	r__	
+iedalīt	vmnn0t3000n	vmnn0t3000n	
+trīs	mcsfplv	vmnift130an	vmnipt330an	mcs0p0v	mcsfpav	mcsfplv	mcsfpnv	mcsmpav	mcsmplv	mcsmpnv	
+grupās	ncfpl4	ncfpl4	
+-	zd	zd	
+demogrāfiskie	armpnyp	armpnyp	armpvyp	
+faktori	ncmpn1	ncmpn1	ncmpv1	
+,	zc	zc	
+sociālie	armpnyp	afmpnyp	armpnyp	afmpvyp	armpvyp	
+faktori	ncmpn1	ncmpn1	ncmpv1	
+un	ccs	ccs	
+ekonomiskie	afmpnyp	afmpnyp	afmpnyp	afmpvyp	afmpvyp	
+faktori	ncmpn1	ncmpn1	ncmpv1	
+(	zb	zb	
+sk.	y	y	
+5.	xo	xo	
+att.	y	y	
+)	zb	zb	
+.	zs	zs	
+<s>
+Pie	sppdy	sppdy	spsgy	
+sociālajiem	armpdyp	afmpdyp	armpdyp	
+faktoriem	ncmpd1	ncmpd1	
+pieder	vmnipi330an	vmnipi330an	
+arī	qs	ccs	qs	
+skolotāja	ncmsg1	ncmsg1	ncfsn4	
+prestižs	ncmsn1	ncmsn1	ncmsv1	
+sabiedrībā	ncfsl4	ncfsl4	
+,	zc	zc	
+kas	pr000nn	pq000nn	pr000nn	pi000nn	
+vai nu	ccd	ccd	qc	
+sekmē	vmnipt230an	vmnipt22san	vmnipt230an	vmnm0t22san	
+,	zc	zc	
+vai	ccd	css	ccs	ccr	ccd	qs	
+kavē	vmnipt230an	vmnipt22san	vmnipt230an	vmnm0t22san	
+studenta	ncmsg1	ncmsg1	
+vēlmi	ncfsa5	ncfsa5	
+strādāt	vmnn0t2000n	vmnn0t2000n	
+izglītības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+iestādē	ncfsl5	ncfsl5	
+pēc	spsgy	sppdy	spsgy	stpgy	stsgy	
+augstskolas	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+beigšanas	ncfsg4	ncfsg4	ncfsg4	ncfpn4	ncfpn4	ncfpa4	ncfpa4	ncfpv4	ncfpv4	
+,	zc	zc	
+kā arī	ccd	ccd	ccc	
+sociālās	arfsgyp	affplnp	arfplnp	affsgyp	arfsgyp	affpnyp	arfpnyp	affpayp	arfpayp	affpvyp	arfpvyp	
+drošības	ncfsg4	ncfsg4	ncfpn4	ncfpa4	ncfpv4	
+sajūta	ncfsn4	ncfsn4	ncfsv4	
+,	zc	zc	
+strādājot	vmnpu000000	vmnrpt200an	vmnpu000000	
+skolā	ncfsl4	ncfsl4	
+.	zs	zs	
