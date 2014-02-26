@@ -94,10 +94,38 @@ namespace Latvian.Tagging.Corpora
                         if (values.Skip(1).Contains("N/A"))
                             ignore = true;
 
+                        Tag correctTag = null;
+                        Tag[] possibleTags = null;
+
+                        if (values.Length == 3 || (values.Length == 4 && values[3][0] == 'm'))
+                        {
+                            string msd = values[1];
+                            string lemma = values[2];
+                            lv.semti.morphology.attributes.AttributeValues attrs = lv.semti.morphology.analyzer.MarkupConverter.fromKamolsMarkup(msd);
+                            attrs.removeNonlexicalAttributes();
+                            msd = lv.semti.morphology.analyzer.MarkupConverter.toKamolsMarkup(attrs);
+                            if (msd.Length == 0) msd = "-";
+
+                            correctTag = new Latvian.Morphology.LuMiiTag(msd, lemma);
+                            possibleTags = new[] { correctTag };
+                        }
+                        else
+                        {
+                            possibleTags = values.Skip(1).Select(msd =>
+                            {
+                                lv.semti.morphology.attributes.AttributeValues attrs = lv.semti.morphology.analyzer.MarkupConverter.fromKamolsMarkup(msd);
+                                attrs.removeNonlexicalAttributes();
+                                msd = lv.semti.morphology.analyzer.MarkupConverter.toKamolsMarkup(attrs);
+                                if (msd.Length == 0) msd = "-";
+                                return new Latvian.Morphology.LuMiiTag(msd, null);
+                            }).Distinct().ToArray();
+                            correctTag = possibleTags[0];
+                        }
+
                         sentence.Add(new Token(
                             token: values[0],
-                            possibleTags: values.Skip(1).Distinct().OrderBy(t => t).Select(t => new Tag(t)).ToArray(),
-                            correctTag: new Tag(values[1]),
+                            possibleTags: possibleTags,
+                            correctTag: correctTag,
                             sentence: sentence));
                     }
                 }

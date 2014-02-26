@@ -36,6 +36,10 @@ namespace Latvian.Tests.Tagging
         private const string Morpho2Test = "Latvian.LuMii.Tests.Tagging.Resources.Morpho2Test.txt";
         private const string TaggerTrain = "Latvian.LuMii.Tests.Tagging.Resources.TaggerTrain.txt";
         private const string TaggerTest = "Latvian.LuMii.Tests.Tagging.Resources.TaggerTest.txt";
+        private const string Tagger2Train = "Latvian.LuMii.Tests.Tagging.Resources.Tagger2Train.txt";
+        private const string Tagger2Test = "Latvian.LuMii.Tests.Tagging.Resources.Tagger2Test.txt";
+        private const string Tagger3Train = "Latvian.LuMii.Tests.Tagging.Resources.Tagger3Train.txt";
+        private const string Tagger3Test = "Latvian.LuMii.Tests.Tagging.Resources.Tagger3Test.txt";
 
         private static readonly string[] ModelLatestData = new[] { Morpho2Train, Morpho2Test };
 
@@ -97,6 +101,18 @@ namespace Latvian.Tests.Tagging
         public void Split_Tagger()
         {
             Split("tagger", 0.92, LoadUnanalyzedCorpus(TaggerTrain), LoadUnanalyzedCorpus(TaggerTest));
+        }
+
+        [Test]
+        public void Split_Tagger2()
+        {
+            Split("tagger2", 0.92, LoadAnalyzedCorpus(Tagger2Train), LoadAnalyzedCorpus(Tagger2Test));
+        }
+
+        [Test]
+        public void Split_Tagger3()
+        {
+            Split("tagger3", 0.92, LoadUnanalyzedCorpus(Tagger3Train), LoadUnanalyzedCorpus(Tagger3Test));
         }
 
         public void Split(string name, double minAccuracy, Sentence[] train, Sentence[] test)
@@ -273,6 +289,7 @@ namespace Latvian.Tests.Tagging
 
             List<Sentence> goodSentences = new List<Sentence>();
             List<Sentence> ignoredSentences = new List<Sentence>();
+            List<Token> ignoredTokens = new List<Token>();
 
             Stopwatch watch = new Stopwatch();
             watch.Start();
@@ -284,15 +301,15 @@ namespace Latvian.Tests.Tagging
                 foreach (Token token in sentence)
                 {
                     Tag[] possibleTags = morphology.Analyze(token.TextTrueCase).ToArray();
-                    Token analyzedToken = new Token(token.TextTrueCase, possibleTags, token.CorrectTag, analyzedSentence);
                     
-                    /* if (!token.PossibleTags.Any(t => t.Equals(token.CorrectTag)))
+                    if (!possibleTags.Any(t => t.Equals(token.CorrectTag)))
                     {
                         ignore = true;
                         break;
                     }
-                    
-                    Assert.Contains(token.CorrectTag, token.PossibleTags); */
+
+                    Token analyzedToken = new Token(token.TextTrueCase, possibleTags, token.CorrectTag, analyzedSentence);
+                    analyzedSentence.Add(analyzedToken);
                 }
 
                 if (!ignore)

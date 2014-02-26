@@ -65,9 +65,11 @@
     <EmbeddedResource Include="Morphology\Resources\Lexicon.xml.gz" />
     <EmbeddedResource Include="Morphology\Resources\Lexicon_core.xml.gz" />
     <EmbeddedResource Include="Morphology\Resources\Lexicon_valerijs.xml.gz" />
+    <EmbeddedResource Include="Morphology\Resources\Lexicon_vietas.xml.gz" />
     <EmbeddedResource Include="Morphology\Resources\Lexicon_onomastica.xml.gz" />
     <None Include="Morphology\Resources\Lexicon.xml" />
     <None Include="Morphology\Resources\Lexicon_core.xml" />
+    <None Include="Morphology\Resources\Lexicon_vietas.xml" />
     <None Include="Morphology\Resources\Lexicon_valerijs.xml" />
     <None Include="Morphology\Resources\Lexicon_onomastica.xml" />
   </ItemGroup>

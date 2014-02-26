@@ -30,30 +30,34 @@ namespace Latvian.Morphology
 
         public LuMiiMorphology()
         {
-            using (Stream lexicon = new GZipStream(typeof(LuMiiMorphology).Assembly.GetManifestResourceStream("Latvian.LuMii.Morphology.Resources.Lexicon.xml.gz"), CompressionMode.Decompress))
-            using (Stream lexiconCore = new GZipStream(typeof(LuMiiMorphology).Assembly.GetManifestResourceStream("Latvian.LuMii.Morphology.Resources.Lexicon_core.xml.gz"), CompressionMode.Decompress))
-            using (Stream lexiconValerijs = new GZipStream(typeof(LuMiiMorphology).Assembly.GetManifestResourceStream("Latvian.LuMii.Morphology.Resources.Lexicon_valerijs.xml.gz"), CompressionMode.Decompress))
-            //using (Stream lexiconOnomastica = new GZipStream(typeof(LuMiiMorphology).Assembly.GetManifestResourceStream("Latvian.LuMii.Morphology.Resources.Lexicon_onomastica.xml.gz"), CompressionMode.Decompress))
-            using (Stream exceptions = typeof(LuMiiMorphology).Assembly.GetManifestResourceStream("Latvian.LuMii.Morphology.Resources.Exceptions.txt"))
-            using (InputStreamWrapper lexiconWrapper = new InputStreamWrapper(lexicon))
-            using (InputStreamWrapper lexiconCoreWrapper = new InputStreamWrapper(lexiconCore))
-            using (InputStreamWrapper lexiconValerijsWrapper = new InputStreamWrapper(lexiconValerijs))
-            //using (InputStreamWrapper lexiconOnomasticaWrapper = new InputStreamWrapper(lexiconOnomastica))
-            using (InputStreamWrapper exceptionsWrapper = new InputStreamWrapper(exceptions))
+            using (InputStreamWrapper lexicon = LoadResource("Latvian.LuMii.Morphology.Resources.Lexicon.xml.gz"))
+            using (InputStreamWrapper lexiconCore = LoadResource("Latvian.LuMii.Morphology.Resources.Lexicon_core.xml.gz"))
+            using (InputStreamWrapper lexiconValerijs = LoadResource("Latvian.LuMii.Morphology.Resources.Lexicon_valerijs.xml.gz"))
+            using (InputStreamWrapper lexiconVietas = LoadResource("Latvian.LuMii.Morphology.Resources.Lexicon_vietas.xml.gz"))
+            //using (InputStreamWrapper lexiconOnomasticaWrapper = LoadResource("Latvian.LuMii.Morphology.Resources.Lexicon_onomastica.xml.gz"))
+            using (InputStreamWrapper exceptions = LoadResource("Latvian.LuMii.Morphology.Resources.Exceptions.txt", compressed: false))
             {
-                analyzer = new Analyzer(lexiconWrapper, new[] { lexiconCoreWrapper, lexiconValerijsWrapper, /* lexiconOnomasticaWrapper */ }, exceptionsWrapper);
-                analyzer.enablePrefixes = true;
-                analyzer.enableDiminutive = true;
+                analyzer = new Analyzer(lexicon, new[] { lexiconCore, lexiconValerijs, lexiconVietas, /* lexiconOnomastica */ }, exceptions);
                 analyzer.enableVocative = true;
-                //analyzer.enableGuessing = true;
-                //analyzer.enableAllGuesses = true;
+                analyzer.enableGuessing = true;
+                analyzer.enablePrefixes = true;
+                analyzer.enableAllGuesses = true;
             }
+        }
+
+        private static InputStreamWrapper LoadResource(string name, bool compressed = true)
+        {
+            Stream resource = typeof(LuMiiMorphology).Assembly.GetManifestResourceStream(name);
+            Stream stream = compressed ? new GZipStream(resource, CompressionMode.Decompress) : resource;
+            InputStreamWrapper wrapper = new InputStreamWrapper(stream);
+            return wrapper;
         }
 
         public IEnumerable<LuMiiTag> Analyze(string word)
         {
             foreach (AttributeValues form in analyzer.analyze(word).wordforms)
             {
+                form.removeNonlexicalAttributes();
                 yield return new LuMiiTag(MarkupConverter.toKamolsMarkup(form), form.getValue(AttributeNames.i_Lemma));
             }
         }

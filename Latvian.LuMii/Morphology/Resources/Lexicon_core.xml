@@ -917,6 +917,9 @@
     <Lexeme ID="50341" Stem1="silvestr">
       <Attributes Lietvārda_tips="Īpašvārds" Pamatforma="Silvestrs" Avots="Onomastica - cilvēkvārdi"/>
     </Lexeme>
+    <Lexeme Stem1="jēkab">
+      <Attributes Lietvārda_tips="Īpašvārds" Pamatforma="Jēkabs"/>
+    </Lexeme>
     <Lexeme ID="50655" Stem1="tals">
       <Attributes Lietvārda_tips="Īpašvārds" Skaitlis_2="Daudzskaitlinieks" Pamatforma="Talsi"/>
     </Lexeme>
@@ -1104,7 +1107,7 @@
       <Attributes Lietvārda_tips="Sugas vārds" Pamatforma="marsietis"/>
     </Lexeme>
     <Lexeme ID="27243" Stem1="pēter">
-      <Attributes Lietvārda_tips="Īpašvārds" Pamatforma="pēteris"/>
+      <Attributes Lietvārda_tips="Īpašvārds" Pamatforma="Pēteris"/>
     </Lexeme>
     <Lexeme ID="27273" Stem1="pundurpapagailīt">
       <Attributes Lietvārda_tips="Sugas vārds" Pamatforma="pundurpapagailītis"/>
@@ -1390,6 +1393,9 @@
     </Lexeme>
     <Lexeme ID="50659" Stem1="uģ">
       <Attributes Lietvārda_tips="Īpašvārds" Pamatforma="Uģis"/>
+    </Lexeme>
+    <Lexeme Stem1="lud">
+      <Attributes Lietvārda_tips="Īpašvārds" Pamatforma="Ludis"/>
     </Lexeme>
     <Lexeme ID="50660" Stem1="ēķ">
       <Attributes Lietvārda_tips="Īpašvārds" Pamatforma="Ēķis"/>
@@ -3232,6 +3238,9 @@
     </Lexeme>
     <Lexeme ID="50338" Stem1="ilgon">
       <Attributes Lietvārda_tips="Īpašvārds" Pamatforma="Ilgona" Avots="Onomastica - cilvēkvārdi"/>
+    </Lexeme>
+    <Lexeme Stem1="sudrab">
+      <Attributes Lietvārda_tips="Īpašvārds" Pamatforma="Sudraba"/>
     </Lexeme>
     <Lexeme ID="50736" Stem1="čur">
       <Attributes Pamatforma="čura"/>
@@ -6114,7 +6123,7 @@
       <Attributes Transitivitāte="Pārejošs" Darbības_vārda_tips="Patstāvīgs darbības vārds" Pamatforma="aiziet"/>
     </Lexeme>
     <Lexeme ID="50817" Stem1="pārie" Stem2="pārej" Stem3="pārgāj">
-      <Attributes Transitivitāte="Pārejošs" Darbības_vārda_tips="Patstāvīgs darbības vārds" Pamatforma="aiziet"/>
+      <Attributes Transitivitāte="Pārejošs" Darbības_vārda_tips="Patstāvīgs darbības vārds" Pamatforma="pāriet"/>
     </Lexeme>
     <Lexeme ID="28758" Stem1="slēg" Stem2="slēdz" Stem3="slēdz">
       <Attributes Transitivitāte="Pārejošs" Darbības_vārda_tips="Patstāvīgs darbības vārds" Pamatforma="slēgt"/>
@@ -7839,7 +7848,7 @@
       <Attributes Darbības_vārda_tips="Patstāvīgs darbības vārds" Pamatforma="kāpties"/>
     </Lexeme>    
     <Lexeme ID="50869" Stem1="atkāp" Stem2="atkāpj" Stem3="atkāp">
-      <Attributes Darbības_vārda_tips="Patstāvīgs darbības vārds" Pamatforma="kāpties"/>
+      <Attributes Darbības_vārda_tips="Patstāvīgs darbības vārds" Pamatforma="atkāpties"/>
     </Lexeme>    
   </Paradigm>
   <Paradigm Stems="1" ID="19" LemmaEnding="955" Description="Darbības vārdi 2. konjugācija atgriezeniski">
@@ -12644,6 +12653,9 @@
     <Lexeme ID="27400" Stem1="lai gan">
       <Attributes Saikļa_tips="Pakārtojuma" Uzbūve="Salikts" Pamatforma="lai gan"/>
     </Lexeme>
+    <Lexeme ID="50876" Stem1="gan arī">
+      <Attributes Saikļa_tips="Pakārtojuma" Uzbūve="Salikts" Pamatforma="gan arī"/>
+    </Lexeme>
     <Lexeme ID="27401" Stem1="pie tam">
       <Attributes Saikļa_tips="Pakārtojuma" Uzbūve="Salikts" Pamatforma="pie tam"/>
     </Lexeme>
@@ -13625,6 +13637,7 @@
     <Lexeme ID="50677" Stem1="kult.">
       <Attributes Vārdšķira="Saīsinājums" Pamatforma="kult."/>
     </Lexeme>
+    <Lexeme Stem1="fak."> <Attributes Vārdšķira="Saīsinājums" Pamatforma="fak."/> </Lexeme>
     <Lexeme ID="50679" Stem1="izglīt.">
       <Attributes Vārdšķira="Saīsinājums" Pamatforma="izglīt."/>
     </Lexeme>
@@ -13700,6 +13713,12 @@
     <Lexeme ID="50726" Stem1="LLU">
       <Attributes Vārdšķira="Saīsinājums" Pamatforma="LLU"/>
     </Lexeme>
+    <Lexeme Stem1="LLA"> <Attributes Vārdšķira="Saīsinājums" Pamatforma="LLA"/> </Lexeme>
+    <Lexeme Stem1="LVA"> <Attributes Vārdšķira="Saīsinājums" Pamatforma="LVA"/> </Lexeme>
+    <Lexeme Stem1="LVS"> <Attributes Vārdšķira="Saīsinājums" Pamatforma="LVS"/> </Lexeme>
+    <Lexeme Stem1="RPIS"> <Attributes Vārdšķira="Saīsinājums" Pamatforma="RPIS"/> </Lexeme>
+    <Lexeme Stem1="DR"> <Attributes Vārdšķira="Saīsinājums" Pamatforma="DR"/> </Lexeme>
+    <Lexeme Stem1="USA"> <Attributes Vārdšķira="Saīsinājums" Pamatforma="USA"/> </Lexeme>
     <Lexeme ID="50727" Stem1="LZP">
       <Attributes Vārdšķira="Saīsinājums" Pamatforma="LZP"/>
     </Lexeme>

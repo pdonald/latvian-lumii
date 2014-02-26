@@ -92,6 +92,10 @@
   <ItemGroup>
     <Compile Include="Tokenization\LuMiiTokenizerTests.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Tagging\Resources\Tagger3Test.txt" />
+    <EmbeddedResource Include="Tagging\Resources\Tagger3Train.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="BeforeBuild">
     <Copy SourceFiles="$(SolutionDir)\LU MII Morphology\morphology\src\main\resources\train.txt" DestinationFiles="$(MSBuildProjectDirectory)\Tagging\Resources\MorphoTrain.txt" Condition="!Exists('$(MSBuildProjectDirectory)\Tagging\Resources\MorphoTrain.txt')" />
