@@ -15,8 +15,13 @@
 
 namespace Latvian.Morphology
 {
-    public class LuMiiTag : Latvian.Tagging.TagWithInformationalLemma
+    public class LuMiiTag : Latvian.Tagging.Tag
     {
+        public LuMiiTag(string value)
+            : base(value)
+        {
+        }
+
         public LuMiiTag(string msd, string lemma)
             : base(msd, lemma)
         {

@@ -74,7 +74,6 @@
   <ItemGroup>
     <Compile Include="Tokenization\LuMiiTokenizer.cs" />
     <Compile Include="Tokenization\LuMiiTokens.cs" />
-
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Tagging\LuMiiCorpus.cs" />

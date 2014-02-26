@@ -118,18 +118,26 @@ namespace Latvian.Tests.Tagging
             tagTimer.Stop();
 
             Token[] tokens = test.SelectMany(t => t).ToArray();
-            double accuracy = (double)tokens.Count(t => t.IsTagCorrect) / tokens.Count();
+            double accuracyTag = (double)tokens.Count(t => t.IsTagCorrect) / tokens.Count();
+            double accuracyMsd = (double)tokens.Count(t => t.IsMsdCorrect) / tokens.Count();
+            double accuracyMsdLemma = (double)tokens.Count(t => t.IsMsdCorrect && t.IsLemmaCorrect) / tokens.Count();
+            double accuracyLemma = (double)tokens.Count(t => t.IsLemmaCorrect) / tokens.Count();
+
+            Token[] lemmaIncorrect = tokens.Where(t => t.IsMsdCorrect && !t.IsLemmaCorrect).ToArray();
 
             Debug.WriteLine("Split validation for " + name);
             Debug.WriteLine("Train: {0} sentences, {1} tokens", train.Length, train.SelectMany(t => t).Count());
             Debug.WriteLine("Test: {0} sentences, {1} tokens", test.Length, test.SelectMany(t => t).Count());
-            Debug.WriteLine("Accuracy: {0:0.00}%", accuracy * 100);
+            Debug.WriteLine("Accuracy tag: {0:0.00}%", accuracyTag * 100);
+            Debug.WriteLine("Accuracy msd: {0:0.00}%", accuracyMsd * 100);
+            Debug.WriteLine("Accuracy msd + lemma: {0:0.00}%", accuracyMsdLemma * 100);
+            Debug.WriteLine("Accuracy lemma: {0:0.00}%", accuracyLemma * 100);
             Debug.WriteLine("Train duration: {0} or {1:0} ms", trainTimer.Elapsed, trainTimer.ElapsedMilliseconds);
             Debug.WriteLine("Tag duration: {0} or {1:0} ms", tagTimer.Elapsed, tagTimer.ElapsedMilliseconds);
             Debug.WriteLine("Tag speed: {0:0.00} tokens/s", tokens.Length / tagTimer.Elapsed.TotalSeconds);
 
-            Assert.Greater(accuracy, minAccuracy);
-            Assert.Less(accuracy, 0.97);
+            Assert.Greater(accuracyMsdLemma, minAccuracy);
+            Assert.Less(accuracyMsdLemma, 0.97);
         }
 
         [Test]
@@ -263,33 +271,37 @@ namespace Latvian.Tests.Tagging
             using (Stream stream = this.GetType().Assembly.GetManifestResourceStream(resourceName))
                 sentences = corpus.Load(stream).ToArray();
 
-            int total = 0;
-            int wrong = 0;
-
             List<Sentence> goodSentences = new List<Sentence>();
+            List<Sentence> ignoredSentences = new List<Sentence>();
 
             Stopwatch watch = new Stopwatch();
             watch.Start();
             foreach (Sentence sentence in sentences)
             {
                 bool ignore = false;
+                Sentence analyzedSentence = new Sentence();
 
                 foreach (Token token in sentence)
                 {
-                    token.PossibleTags = morphology.Analyze(token.Text).ToArray();
+                    Tag[] possibleTags = morphology.Analyze(token.TextTrueCase).ToArray();
+                    Token analyzedToken = new Token(token.TextTrueCase, possibleTags, token.CorrectTag, analyzedSentence);
                     
-                    if (!token.PossibleTags.Any(t => t.Equals(token.CorrectTag)))
+                    /* if (!token.PossibleTags.Any(t => t.Equals(token.CorrectTag)))
                     {
                         ignore = true;
                         break;
                     }
                     
-                    Assert.Contains(token.CorrectTag, token.PossibleTags);
+                    Assert.Contains(token.CorrectTag, token.PossibleTags); */
                 }
 
                 if (!ignore)
                 {
-                    goodSentences.Add(sentence);
+                    goodSentences.Add(analyzedSentence);
+                }
+                else
+                {
+                    ignoredSentences.Add(analyzedSentence);
                 }
             }
             watch.Stop();
