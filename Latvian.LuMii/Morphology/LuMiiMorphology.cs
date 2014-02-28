@@ -35,7 +35,7 @@ namespace Latvian.Morphology
             using (InputStreamWrapper lexiconValerijs = LoadResource("Latvian.LuMii.Morphology.Resources.Lexicon_valerijs.xml.gz"))
             using (InputStreamWrapper lexiconVietas = LoadResource("Latvian.LuMii.Morphology.Resources.Lexicon_vietas.xml.gz"))
             //using (InputStreamWrapper lexiconOnomasticaWrapper = LoadResource("Latvian.LuMii.Morphology.Resources.Lexicon_onomastica.xml.gz"))
-            using (InputStreamWrapper exceptions = LoadResource("Latvian.LuMii.Morphology.Resources.Exceptions.txt", compressed: false))
+            using (InputStreamWrapper exceptions = LoadResource("Latvian.LuMii.Morphology.Resources.Exceptions.txt"))
             {
                 analyzer = new Analyzer(lexicon, new[] { lexiconCore, lexiconValerijs, lexiconVietas, /* lexiconOnomastica */ }, exceptions);
                 analyzer.enableVocative = true;
@@ -45,10 +45,10 @@ namespace Latvian.Morphology
             }
         }
 
-        private static InputStreamWrapper LoadResource(string name, bool compressed = true)
+        private static InputStreamWrapper LoadResource(string name)
         {
             Stream resource = typeof(LuMiiMorphology).Assembly.GetManifestResourceStream(name);
-            Stream stream = compressed ? new GZipStream(resource, CompressionMode.Decompress) : resource;
+            Stream stream = name.EndsWith(".gz") ? new GZipStream(resource, CompressionMode.Decompress) : resource;
             InputStreamWrapper wrapper = new InputStreamWrapper(stream);
             return wrapper;
         }

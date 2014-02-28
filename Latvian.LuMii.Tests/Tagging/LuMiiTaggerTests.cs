@@ -30,35 +30,32 @@ namespace Latvian.Tests.Tagging
     [TestFixture]
     public class LuMiiTaggerTests
     {
-        private const string MorphoTrain = "Latvian.LuMii.Tests.Tagging.Resources.MorphoTrain.txt";
-        private const string MorphoTest = "Latvian.LuMii.Tests.Tagging.Resources.MorphoTest.txt";
-        private const string Morpho2Train = "Latvian.LuMii.Tests.Tagging.Resources.Morpho2Train.txt";
-        private const string Morpho2Test = "Latvian.LuMii.Tests.Tagging.Resources.Morpho2Test.txt";
-        private const string TaggerTrain = "Latvian.LuMii.Tests.Tagging.Resources.TaggerTrain.txt";
-        private const string TaggerTest = "Latvian.LuMii.Tests.Tagging.Resources.TaggerTest.txt";
-        private const string Tagger2Train = "Latvian.LuMii.Tests.Tagging.Resources.Tagger2Train.txt";
-        private const string Tagger2Test = "Latvian.LuMii.Tests.Tagging.Resources.Tagger2Test.txt";
-        private const string Tagger3Train = "Latvian.LuMii.Tests.Tagging.Resources.Tagger3Train.txt";
-        private const string Tagger3Test = "Latvian.LuMii.Tests.Tagging.Resources.Tagger3Test.txt";
+        private const string Analyzed1Train = "Latvian.LuMii.Tests.Tagging.Resources.Analyzed1Train.txt";
+        private const string Analyzed1Test  = "Latvian.LuMii.Tests.Tagging.Resources.Analyzed1Test.txt";
+        private const string Analyzed2Train = "Latvian.LuMii.Tests.Tagging.Resources.Analyzed2Train.txt";
+        private const string Analyzed2Test  = "Latvian.LuMii.Tests.Tagging.Resources.Analyzed2Test.txt";
+        private const string LVTaggerTrain  = "Latvian.LuMii.Tests.Tagging.Resources.LVTaggerTrain.txt";
+        private const string LVTaggerTest   = "Latvian.LuMii.Tests.Tagging.Resources.LVTaggerTest.txt";
+        private const string LVTaggerDev    = "Latvian.LuMii.Tests.Tagging.Resources.LVTaggerDev.txt";
 
-        private static readonly string[] ModelLatestData = new[] { Morpho2Train, Morpho2Test };
+        private static readonly string[] ModelLatestData = new[] { Analyzed2Train, Analyzed2Test };
 
         [Test]
         public void CrossValidation_10Fold_Morpho()
         {
-            CrossValidation("morpho", 0.93, 10, LoadAnalyzedCorpus(MorphoTrain), LoadAnalyzedCorpus(MorphoTest));
+            CrossValidation("morpho", 0.93, 10, LoadAnalyzedCorpus(Analyzed1Train), LoadAnalyzedCorpus(Analyzed1Test));
         }
 
         [Test]
         public void CrossValidation_10Fold_Morpho2()
         {
-            CrossValidation("morpho2", 0.93, 10, LoadAnalyzedCorpus(Morpho2Train), LoadAnalyzedCorpus(Morpho2Test));
+            CrossValidation("morpho2", 0.93, 10, LoadAnalyzedCorpus(Analyzed2Train), LoadAnalyzedCorpus(Analyzed2Test));
         }
 
         [Test]
         public void CrossValidation_10Fold_Tagger()
         {
-            CrossValidation("tagger data", 0.92, 10, LoadUnanalyzedCorpus(TaggerTrain), LoadUnanalyzedCorpus(TaggerTest));
+            CrossValidation("tagger data", 0.92, 10, LoadUnanalyzedCorpus(LVTaggerTrain), LoadUnanalyzedCorpus(LVTaggerTest));
         }
 
         public void CrossValidation(string name, double minAccuracy, int folds, params IEnumerable<Sentence>[] sentences)
@@ -86,33 +83,27 @@ namespace Latvian.Tests.Tagging
         }
 
         [Test]
-        public void Split_Morpho()
+        public void Analyzed1_TrainTest()
         {
-            Split("morpho", 0.93, LoadAnalyzedCorpus(MorphoTrain), LoadAnalyzedCorpus(MorphoTest));
+            Split("analyzed1", 0.93, LoadAnalyzedCorpus(Analyzed1Train), LoadAnalyzedCorpus(Analyzed1Test));
         }
 
         [Test]
-        public void Split_Morpho2()
+        public void Analyzed2_TrainTest()
         {
-            Split("morpho2", 0.93, LoadAnalyzedCorpus(Morpho2Train), LoadAnalyzedCorpus(Morpho2Test));
+            Split("analyzed2", 0.93, LoadAnalyzedCorpus(Analyzed2Train), LoadAnalyzedCorpus(Analyzed2Test));
         }
 
         [Test]
-        public void Split_Tagger()
+        public void LVTagger_TrainTest()
         {
-            Split("tagger", 0.92, LoadUnanalyzedCorpus(TaggerTrain), LoadUnanalyzedCorpus(TaggerTest));
+            Split("lvtagger train/test", 0.92, LoadUnanalyzedCorpus(LVTaggerTrain), LoadUnanalyzedCorpus(LVTaggerTest));
         }
 
         [Test]
-        public void Split_Tagger2()
+        public void LVTagger_TrainTest_ValidOnly()
         {
-            Split("tagger2", 0.92, LoadAnalyzedCorpus(Tagger2Train), LoadAnalyzedCorpus(Tagger2Test));
-        }
-
-        [Test]
-        public void Split_Tagger3()
-        {
-            Split("tagger3", 0.92, LoadUnanalyzedCorpus(Tagger3Train), LoadUnanalyzedCorpus(Tagger3Test));
+            Split("lvtagger train/test (correct possible tags only)", 0.92, LoadUnanalyzedCorpus(LVTaggerTrain, true), LoadUnanalyzedCorpus(LVTaggerTest, true));
         }
 
         public void Split(string name, double minAccuracy, Sentence[] train, Sentence[] test)
@@ -159,8 +150,8 @@ namespace Latvian.Tests.Tagging
         [Test]
         public void LoadSave()
         {
-            string trainResource = Morpho2Train;
-            string testResource = Morpho2Test;
+            string trainResource = Analyzed2Train;
+            string testResource = Analyzed2Test;
             double minAccuracy = 0.93;
 
             Sentence[] train = LoadAnalyzedCorpus(trainResource);
@@ -216,8 +207,8 @@ namespace Latvian.Tests.Tagging
         [Test]
         public void TagSpeed()
         {
-            string trainResource = Morpho2Train;
-            string testResource = Morpho2Test;
+            string trainResource = Analyzed2Train;
+            string testResource = Analyzed2Test;
             int maxTokenCount = 1000000;
             double minAccuracy = 0.93;
 
@@ -278,7 +269,7 @@ namespace Latvian.Tests.Tagging
                 return corpus.Load(stream).ToArray();
         }
 
-        private Sentence[] LoadUnanalyzedCorpus(string resourceName)
+        private Sentence[] LoadUnanalyzedCorpus(string resourceName, bool ignoreIncorrect = false)
         {
             LuMiiCorpus corpus = new LuMiiCorpus();
             LuMiiMorphology morphology = new LuMiiMorphology(); 
@@ -303,16 +294,13 @@ namespace Latvian.Tests.Tagging
                     Tag[] possibleTags = morphology.Analyze(token.TextTrueCase).ToArray();
                     
                     if (!possibleTags.Any(t => t.Equals(token.CorrectTag)))
-                    {
                         ignore = true;
-                        break;
-                    }
 
                     Token analyzedToken = new Token(token.TextTrueCase, possibleTags, token.CorrectTag, analyzedSentence);
                     analyzedSentence.Add(analyzedToken);
                 }
 
-                if (!ignore)
+                if (!ignoreIncorrect || !ignore)
                 {
                     goodSentences.Add(analyzedSentence);
                 }
